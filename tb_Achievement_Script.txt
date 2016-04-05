@@ -106,46 +106,46 @@ Incapacitated 200 times.
 Stand up! I can still stand up--!!
 Incapacitated 400 times.
 
-わざとじゃないよ？
+It wasn't my intention.
 Incapacitated 800 times.
 
-敵を倒すにはまず自分からってね
+To defeat an enemy, first overcome yourself.
 Incapacitated 1200 times.
 
-倒れたって良いんだよ
+It's okay to fall down.
 Incapacitated 1600 times.
 
-倒れてない。この星を抱いてるだけ
+I haven't fallen. I am simply hugging this planet.
 Incapacitated 2000 times.
 
-大したことないね？
+That wasn't hard!
 Defeat 500 enemies.
 
-出させてくれよ…本気を
+Show me... Your true self.
 Defeat 1000 enemies.
 
-足りない…足りない！
+More...I need more...!
 Defeat 2000 enemies.
 
-これくらいは余裕でしょ？
+Not that bad yet, right?
 Defeat 5000 enemies.
 
-ご愁傷様でした
+It's your funeral!
 Defeat 10000 enemies.
 
-通過点に過ぎない
+I am only passing by
 Defeat 20000 enemies.
 
-体が勝手に…
+My body is moving by itself...
 Defeat 50000 enemies.
 
-もっともっともっと！！
+More more more!!
 Defeat 100000 enemies.
 
-邪魔する者は全て排除！
+Exterminate all that blocks the path!
 Defeat 200000 enemies.
 
-全てを制す者…ここに見参！
+The one who gives judgement... is now here!
 Defeat 500000 enemies.
 
 手始めに…
