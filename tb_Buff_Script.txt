@@ -1,107 +1,107 @@
 再生
-持続的にHPとSGが回復する。
+HP and SG are consistently restored.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP回復
+HP Recovery
 
 加護
-ダメージを無効化する。
+Damage is nullified.
 Icon/Buff/Icon_Common_Buff_Immun
-無敵
+Invincible
 
 加護
-ダメージを無効化する。
+Damage is nullified.
 Icon/Buff/Icon_Common_Buff_Immun
-無敵
+Invincible
 
 顧客特典
-攻撃力と防御度がそれぞれ20%増加する。
+Attack and Defense are increased by 20%.
 Icon/Buff/Icon_Common_Buff_Reg
-強化
+Strengthen
 
 ブレイカー
-3秒間、敵のスーパーアーマーを無視する。
+For 3 seconds, ignore super armor when attacking.
 Icon/Buff/Icon_Common_Buff_SABreak
 0
 
 再生
-HPを即時に5%回復する。
+Insantly recover 5% HP.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 0
 
 活力
-SGを即時に20%回復する。
+Insantly recover 20% HP.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 0
 
 増強
-10秒間、攻撃力が10%増加する。
+For 10 seconds, attack power increases by 10%.
 Icon/Buff/Icon_Common_Buff_ATK
 0
 
 弾性
-10秒間、受けるダメージ量が10%減少する。
+For 10 seconds, reduce incoming damage by 10%.
 Icon/Buff/Icon_Common_Buff_Def
 0
 
 ラッシュの時間
-10秒間、移動速度が5%増加する。
+For 10 seconds, increase movement speed by 5%.
 Icon/Buff/Icon_Common_Buff_MSR
 0
 
 俊敏な手つき
-10秒間、攻撃速度が5%増加する。
+For 10 seconds, attack speed is increased by 5%.
 Icon/Buff/Icon_Common_Buff_ASR
 0
 
 スキあり
-10秒間、クリティカル率が10%増加する。
+For 10 seconds, critical hit rate is increased by 10%.
 Icon/Buff/Icon_Common_Buff_CRI
 0
 
 スーパーアーマー
-5秒間、スーパーアーマー効果を受ける。
+For 5 seconds, the user gains super armor.
 Icon/Buff/Icon_Common_Buff_SArmor
 0
 
 フルチャージ
-スタミナが全回復する。
+Stamina is fully recovered.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 0
 
 Fever
-3秒間、ダメージを受けない。
+For 3 seconds, damage is nullified.
 Icon/Buff/Icon_Common_Buff_Immun
-無敵
+Invincible
 
 Fever
-10秒間、移動速度と攻撃速度が5%増加する。
+For 10 seconds, movement speed and attack speed are increased by 5%.
 Icon/Buff/Icon_Common_Buff_Reg
-強化
+Invincible
 
 Fever
-SGを全回復する。
+Recover all SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
-SG回復
+SG Recovery
 
 Fever
-10秒間、クールタイムが50%減少、スキルSGを使用しない。
+For 10 seconds, halve cooldowns and don't consume SG.
 Icon/Buff/Icon_Common_Buff_SG_Recovery
 クールタイム減少
 
 加護
-HPを毎秒10%ずつ回復する。
+HP is recovered by 10% per second.
 Icon/Buff/Icon_Common_Buff_HP_Recovery
-HP回復
+HP Recovery
 
 ガードクラッシュ
-10秒間、攻撃力が10%増加する。
+For 10 seconds, attack power is increased by 10%.
 Icon/Buff/Icon_Common_Buff_ATK
-攻撃力増加
+Increased attack power
 
 防御モード
-10秒間、防御度が10%増加する。
+For 10 seconds, defense is increased by 10%.
 Icon/Buff/Icon_Common_Buff_Def
-防御度増加
+Increase defense
 
 素早い手さばき
 10秒間、攻撃速度が10%増加する。
