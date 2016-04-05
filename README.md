@@ -11,5 +11,5 @@ Simply replace the Japanese text with English text.
 
 Special Thanks to:
   - everyone from discord chat
-  - all tranlators, staff
+  - all translators, staff
   - WRS/x1nixmzeng for helping A LOT with extracting the data, check him out here: http://forum.xentax.com/memberlist.php?mode=viewprofile&u=16084
