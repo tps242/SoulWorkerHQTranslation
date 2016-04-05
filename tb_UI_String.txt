@@ -60,197 +60,197 @@ Select Repair
 
 タイマー三つボタン$$\n$$ $$timer$$秒後中止ボタン。
 
-インベントリ
+Inventory
 
-銀行
+Bank
 
-装備
+Equipment
 
-商店
+Shop
 
-ステータス
+Status
 
-スキル
+Skill
 
-製作
+Crafting
 
 Reinforce
 
-取引
+Trade
 
-称号リスト
+Title List
 
-環境設定
+System Settings
 
-強化
+Enhancements
 
-ブローチ装着
+Equip Brooch
 
-ハル
+Haru
 
-アーウィン
+Erwin
 
-リリー
+Lily
 
-ジン
+Jin
 
-ステラ
+Stella
 
-イリス
+Iris
 
-共通
+Common
 
-一般
+General
 
-エクストラ
+Extra Items
 
-ファッション
+Fashion Items
 
-一般
+General Items
 
-ファッション
+Fashion
 
-武器防具
+Armor
 
-ファッション
+Fashion
 
-アーティファクト
+Artifacts
 
-武器
+Weapons
 
-アクセサリー
+Accessories
 
-ファッション[一般]
+Fashion[General]
 
-ファッション[ハンコイン]
+Fashion[Exclusive]
 
-消費
+Consumables
 
-材料
+Materials
 
-ソウルウェポン
+Soul Weapon
 
-サブウェポン
+Sub-Weapon
 
-ソウルペンダント
+Soul Pendant
 
 ソウルギア
 
-ソウルイヤリング
+Soul Earrings
 
-ソウルリング
+Soul Rings
 
-セット
+Set
 
-頭
+Head
 
-ヘア/頭
+Hair
 
-目
+Eye
 
-口
+Mouth
 
-下着
+Underwear
 
-衣装
+Costume
 
-背
+Back
 
-手
+Hand
 
-脚
+Leg
 
-足
+Leg
 
-回復
+Recovery
 
-バフ
+Buff
 
-デバフ
+Debuff
 
-製作
+Craft
 
-強化
+Enhance
 
-修理
+Repair
 
-再購入
+Repurchase
 
-スキル
+Skill
 
-A.Rカード
+A.R Card
 
-ブレイク
+Discard
 
-その他
+Miscellaneous
 
-ヘッド
+Head
 
-ショルダー
+Shoulder 
 
-ボディ
+Body
 
-レッグ
+Leg 
 
-アサルトファミリア
+Assault Familia
 
-ディフェンスファミリア
+Defensive Familia
 
-ジェスチャー
+Gestures
 
-ソウルウェポン
+Soul Weapon
 
-サブウェポン
+Sub-Weapon
 
-ペルソナカード
+Persona Card
 
-ソウルカートリッジ
+Soul Cartridge
 
-ソウルペンダント
+Soul Pendant
 
 ソウルギア
 
-ソウルイヤリング
+Soul Earrings
 
-ソウルリング
+Soul Rings
 
-ソウルチャーム
+Soul Charms
 
-ホーリーピース
+Holy Piece
 
-ギャラクシーキューブ
+Galaxy Cube
 
-アバター[トップ]
+Avatar[Top]
 
-アバター[頭]
+Avatar[Head]
 
-アバター[目]
+Avatar[Eyes]
 
-アバター[口]
+Avatar[Mouth]
 
-アバター[手]
+Avatar[Hand]
 
-アバター[下着]
+Avatar[Underwear]
 
-アバター[衣装]
+Avatar[Costume]
 
-アバター[背]
+Avatar[Back]
 
-アバター[脚]
+Avatar[Legs]
 
-アバター[足]
+Avatar[Foot]
 
-一般アイテム
+General Items
 
-消費アイテム
+Consumables
 
 クエストアイテム
 
-製作材料
+Quest Items
 
-強化材料
+Materials
 
-特殊アイテム
+Special items
 
 1
 
