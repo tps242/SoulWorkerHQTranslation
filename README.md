@@ -9,7 +9,7 @@ Simply replace the Japanese text with English text.
 
 
 
-SPECIAL THANKS:
+Special Thanks to:
   - everyone from discord chat
   - all tranlators, staff
   - WRS/x1nixmzeng for helping A LOT with extracting the data, check him out here: http://forum.xentax.com/memberlist.php?mode=viewprofile&u=16084
