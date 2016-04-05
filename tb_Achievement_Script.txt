@@ -1,32 +1,32 @@
 Oh, I used it for a trial!
-A consumable is used 20 times.
+Used 20 consumables.
 
 It may be quite useful.
-A consumable is used 50 times.
+Used 50 consumables.
 
 It's wasteful to not use it!
-A consumable is used 100 times.
+Used 100 consumables.
 
 Even if I have that, how much wouldn't that be a problem?
-A consumable is used 200 times.
+Used 200 consumables.
 
 I can't be stopped!
-A consumable is used 400 times.
+Used 400 consumables.
 
 I can't be stopped! It doesn't stop here!
-A consumable is used 800 times.
+Used 800 consumables.
 
 When it isn't in my hand, I feel anxious.
-A consumable is used 1600 times.
+Used 1600 consumables.
 
 Please maintain the usage amount and use it.
-A consumable is used 3200 times.
+Used 3200 consumables.
 
 Oh? During when?
-A consumable is used 6400 times.
+Used 6400 consumables.
 
 Necessity of an adventure.
-A consumable is used 12800 times.
+Used 12800 consumables.
 
 Just because it's nearby.
 Purchase 5 items at a store.
