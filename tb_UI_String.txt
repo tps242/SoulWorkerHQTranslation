@@ -319,33 +319,33 @@ Expansion Cost：{0} Hancoin
 
 Will you buy [{0}] {1} items from {2}?
 
-[{0}]{1}個を{2}で売却しますか？
+Will you sell [{0}] {1} items at {2}？
 
-{0}を使用して、スロットをオープンしますか？
+Do you want to open {0}?
 
-売却すると{0}を獲得し、選択されたアイテムは売却されます。
+{0} will be put up for sale.
 
-売却するアイテムに<font color='#A566FF'>価値の高い</font>アイテムがあります。売却すると{0}を獲得できます。売却しますか？
+These items are of <font color='#A566FF'>high rarity</font>Do you still wish you sell them?
 
-ジャンク
+Inferior
 
-ノーマル
+Normal
 
-マジック
+Magical
 
-レア
+Rare
 
-ユニーク
+Unique
 
-レジェンド
+Legendary
 
-ヒーロー
+Heroic
 
-取引するジェニーを入力してください。
+Please enter the amount of Zenny to trade.
 
-入金するジェニーを入力してください。
+Please enter the amount of Zenny for payment.
 
-出金するジェニーを入力してください。
+Please enter the amount of Zenny to withdraw.
 
 1
 
@@ -379,107 +379,107 @@ Max
 
 Clear
 
-スロット拡張
+Slot Expansion
 
 Friend Point：
 
 Friend Point：
 
-{0}ジェニー
+{0} Zenny
 
-{0}エーテル
+{0} Ether
 
-{0}ソウルベイパー
+{0} Soul Essence
 
 {0}BP
 
-{0}Sコイン
+{0}S Coin
 
-{0}ハンコイン
+{0}Hancoin
 
-入庫
+Deposit
 
-売却
+Sell
 
-装備
+Equip
 
-使用
+Use
 
-分ける
+Split
 
 チャットリンク
 
-破棄
+Dispose
 
-出庫
+Sell 
 
-解除
+Remove
 
-削除
+Delete
 
-製作
+Craft
 
-強化
+Enhance
 
-分解
+Dismantle
 
-ソケット装備
+Socket Equip
 
-修理
+Repair
 
-取引登録
+Register Item
 
-情報表示
+Display Info
 
-進化
+Evolve
 
-ブローチ装着
+Socket Brooch
 
-装備可能アイテムのみ表示
+Show equipped items only
 
-ジェニー
+Zenny
 
-ハンコイン
+Hancoin
 
 全体
 
-種類
+Category
 
-キャラクター
+Character
 
-等級
+Grade
 
-レベル差が4以下のアイテムを表示
+Display items under 4 level difference
 
-装備可能アイテムのみ表示
+Display only equippable items
 
-基本材料
+Basic Materials
 
-追加材料
+Additional Materials
 
-所持
+Possessions
 
-必要
+Requirement
 
-アイテム製作
+Item Crafting
 
-固定製作
+Fixed Crafting
 
-ランダム製作
+Random Crafting
 
-必要BP
+BP Required
 
-必要ジェニー
+Zenny Required
 
-{0}の製作に成功しました。
+{0} was successfully made.
 
-製作リスト
+Crafting List
 
-必要材料
+Necessary materials
 
-設計図は自動登録されます。
+Blueprints will be registered.
 
-追加材料は自動登録されます。
+Additional materials will be registered.
 
 製作可能アイテムのみ表示
 
