@@ -830,53 +830,53 @@ Shop
 
 Bank
 
-強化
+Enhancements
 
-合成
+Synthesis
 
-競売場
+Auction House
 
-製作
+Crafting
 
-ファッション(未定)
+Fashion(Test)
 
-エリア移動
+Move
 
-ギルド管理(未定)
+Guild Management
 
-ギルド管理(未定)
+Guild Management
 
-通信(未定)
+Communication(Test)
 
-NPC機能
+NPC function
 
-クエストリスト[Space]
+Quest List
 
-会話機能
+Converse
 
-クエスト会話
+Quest Dialogue
 
 トップ
 
-戻る
+Return
 
-進む[Space]
+Advance[Space]
 
 Skip
 
-閉じる[ESC]
+Close[ESC]
 
-会話完了[Space]
+End Conversation[Space]
 
-完了[Space]
+End[Space]
 
-ソケット管理機能
+Manage Sockets
 
-受注[Space]
+Accept Order[Space]
 
-拒否[Back]
+Reject-[Back]
 
-{0}ジェニー
+{0} Zenny
 
 {0}EXP
 
@@ -884,121 +884,121 @@ Lv{0}
 
 {0}位
 
-カジュアルレイド、別名「異常空白」は高難易度のパーティー専用メイズです。しっかり準備を整えてから参加してください。
+The raid "Strange Space" is a difficult instance. Please proceed with caution.
 
-最上級レイド「ゴールデンシタデル」は4人パーティー専用メイズです。黄金の災厄を突破してください。
+The raid "Golden Citadel" is a four-person instance. Please remediate the calamity.
 
-極限の戦闘トレーニングシミュレーション「スチールグレイブ」で自らの限界に挑戦してください。1日に1回のみ挑戦できます。
+The instance "Steel Grave" can only be challenged once a day.
 
-ノーマル
+Normal
 
-ベリーハード
+Very Hard
 
-エキスパート
+Expert
 
-パーティー専用
+Dedicated Party
 
-パーティー専用[4人]
+Party of 4
 
-FP消費
+FP consumption
 
-専用入場券が必要です。
+An admission ticket is required.
 
-推奨Ｌｖ：{0}
+Recommended Level:{0}
 
-推奨人数：{0}
+Recommended Number of Party Members：{0}
 
-入場回数
+Entry Limit
 
-1人単独
+Solo
 
-1人
+1 Person
 
-2人
+2 People
 
-3人
+3 People
 
-パーティー推奨
+Party Recommended
 
-レベル制限
+Level Limit
 
-装備中のアイテム
+Equipment Requirement
 
 {0}[+{1}]
 
-<font color='#0099FF'>分解可能</font>
+<font color='#0099FF'>Dismantable</font>
 
-<font color='#0099FF'>強化可能</font>
+<font color='#0099FF'>Enhancable</font>
 
-<font color='#0099FF'>進化可能</font>
+<font color='#0099FF'>Evolvable</font>
 
-<font color='#FF0000'>装備時帰属</font>
+<font color='#FF0000'>Bound on equip</font>
 
-<font color='#FF0000'>獲得時帰属</font>
+<font color='#FF0000'>Bound on acquisition</font>
 
-<font color='#FF0000'>帰属アイテム</font>
+<font color='#FF0000'>Bound</font>
 
-<font color='#FF0000'>取引不可</font>
+<font color='#FF0000'>Untradable</font>
 
-<font color='#FF0000'>取引不可(帰属状態)</font>
+<font color='#FF0000'>Untradable (status)</font>
 
-<font color='#FF0000'>売却不可</font>
+<font color='#FF0000'>Unsellable</font>
 
-<font color='#FF0000'>破棄不可</font>
+<font color='#FF0000'>Indestructible</font>
 
-<font color='#FF0000'>移動不可</font>
+<font color='#FF0000'>Untransferable</font>
 
-販売価格
+Selling Price:
 
-クールタイム：
+Cooldown：
 
-持続時間：
+Duration：
 
-秒
+Second		
 
-分
+Minute
 
-時間
+Time
 
-日
+Day
 
-必要Ｌｖ
+Level Required:
 
-耐久度
+Durability
 
-表示
-不可
+Showcase Item
+Action denied
 
-装備
-不可
+Equip
+Action denied
 
-製作者
+Craft
 
-ソケット情報
+Socket Information
 
-ソケット追加アイテム使用時、ソケット活性化可能。
+When additional socket items are used, the sockets are activated.
 
-適用対象：
+Effective:
 
-自分
+myself
 
-パーティーメンバー
+party members
 
-敵
+enemy
 
 Master
 
-チャージ後スキル使用
+Use skill, after charging
 
-使用時ON/OFF
+ON/OFF
 
-カーソル移動照準
+Cursor Targetting
 
-チャージ後スキル使用
+Use skill, after charging
 
-敵をターゲット
+Target Enemy
 
-左クリック連打
+Left-Click Barrage
 
 左クリック長押し
 
