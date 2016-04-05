@@ -59,34 +59,34 @@ Should I open a store too?
 Purchase 10000 items at a store.
 
 Something deforms it sometimes.
-30,000 Zenny spent on repairs.
+30,000 Zeny spent on repairs.
 
 Isn't it too easy to break?
-50,000 Zenny spent on repairs.
+50,000 Zeny spent on repairs.
 
 Isn't there a stronger one?
-70,000 Zenny spent on repairs.
+70,000 Zeny spent on repairs.
 
 I want a disposable one...
-90,000 Zenny spent on repairs.
+90,000 Zeny spent on repairs.
 
 Repairing repairing...?
-110,000 Zenny spent on repairs.
+110,000 Zeny spent on repairs.
 
 It requires good caretaking for things to last a long time.
-130,000 Zenny spent on repairs.
+130,000 Zeny spent on repairs.
 
 Maybe a new weapon could be bought?
-140,000 Zenny spent on repairs.
+140,000 Zeny spent on repairs.
 
 Is it necessary to invest so much?
-160,000 Zenny spent on repairs.
+160,000 Zeny spent on repairs.
 
 Strange love....
-180,000 Zenny spent on repairs.
+180,000 Zeny spent on repairs.
 
 It isn't broken, but I'd like to repair it!
-300,000 Zenny spent on repairs.
+300,000 Zeny spent on repairs.
 
 仏の顔も三度まで //Face Buddha up to three times. 
 Incapacitated 3 times.
@@ -165,19 +165,19 @@ Defeat 5600 weak monsters.
 Don't defy me.
 Defeat 9100 weak monsters.
 
-あっ…いたんだ？
+Oh..that was nothing.
 Defeat 13000 weak monsters.
 
-暇つぶし！
+Killing time!
 Defeat 18000 weak monsters.
 
-目障り！
+Eyesore!
 Defeat 24000 weak monsters.
 
-この世は…弱肉強食！
+It's survival of the fittest!
 Defeat 32000 weak monsters.
 
-君（の心）が一番強い
+Mind over matter.
 Defeat 41000 weak monsters.
 
 ふっつぅ～～
