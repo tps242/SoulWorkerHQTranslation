@@ -301,94 +301,94 @@ Defeat 2400 bosses.
 Defeat 3000 bosses.
 
 一味違うね？
-レイドボスを10回討伐
+Defeat 10 raid bosses.
 
 このままじゃダメだ！
-レイドボスを80回討伐
+Defeat 80 raid bosses.
 
 これが修行の成果だ！
-レイドボスを200回討伐
+Defeat 200 raid bosses.
 
 口ほどにもない
-レイドボスを400回討伐
+Defeat 400 raid bosses.
 
 私にかかればこんなもんよ
-レイドボスを600回討伐
+Defeat 600 raid bosses.
 
 武帝への通過点
-レイドボスを1000回討伐
+Defeat 1000 raid bosses.
 
 世界の平和のために
-レイドボスを1300回討伐
+Defeat 1300 raid bosses.
 
 最強！最恐！最狂！
-レイドボスを1800回討伐
+Defeat 1800 raid bosses.
 
 選ばれし者の境地
-レイドボスを2400回討伐
+Defeat 2400 raid bosses.
 
 レイドエンペラー
-レイドボスを3000回討伐
+Defeat 3000 raid bosses.
 
 ガラクタはガラクタらしく
-ソウルジャンク勢力の敵を100回討伐
+Defeat 100 Soul Junk,
 
 クリーンアップ作戦
-ソウルジャンク勢力の敵を800回討伐
+Defeat 800 Soul Junk,
 
 帰ったら手洗いうがいをしっかりね！
-ソウルジャンク勢力の敵を2000回討伐
+Defeat 2000 Soul Junk,
 
 なんとか再利用できないかな？
-ソウルジャンク勢力の敵を4000回討伐
+Defeat 4000 Soul Junk,
 
 良くみると可愛いかも
-ソウルジャンク勢力の敵を6000回討伐
+Defeat 6000 Soul Junk,
 
 ジャンクにしてはしっかりしてる
-ソウルジャンク勢力の敵を9000回討伐
+Defeat 9000 Soul Junk,
 
 こう見えても潔癖症
-ソウルジャンク勢力の敵を13000回討伐
+Defeat 13000 Soul Junk,
 
 ヴェシとの違いがわからない
-ソウルジャンク勢力の敵を18000回討伐
+Defeat 18000 Soul Junk,
 
 ジャンク愛好家
-ソウルジャンク勢力の敵を23000回討伐
+Defeat 23000 Soul Junk,
 
 ジャンククリーナー
-ソウルジャンク勢力の敵を30000回討伐
+Defeat 30000 Soul Junk,
 
 もう見たくない…
-人形勢力の敵を110回討伐
+Defeat 110 puppets.
 
 お願いだから笑わないで
-人形勢力の敵を900回討伐
+Defeat 900 puppets.
 
 全然可愛くない！
-人形勢力の敵を2400回討伐
+Defeat 2400 puppets.
 
 意味もなく笑うな！！
-人形勢力の敵を4500回討伐
+Defeat 4500 puppets.
 
 コレクションはしたくない
-人形勢力の敵を7200回討伐
+Defeat 7200 puppets.
 
 ただの操り人形…
-人形勢力の敵を10800回討伐
+Defeat 10800 puppets.
 
 こんな悪夢はもう嫌だ
-人形勢力の敵を15300回討伐
+Defeat 15300 puppets.
 
 何か着せてみたいな…
-人形勢力の敵を20200回討伐
+Defeat 20200 puppets.
 
 呪ったりなんかしないよね？
-人形勢力の敵を26500回討伐
+Defeat 26500 puppets.
 
 マリオネッター
-人形勢力の敵を34200回討伐
+Defeat 34200 puppets.
 
 さぁ始めよう…
 ネッドカンパニー勢力の敵を110回討伐
