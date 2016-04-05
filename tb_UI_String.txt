@@ -552,65 +552,65 @@ Item
 
 Event
 
-ネカフェ
+Internet Cafe
 
-最終報酬
+Final Reward
 
 Party Ranking
 
-追加報酬
+Extra Reward
 
-<獲得>
+<Acquired>
 
-<メール支給完了>
+<Mail Payed>
 
-追加獲得
+Additional Earnings
 
-今回のメイズ獲得
+Instance Earnings
 
-追加報酬を受け取るためには[ボーナスカードキー]が必要です。
+In order to receive additional rewards, a bonus key card is required.
 
-{0}秒後に自動で閉じます。
+The advertisement closes after {0} seconds.
 
-情報表示
+Display Info
 
-リーダー委任
+Transfer Leadership
 
-パーティ追放
+Expel Party Member
 
-パーティ離脱
+Leave Party
 
-ささやき
+Whisper
 
-フレンド登録
+Add Friend
 
-復活
+Revive
 
-※<font color='#F15F5F'>戦闘を放棄し</font>、<font size='15' color='#F7AE54'>{0}</font>秒後、<font color='#F15F5F'>町に移動</font>します。
+You will be <font size = '15 'color =' # F7AE54 '>moved to town</font> after abandoning the party in {0} seconds.
 
-放棄
+Abandonment
 
-※バフ効果<font color='#5CD1E5'>[加護]</font>を使用して復活します。
+You have been ressurected by the blessing buff effect.
 
 ※<font color='#F2CB61'>[アクシジェントコール]1個</font>を使用して復活します。
 
 ※<font size='15' color='#F7AE54'>{0}</font>秒後、<font color='#F15F5F'>最後の町に移動</font>します。
 
-※<font color='#47C83E'>「{0}」の助けにより復活</font>します。
+<font color='#47C83E'>{0} has revived you</font>
 
 ※<font color='#FFBB00'>[トップアクシジェントコール]1個</font>を使用して復活します。
 
 ※<font color='#FFBB00'>[トップアクシジェントコール]</font>がないため、復活できません。
 
-離脱
+Withdraw
 
-委任
+Delegate
 
-追放
+Expel
 
-承諾
+Accept
 
-拒否
+Reject
 
 OFFLINE
 
@@ -618,59 +618,59 @@ OFFLINE
 
 A
 
-一般
+General
 
-取引
+Trade
 
-パーティ
+Party
 
-ギルド
+Guild
 
-ささやき
+Whisper
 
-[{0}]のささやき：
+[{0}] whispers：
 
-[{0}]へ：
+[{0}] says：
 
-[{0}]の叫び：
+[{0}] shouts：
 
-さんへ
+says
 
-{0}からパーティーに招待されました。
-パーティーに合流しますか？
-(残り{1}秒)
+You have received a party invitation from {0}.
+Do you accept this party invitation?
+(Response time remaining: {1} seconds)
 
-パーティーを離脱すると、町に移動します。
-離脱しますか？
+If you leave the party, you will be teleported to town.
+Are you sure you want to leave the party?
 
-パーティーを離脱して、町に移動します。
-(残り{0}秒)
+Left the party. Teleporting to town.
+(In {0} seconds)
 
-{0}にパーティーリーダーを委任しますか？
+Are you sure you want to transfer party leadership to {0}？
 
-{0}をパーティーから追放しますか？
+Are you sure you want to expel {0} from the party？
 
-現在加入中のパーティーから離脱しますか？
+Are you sure you want to leave the party?
 
-{0}のレベルを上げますか？
-({1}SP消費)
+Do you want to raise {0}'s skill level？
+(Costs: {1} SP)
 
-所持SP
+SP in Possession
 
-{0} Point
+{0} Points
 
-{0}を習得しますか？
-({1}SP消費)
+Do you want to learn {0}?
+(Costs: {1} SP)
 
-スキルデッキを拡張しますか？
+Are you sure you want to extend the skill deck?
 
-スキルを初期化しますか？
+Are you sure you want to activate the skills?
 
-カード数：
+Number of Cards:
 
-残り時間
+Time Left:
 
-{0}時間{1}分
+{0} time {1} minutes
 
 呼び出し
 
