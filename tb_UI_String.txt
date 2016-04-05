@@ -481,76 +481,76 @@ Blueprints will be registered.
 
 Additional materials will be registered.
 
-製作可能アイテムのみ表示
+Display only craftable items.
 
-装備アイテムの耐久度減少により、
-能力値が{0}%減少しました。
+The equipments' durability have been reduced.
+The durability has declined by {0}%.
 
-所持アイテムを全て修理しますか？
-(修理費：{0}ジェニー)
+Are you sure you want to repair all equipment in possession?
+(Costs：{0} Zenny)
 
-装備中のアイテムを全て修理しますか？
-(修理費：{0}ジェニー)
+Are you sure you want to repair all worn equipment?
+(Costs：{0} Zenny)
 
-{0}を修理しますか？
-(修理費：{1}ジェニー)
+Are you sure you want to repair {0}?
+(Costs：{1} Zenny)
 
-{0}が修理されました。
-修理費：{1}ジェニー
+{0} has been repaired.
+(Costs：{1} Zenny)
 
-装備中のアイテムが修理されました。
-修理費：{0}ジェニー
+Equiped items have been repaired.
+(Costs：{0} Zenny)
 
-全てのアイテムが修理されました。
-修理費：{0}ジェニー
+All equipment has been repaired.
+(Costs：{0} Zenny)
 
-費用が不足しているため、修理できません。
+Insufficient funds for repairing.
 
-選択したアイテムは修理できません。
-(耐久度が減少しているアイテムのみ修理できます)
+This item can not be repaired.
+(Only items with decreased durability can be repaired)
 
-アイテムの耐久度が0なので、性能を発揮できません。
+The item cannot be equipped because it has zero durability.
 
-アイテムを修理してください。
+Please repair the item.
 
-耐久度{0}
+Durability : {0}
 
-メイズ
-全体獲得
+Instance
+Earn
 
-達成状況
+Progress
 
-{0}時間{1}分{2}秒
+{0} time {1} minutes {2} seconds
 
-{0}分{1}秒
+{0} minutes {1} seconds
 
-追加報酬獲得：{0} X {1}
+Additional Rewards Gained：{0} X {1}
 
-インベントリに空きスロットが無いため、[{0} X {1}]がメールで発送されました。
+Since there is no remaining inventory space, it has been shiped by、[{0} X {1}] mail.
 
 Result
 
-プレイ記録
+Performance Record
 
-クリア点数
+Clearing Points
 
-クリア時間
+Clearing Time
 
-メイズ難易度
+Instance Difficulty
 
-最大コンボ
+Max Combo Attained
 
-完了報酬
+Completion Reward
 
-プレイ報酬
+Performance Reward
 
-スペシャル報酬
+Special Reward
 
-アバター
+Avatar
 
-アイテム
+Item
 
-イベント
+Event
 
 ネカフェ
 
