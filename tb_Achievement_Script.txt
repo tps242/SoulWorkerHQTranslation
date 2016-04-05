@@ -165,19 +165,19 @@ Defeat 5600 weak monsters.
 Don't defy me.
 Defeat 9100 weak monsters.
 
-あっ…いたんだ？
+Oh..that was nothing.
 Defeat 13000 weak monsters.
 
-暇つぶし！
+Killing time!
 Defeat 18000 weak monsters.
 
-目障り！
+Eyesore!
 Defeat 24000 weak monsters.
 
-この世は…弱肉強食！
+It's survival of the fittest!
 Defeat 32000 weak monsters.
 
-君（の心）が一番強い
+Mind over matter.
 Defeat 41000 weak monsters.
 
 ふっつぅ～～
