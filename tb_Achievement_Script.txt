@@ -97,7 +97,7 @@ Incapacitated 10 times.
 No, no ... Why?
 Incapacitated 50 times.
 
-Oh no... to this guy！
+Oh no... to this guy!
 Incapacitated 100 times.
 
 Where does it start next?
@@ -198,7 +198,7 @@ Defeat 5700 normal monsters.
 The weak shouldn't bark at all
 Defeat 8300 normal monsters.
 
-Know your place！
+Know your place!
 Defeat 11600 normal monsters.
 
 Is it the quantity more than the quality?
