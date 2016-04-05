@@ -60,197 +60,197 @@ Select Repair
 
 タイマー三つボタン$$\n$$ $$timer$$秒後中止ボタン。
 
-インベントリ
+Inventory
 
-銀行
+Bank
 
-装備
+Equipment
 
-商店
+Shop
 
-ステータス
+Status
 
-スキル
+Skill
 
-製作
+Crafting
 
 Reinforce
 
-取引
+Trade
 
-称号リスト
+Title List
 
-環境設定
+System Settings
 
-強化
+Enhancements
 
-ブローチ装着
+Equip Brooch
 
-ハル
+Haru
 
-アーウィン
+Erwin
 
-リリー
+Lily
 
-ジン
+Jin
 
-ステラ
+Stella
 
-イリス
+Iris
 
-共通
+Common
 
-一般
+General
 
-エクストラ
+Extra Items
 
-ファッション
+Fashion Items
 
-一般
+General Items
 
-ファッション
+Fashion
 
-武器防具
+Armor
 
-ファッション
+Fashion
 
-アーティファクト
+Artifacts
 
-武器
+Weapons
 
-アクセサリー
+Accessories
 
-ファッション[一般]
+Fashion[General]
 
-ファッション[ハンコイン]
+Fashion[Exclusive]
 
-消費
+Consumables
 
-材料
+Materials
 
-ソウルウェポン
+Soul Weapon
 
-サブウェポン
+Sub-Weapon
 
-ソウルペンダント
+Soul Pendant
 
 ソウルギア
 
-ソウルイヤリング
+Soul Earrings
 
-ソウルリング
+Soul Rings
 
-セット
+Set
 
-頭
+Head
 
-ヘア/頭
+Hair
 
-目
+Eye
 
-口
+Mouth
 
-下着
+Underwear
 
-衣装
+Costume
 
-背
+Back
 
-手
+Hand
 
-脚
+Leg
 
-足
+Leg
 
-回復
+Recovery
 
-バフ
+Buff
 
-デバフ
+Debuff
 
-製作
+Craft
 
-強化
+Enhance
 
-修理
+Repair
 
-再購入
+Repurchase
 
-スキル
+Skill
 
-A.Rカード
+A.R Card
 
-ブレイク
+Discard
 
-その他
+Miscellaneous
 
-ヘッド
+Head
 
-ショルダー
+Shoulder 
 
-ボディ
+Body
 
-レッグ
+Leg 
 
-アサルトファミリア
+Assault Familia
 
-ディフェンスファミリア
+Defensive Familia
 
-ジェスチャー
+Gestures
 
-ソウルウェポン
+Soul Weapon
 
-サブウェポン
+Sub-Weapon
 
-ペルソナカード
+Persona Card
 
-ソウルカートリッジ
+Soul Cartridge
 
-ソウルペンダント
+Soul Pendant
 
 ソウルギア
 
-ソウルイヤリング
+Soul Earrings
 
-ソウルリング
+Soul Rings
 
-ソウルチャーム
+Soul Charms
 
-ホーリーピース
+Holy Piece
 
-ギャラクシーキューブ
+Galaxy Cube
 
-アバター[トップ]
+Avatar[Top]
 
-アバター[頭]
+Avatar[Head]
 
-アバター[目]
+Avatar[Eyes]
 
-アバター[口]
+Avatar[Mouth]
 
-アバター[手]
+Avatar[Hand]
 
-アバター[下着]
+Avatar[Underwear]
 
-アバター[衣装]
+Avatar[Costume]
 
-アバター[背]
+Avatar[Back]
 
-アバター[脚]
+Avatar[Legs]
 
-アバター[足]
+Avatar[Foot]
 
-一般アイテム
+General Items
 
-消費アイテム
+Consumables
 
 クエストアイテム
 
-製作材料
+Quest Items
 
-強化材料
+Materials
 
-特殊アイテム
+Special items
 
 1
 
@@ -262,62 +262,62 @@ A.Rカード
 
 5
 
-ジェニー：
+Zenny: 
 
-ハンコイン：
+Hancoin：
 
 BP：
 
-装備/所持中の全てのアイテムを修理できます。
+You can repair all equipment items in possession.
 
-装備中の全てのアイテムを修理できます。
+You can repair all worn equipement.
 
-アイテムを選択して修理できます。
+You can repair an equipment piece.
 
-購入
+Purchase
 
-売却するアイテムの数を入力してください。
+Please enter the quantity of items to sell.
 
-分割するアイテムの数を入力してください。
+Please enter the quantity of items to split.
 
-{0}を破棄しますか？
+Are you sure you want to discard {0}?
 
-売却モード
+Sell Mode
 
-エーテル：
+Ether:
 
-分解モード
+Dismantle Mode
 
-インベントリのスロットを拡張しますか？
+Are you sure you want to extend your inventory slots?
 
-銀行のスロットを拡張しますか？
+Are you sure you want to extend your bank slots?
 
-{0}でスロットを拡張しますか？
+Are you sure you want to extend your {0} slot(s)?
 
-スロット拡張に必要なレベルを満たしていません。
+You do not meet the level requirement for the slot expansion.
 
-拡張券がないため、スロットを拡張できません。
+You do not have the extension ticket for expanding a slot.
 
-{0}を使用しました。
+{0} was used.
 
-{0}を{1}で購入しました。
+{0} was purchased from {1}.
 
-選択したアイテムは装備及び使用できないアイテムです。
-購入しますか？
+The selected items cannot be equipped nor used.
+Do you still want to proceed with the purchase?
 
-{0}を{1}で売却しました。
+{0} has been sold in the {1}.
 
-{1}個を売却して{2}を獲得しました。
+{2} was sold to {1}.
 
-スロット拡張
+Slot Expansion
 
-必要レベル：{0}
+Required Level：{0}
 
-拡張費用：{0}ジェニー
+Expansion Cost：{0} Zenny
 
-拡張費用：{0}ハンコイン
+Expansion Cost：{0} Hancoin
 
-[{0}]{1}個を{2}で購入しますか？
+Will you buy [{0}] {1} items from {2}?
 
 [{0}]{1}個を{2}で売却しますか？
 
