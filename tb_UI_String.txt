@@ -672,132 +672,132 @@ Time Left:
 
 {0} time {1} minutes
 
-呼び出し
+Summon
 
-借りたカードは専用スロットに自動で配置されます。
+The rented card will be placed in a dedicated slot.
 
-{0}を使用しますか？
-(アイテム使用で獲得したA.Rカードは売却及び取引ができません)
+Do you want to use {0}?
+(A.R Cards that are used cannot be sold nor traded)
 
-必要Lｖ
+Insufficient level.
 
-必要SP
+Insufficient SP.
 
-アイテム獲得
+Item acquired
 
-使用
+Use
 
-{0}獲得
+{0} acquired
 
-現在HP
+Current HP
 
-現在SG
+Current SG
 
-現在スタミナ
+Current Stamina
 
-力
+Power
 
-敏捷
+Evasion Rate
 
-知能
+Intelligence
 
 均衡
 
 HP
 
-幸運
+Luck
 
 HP
 
-HP回復
+HP Recovery
 
 SG
 
-SG回復
+SG Recovery
 
-スタミナ
+Stamina
 
-スタミナ回復
+Stamina Recovery
 
-現在ソウルベイパー
+Current Soul Essence
 
-ソウルベイパー
+Soul Essence
 
-移動速度(%)
+Movement Speed(%)
 
-攻撃速度(%)
+Attack Speed(%)
 
-最小攻撃力
+Minimum Attack Power
 
-最大攻撃力
+Maximum Attack Power
 
-最小魔法攻撃力
+Minimum Magic Attack Power
 
-最大魔法攻撃力
+Maximum Magic Attack Power
 
-防御度
+Defense
 
-魔法防御度
+Magic Resistance
 
-命中度
+Accuracy
 
-魔法攻撃命中率(%)
+Magical Accuracy(%)
 
-攻撃失敗時ダメージ(%)
+Ineffective Attack Damage(%)
 
-クリティカル(%)
+Critical Rate(%)
 
-魔法クリティカル率(%)
+Magic Critical Rate(%)
 
-クリティカル抵抗(%)
+Critical Resistance(%)
 
-魔法クリティカル抵抗(%)
+Magic Critical Resistance(%)
 
-クリティカル率(%)
+Critical Rate(%)
 
-魔法クリティカル率(%)
+Magic Critical Rate(%)
 
-クリティカルダメージ
+Critical Damage
 
-魔法クリティカル攻撃
+Magic Critical Damage
 
-ダメージ減少確率(%)
+Damage Reduction Chance(%)
 
-ダメージ減少(%)
+Damage Reduction(%)
 
-魔法ダメージ減少(%)
+Magic Damage Reduction(%)
 
-持続状態異常抵抗力(%)
+Persistant Abnormal State Resistance(%)
 
-操作状態異常抵抗力(%)
+Active Abnormal State Resistance(%)
 
-特殊状態異常抵抗力(%)
+Special Abnormal State Resistance(%)
 
-情報表示
+Display Information
 
-フレンド登録
+Befriend
 
-ささやき
+Whisper
 
-取引
+Trade
 
-付いて行く
+Follow
 
-パーティー招待
+Party Invite
 
-ギルド招待
+Guild Invite
 
-遮断
+Block User
 
-メンバー全員が同意すると、メイズに入場します。
-(入場時に別の町にいたり、
-ログアウト状態のメンバーは合流できません)
+The instance can be entered when everyone consents.
+(Members in a different town.
+Members that are logged out.)
 
-パーティーリーダーがメイズ入場を要請しています。入場しますか？
-入場地域：[{0}]
-エピソード：[{1}]
-難易度：[{2}]
-(残り時間：{3}秒)
+The party leader has initiated an instance. Do you wish to join?
+Location：[{0}]
+Episode：[{1}]
+Difficulty：[{2}]
+(Response Time Remaining：{3} seconds)
 
 メンバーの{0}が、メイズ入場を拒否しました。
 
