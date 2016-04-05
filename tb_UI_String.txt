@@ -1,52 +1,52 @@
-確認
+Confirm
 
-キャンセル
+Cancel
 
-適用
+Apply
 
-終了
+End
 
-継続
+Continue
 
-最小
+Minimum
 
-最大
+Maximum
 
-承諾
+Agree
 
-拒否
+Reject
 
-入金
+Payment
 
-出金
+Leave
 
-入場
+Accept
 
-初め
+Beginning
 
-戻る
+Return
 
-進む
+Continue
 
 Skip
 
-購入
+Purchase
 
-作成
+Create
 
-変更
+Change
 
-初期化
+Default
 
-乱入
+Enter
 
-会話終了
+End Conversation
 
-装備修理
+Repair Equip
 
-全て修理
+Repair All
 
-選択修理
+Select Repair
 
 一つボタン基本
 
@@ -54,7 +54,7 @@ Skip
 
 三つボタン基本
 
-タイマー一つボタン$$\n$$ $$timer$$秒後確認ボタン。
+タイマー一つボタン$$\n$$ $$timer$$after confirmed
 
 タイマー二つボタン$$\n$$ $$timer$$秒後中止ボタン。
 
