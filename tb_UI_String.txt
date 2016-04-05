@@ -799,36 +799,36 @@ Episode：[{1}]
 Difficulty：[{2}]
 (Response Time Remaining：{3} seconds)
 
-メンバーの{0}が、メイズ入場を拒否しました。
+Party Members {0}, have refused to join the instance.
 
-間もなく次のエリアに移動します。
-(残り{0}秒)
+You will soon be moved to another area.
+(Remaining Time: {0} seconds)
 
-力尽きました。復活しますか？
+You have been incapacitated. Do you want to revive?
 
-[{0}]の攻撃によって力尽きました。
+You have been incapacitated by [{0}].
 
-噴き出すソウルエナジーによって復活します。
+Ressurected by consuming soul energy.
 
 周囲のソウルエナジーを吸収して復活します。
 
 力尽きました。[{0}]に移動します。
 
-[{0}]を使用しました。
+[{0}] was consumed.
 
-[{0}]が[{1}]を使用しました。
+[{0}] was used by [{1}]。
 
-獲得：{0}
+Gained：{0}
 
-獲得：{0}EXP
+Gained：{0}EXP
 
-獲得：{0}EXP[ X {1}倍]
+Gained：{0}EXP[ X {1}]
 
-会話
+Chat
 
-商店
+Shop
 
-銀行
+Bank
 
 強化
 
