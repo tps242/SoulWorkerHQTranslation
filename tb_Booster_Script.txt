@@ -1,37 +1,37 @@
-パーティーボーナス（2人）
-パーティー結成時に付与される。
+Party Buff Bonus (2 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member2_NotFriend
 
-パーティーボーナス（2人）
-パーティー結成時に付与される。
+Party Buff Bonus (2 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member2_Friend1
 
-パーティーボーナス（3人）
-パーティー結成時に付与される。
+Party Buff Bonus (3 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member3_NotFriend
 
-パーティーボーナス（3人）
-パーティー結成時に付与される。
+Party Buff Bonus (3 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member3_Friend1
 
-パーティーボーナス（3人）
-パーティー結成時に付与される。
+Party Buff Bonus (3 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member3_Friend2
 
-パーティーボーナス（4人）
-パーティー結成時に付与される。
+Party Buff Bonus (4 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member4_NotFriend
 
-パーティーボーナス（4人）
-パーティー結成時に付与される。
+Party Buff Bonus (4 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member4_Friend1
 
-パーティーボーナス（4人）
-パーティー結成時に付与される。
+Party Buff Bonus (4 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member4_Friend2
 
-パーティーボーナス（4人）
-パーティー結成時に付与される。
+Party Buff Bonus (4 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member4_Friend3
 
 ネットカフェボーナス
