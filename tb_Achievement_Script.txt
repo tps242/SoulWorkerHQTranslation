@@ -149,133 +149,133 @@ Defeat 200000 enemies.
 Defeat 500000 enemies.
 
 手始めに…
-最も弱く見える敵を130回討伐
+Defeat 130 weak monsters.
 
 最初のレベル上げにはもってこい！
-最も弱く見える敵を1100回討伐
+Defeat 1100 weak monsters.
 
 何か…いたから…つい…
-最も弱く見える敵を3000回討伐
+Defeat 3000 weak monsters.
 
 もう何の役にも立たないよ！
-最も弱く見える敵を5600回討伐
+Defeat 5600 weak monsters.
 
 向かってくるなよ…
-最も弱く見える敵を9100回討伐
+Defeat 9100 weak monsters.
 
 あっ…いたんだ？
-最も弱く見える敵を13000回討伐
+Defeat 13000 weak monsters.
 
 暇つぶし！
-最も弱く見える敵を18000回討伐
+Defeat 18000 weak monsters.
 
 目障り！
-最も弱く見える敵を24000回討伐
+Defeat 24000 weak monsters.
 
 この世は…弱肉強食！
-最も弱く見える敵を32000回討伐
+Defeat 32000 weak monsters.
 
 君（の心）が一番強い
-最も弱く見える敵を41000回討伐
+Defeat 41000 weak monsters.
 
 ふっつぅ～～
-平凡に見える敵を80回討伐
+Defeat 80 normal monsters.
 
 一人で充分
-平凡に見える敵を700回討伐
+Defeat 700 normal monsters.
 
 かかってきなよ
-平凡に見える敵を1800回討伐
+Defeat 1800 normal monsters.
 
 しつこいな～
-平凡に見える敵を3500回討伐
+Defeat 3500 normal monsters.
 
 凄んでも怖くない
-平凡に見える敵を5700回討伐
+Defeat 5700 normal monsters.
 
 弱い奴ほどよく吠える
-平凡に見える敵を8300回討伐
+Defeat 8300 normal monsters.
 
 身のほどをわきまえろ！
-平凡に見える敵を11600回討伐
+Defeat 11600 normal monsters.
 
 質より量派ですか？
-平凡に見える敵を15400回討伐
+Defeat 15400 normal monsters.
 
 群がれば良いってもんじゃないよ？
-平凡に見える敵を20000回討伐
+Defeat 20000 normal monsters.
 
 コモンバスター
-平凡に見える敵を25700回討伐
+Defeat 25700 normal monsters.
 
 意外と倒せる
-強そうに見える敵を30回討伐
+Defeat 30 elite monsters.
 
 売られた喧嘩は買う
-強そうに見える敵を280回討伐
+Defeat 280 elite monsters.
 
 段々慣れてきた！
-強そうに見える敵を750回討伐
+Defeat 750 elite monsters.
 
 お前も雑魚の仲間入り
-強そうに見える敵を1400回討伐
+Defeat 1400 elite monsters.
 
 倒した数は覚えていない
-強そうに見える敵を2200回討伐
+Defeat 2200 elite monsters.
 
 そんなにいたの？
-強そうに見える敵を3000回討伐
+Defeat 3000 elite monsters.
 
 強そうに見えたのは過去の事
-強そうに見える敵を5000回討伐
+Defeat 5000 elite monsters.
 
 今は可哀想にしか見えない
-強そうに見える敵を6100回討伐
+Defeat 6100 elite monsters.
 
 ムシャクシャする！八つ当たりだ！
-強そうに見える敵を8000回討伐
+Defeat 8000 elite monsters.
 
 私の方が強そう
-強そうに見える敵を10200回討伐
+Defeat 10200 elite monsters.
 
 えっ？ボスじゃない？
-中ボス級の敵を17回討伐
+Defeat 17 mini-bosses.
 
 どっからがボスなの？
-中ボス級の敵を140回討伐
+Defeat 140 mini-bosses.
 
 まぁ油断はできないよね
-中ボス級の敵を370回討伐
+Defeat 370 mini-bosses.
 
 疲れてる時は会いたくないな
-中ボス級の敵を700回討伐
+Defeat 700 mini-bosses.
 
 たま～にやられるよね
-中ボス級の敵を1100回討伐
+Defeat 1100 mini-bosses.
 
 お前はただの噛ませ犬
-中ボス級の敵を1600回討伐
+Defeat 1600 mini-bosses.
 
 前座には丁度いいかも
-中ボス級の敵を2300回討伐
+Defeat 2300 mini-bosses.
 
 中ボスだってボスなのに…
-中ボス級の敵を3000回討伐
+Defeat 3000 mini-bosses.
 
 敵勢力のナンバー2
-中ボス級の敵を4000回討伐
+Defeat 4000 mini-bosses.
 
 マッドハンター
-中ボス級の敵を5100回討伐
+Defeat 5100 mini-bosses.
 
 どんなもんだい！
-ボスを10回討伐
+Defeat 10 bosses.
 
 さすがにボスだね
-ボスを80回討伐
+Defeat 80 bosses.
 
 ボスにも慣れてきた？
-ボスを200回討伐
+Defeat 200 bosses.
 
 もう行動パターンは読めている
 ボスを400回討伐
