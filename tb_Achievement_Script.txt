@@ -34,7 +34,7 @@ Purchase 5 items at a store.
 Oh, oh, isn't it a good store?
 Purchase 30 items at a store.
 
-Don't you put a new design in by and by?
+Didn't you just put in a new design just now?
 Purchase 100 items at a store.
 
 Isn't a point saved?
