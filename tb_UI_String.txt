@@ -389,7 +389,7 @@ Friend Point：
 
 {0} Ether
 
-{0} Soul Essence
+{0} Soul Vapor
 
 {0}BP
 
@@ -719,9 +719,9 @@ Stamina
 
 Stamina Recovery
 
-Current Soul Essence
+Current Soul Vapor
 
-Soul Essence
+Soul Vapor
 
 Movement Speed(%)
 
@@ -1075,7 +1075,7 @@ Do you want to add a new socket to the selected item?
 Familia can be attached to socket items.
 (To attach it, select the item first, then right-click)
 
-Selected Familia has been canceled.
+Selected Familia has been released.
 
 A socket has been added to the selected item。
 
@@ -1127,20 +1127,20 @@ Jacket
 
 Hand
 
-Underwear
+Undergarments
 
 Bottom
 
 Shoes
 
-Socks
+Tights/Socks
 
 Back
 
 Underwear
 
 Dismantled {0}.
-Acquired：{1} X {2}
+Acquired Items：{1} X {2}
 Acquired Ether{3}
 
 Dismantling failed.
