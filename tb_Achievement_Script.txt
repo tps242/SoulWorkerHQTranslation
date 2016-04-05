@@ -278,25 +278,25 @@ Defeat 80 bosses.
 Defeat 200 bosses.
 
 もう行動パターンは読めている
-ボスを400回討伐
+Defeat 400 bosses.
 
 百戦錬磨は伊達じゃない
-ボスを600回討伐
+Defeat 600 bosses.
 
 日々の努力の賜物
-ボスを1000回討伐
+Defeat 1000 bosses.
 
 いつでも相手になるよ？
-ボスを1300回討伐
+Defeat 1300 bosses.
 
 恐るるに足らず
-ボスを1800回討伐
+Defeat 1800 bosses.
 
 ボスの面目丸潰れ
-ボスを2400回討伐
+Defeat 2400 bosses.
 
 ボスキラー
-ボスを3000回討伐
+Defeat 3000 bosses.
 
 一味違うね？
 レイドボスを10回討伐
