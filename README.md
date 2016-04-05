@@ -8,4 +8,4 @@ Soul Worker JP English Patch Project<br>
 ## Special Thanks
   - everyone from discord chat
   - all translators, staff
-  - WRS/x1nixmzeng for helping A LOT with extracting the data, check him out [here] (http://forum.xentax.com/memberlist.php?mode=viewprofile&u=16084)
+  - [WRS/x1nixmzeng](http://forum.xentax.com/memberlist.php?mode=viewprofile&u=16084) for helping A LOT with extracting the data, check him out and give him a thanks
