@@ -52,16 +52,16 @@ Purchase 3000 items at a store.
 Can I have everything from start to finish?
 Purchase 5000 items at a store.
 
-I've been a mainstay here.
+I am the patron of this place
 Purchase 8000 items at a store.
 
 Should I open a store too?
 Purchase 10000 items at a store.
 
-Something breaks the shape sometimes.
+Something deforms it sometimes.
 30,000 Zeny spent on repairs.
 
-Isn't it slightly easy to break?
+Isn't it too easy to break?
 50,000 Zeny spent on repairs.
 
 Isn't there a stronger one?
@@ -73,7 +73,7 @@ I want a disposable one...
 Repairing repairing...?
 110,000 Zeny spent on repairs.
 
-Tt takes a good amount of care for things to last long.
+It requires good caretaking for things to last a long time.
 130,000 Zeny spent on repairs.
 
 Maybe a new weapon could be bought?
@@ -92,19 +92,19 @@ It isn't broken, but I'd like to repair it!
 戦闘不能回数3回達成 //Battle impossible difficulty 3 time achievement 
 
 Don't mind don't mind
-Battle impossible difficulty 10 time achievement
+Faced an impossible battle 10 times. (dungeon?)
 
 No, no ... Why?
-Battle impossible difficulty 50 time achievement
+Faced an impossible battle 50 times.
 
 Oh no... to this guy！
-Battle impossible difficulty 100 time achievement
+Faced an impossible battle 100 times.
 
 Where does it start next?
-Battle impossible difficulty 200 time achievement
+Faced an impossible battle 200 times.
 
 Stand up! I can still stand up--!!
-Battle impossible difficulty 400 time achievement
+Faced an impossible battle 400 times.
 
 わざとじゃないよ？
 戦闘不能回数800回達成
