@@ -602,175 +602,175 @@ Burning Event
 Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zeny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-ブースターイベント
-獲得経験値が増加する。
+Booster Event
+Experience acquired is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
-ブースターイベント
-獲得経験値が増加する。
+Booster Event
+Experience acquired is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
-ブースターイベント
-獲得経験値が増加する。
+Booster Event
+Experience acquired is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
-ブースターイベント
-獲得経験値が増加する。
+Booster Event
+Experience acquired is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
-ブースターイベント
-獲得経験値が増加する。
+Booster Event
+Experience acquired is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
-ブースターイベント
-獲得経験値が増加する。
+Booster Event
+Experience acquired is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
-ブースターイベント
-ジェニー獲得量が増加する。
+Booster Event
+Zeny Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Gold1
 
-ブースターイベント
-ジェニー獲得量が増加する。
+Booster Event
+Zeny Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Gold1
 
-ブースターイベント
-ジェニー獲得量が増加する。
+Booster Event
+Zeny Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Gold1
 
-ブースターイベント
-ジェニー獲得量が増加する。
+Booster Event
+Zeny Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Gold1
 
-ブースターイベント
-ジェニー獲得量が増加する。
+Booster Event
+Zeny Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Gold1
 
-ブースターイベント
-ジェニー獲得量が増加する。
+Booster Event
+Zeny Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Gold1
 
-ブースターイベント
-アイテムドロップ率が増加する。
+Booster Event
+Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Item1
 
-ブースターイベント
-アイテムドロップ率が増加する。
+Booster Event
+Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Item1
 
-ブースターイベント
-アイテムドロップ率が増加する。
+Booster Event
+Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Item1
 
-ブースターイベント
-アイテムドロップ率が増加する。
+Booster Event
+Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Item1
 
-ブースターイベント
-アイテムドロップ率が増加する。
+Booster Event
+Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Item1
 
-ブースターイベント
-アイテムドロップ率が増加する。
+Booster Event
+Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Item1
 
-ブースターイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Booster Event
+EXP Rate, Zeny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Item_Burning1
 
-ブースターイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Booster Event
+EXP Rate, Zeny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Item_Burning1
 
-ブースターイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Booster Event
+EXP Rate, Zeny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Item_Burning1
 
-ブースターイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Booster Event
+EXP Rate, Zeny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Item_Burning1
 
-ブースターイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Booster Event
+EXP Rate, Zeny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Item_Burning1
 
-ブースターイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Booster Event
+EXP Rate, Zeny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Item_Burning1
 
