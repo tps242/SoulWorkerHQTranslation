@@ -183,121 +183,121 @@ Defeat 41000 weak monsters.
 ふっつぅ～～
 Defeat 80 normal monsters.
 
-一人で充分
+I alone am enough
 Defeat 700 normal monsters.
 
-かかってきなよ
+Don't leave me hanging
 Defeat 1800 normal monsters.
 
-しつこいな～
+Persistent
 Defeat 3500 normal monsters.
 
-凄んでも怖くない
+I'm not afraid even if I'm threatened
 Defeat 5700 normal monsters.
 
-弱い奴ほどよく吠える
+The weak shouldn't bark at all
 Defeat 8300 normal monsters.
 
-身のほどをわきまえろ！
+Know your place！
 Defeat 11600 normal monsters.
 
-質より量派ですか？
+Is it the quantity more than the quality?
 Defeat 15400 normal monsters.
 
-群がれば良いってもんじゃないよ？
+Isn't it the gate where they should gather?
 Defeat 20000 normal monsters.
 
-コモンバスター
+Common Buster
 Defeat 25700 normal monsters.
 
-意外と倒せる
+Unexpectedly beaten
 Defeat 30 elite monsters.
 
-売られた喧嘩は買う
+I accept a sold challenge.
 Defeat 280 elite monsters.
 
-段々慣れてきた！
+I have been getting used to it!
 Defeat 750 elite monsters.
 
-お前も雑魚の仲間入り
+You should join the fishes
 Defeat 1400 elite monsters.
 
-倒した数は覚えていない
+I don't remember how many I've beaten
 Defeat 2200 elite monsters.
 
-そんなにいたの？
+Were there so much of you here?
 Defeat 3000 elite monsters.
 
-強そうに見えたのは過去の事
+It seemed strong in the past.
 Defeat 5000 elite monsters.
 
-今は可哀想にしか見えない
+It looks pitiful now.
 Defeat 6100 elite monsters.
 
-ムシャクシャする！八つ当たりだ！
+It's vexing! it's hit 8 // eight probably referring to 8000
 Defeat 8000 elite monsters.
 
-私の方が強そう
+I seem to be strong.
 Defeat 10200 elite monsters.
 
-えっ？ボスじゃない？
+Oh? Aren't you the boss?
 Defeat 17 mini-bosses.
 
-どっからがボスなの？
+It's the boss from where?
 Defeat 140 mini-bosses.
 
-まぁ油断はできないよね
+Oh, I can't be careless.
 Defeat 370 mini-bosses.
 
-疲れてる時は会いたくないな
+I don't want to meet you when I'm tired
 Defeat 700 mini-bosses.
 
-たま～にやられるよね
+You sometimes lose, right?
 Defeat 1100 mini-bosses.
 
-お前はただの噛ませ犬
+You bite just like a dog
 Defeat 1600 mini-bosses.
 
-前座には丁度いいかも
+It may be good for an opening performance.
 Defeat 2300 mini-bosses.
 
-中ボスだってボスなのに…
+Even though a mini-boss is a boss....
 Defeat 3000 mini-bosses.
 
-敵勢力のナンバー2
+Two times the enemy force power
 Defeat 4000 mini-bosses.
 
-マッドハンター
+Mad Hunter
 Defeat 5100 mini-bosses.
 
-どんなもんだい！
+What is it!
 Defeat 10 bosses.
 
-さすがにボスだね
+You're the boss indeed, right?
 Defeat 80 bosses.
 
-ボスにも慣れてきた？
+Am I used to the boss, too?
 Defeat 200 bosses.
 
-もう行動パターンは読めている
+I can predict your next move.
 Defeat 400 bosses.
 
-百戦錬磨は伊達じゃない
+A veteran isn't showy
 Defeat 600 bosses.
 
-日々の努力の賜物
+Gift of a daily effort
 Defeat 1000 bosses.
 
-いつでも相手になるよ？
+Will you be my opponent anytime?
 Defeat 1300 bosses.
 
-恐るるに足らず
+Not formidable enough
 Defeat 1800 bosses.
 
-ボスの面目丸潰れ
+The boss's face is ruined
 Defeat 2400 bosses.
 
-ボスキラー
+Boss Killer
 Defeat 3000 bosses.
 
 一味違うね？
@@ -1254,18 +1254,18 @@ Lv100達成
 金色のイレギュラー
 [ゴールデンシタデル]のボス[オルティメイタム]100回討伐
 
-失礼します
-フレンドのマイルーム1回訪問
+Excuse me.
+Visit a friend's room once
 
-食べ物をください
-フレンドのマイルーム500回訪問
+Can I have food?
+Visit a friend's room 500 times
 
-慣れてきましたね
-フレンドのマイルーム1000回訪問
+I'm getting used to it
+Visit a friend's room 1000 times
 
-あなたの家が好き
-フレンドのマイルーム2000回訪問
+I like your house.
+Visit a friend's room 2000 times
 
-隠してきたホームレス根性
-フレンドのマイルーム5000回訪問
+Hidden homeless guts
+Visit a friend's room 5000 times
 
