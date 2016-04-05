@@ -303,6 +303,7 @@ You do not have the extension ticket for expanding a slot.
 {0} was purchased from {1}.
 
 The selected items cannot be equipped nor used.
+
 Do you still want to proceed with the purchase?
 
 {0} has been sold in the {1}.
@@ -317,7 +318,7 @@ Expansion Cost：{0} Zenny
 
 Expansion Cost：{0} Hancoin
 
-Do you want to buy [{0}] {1}個を{2}で購入しますか?
+Will you buy [{0}] {1} items from {2}?
 
 [{0}]{1}個を{2}で売却しますか?
 
