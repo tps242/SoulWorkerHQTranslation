@@ -1,776 +1,775 @@
-パーティーボーナス（2人）
-パーティー結成時に付与される。
+Party Buff Bonus (2 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member2_NotFriend
 
-パーティーボーナス（2人）
-パーティー結成時に付与される。
+Party Buff Bonus (2 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member2_Friend1
 
-パーティーボーナス（3人）
-パーティー結成時に付与される。
+Party Buff Bonus (3 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member3_NotFriend
 
-パーティーボーナス（3人）
-パーティー結成時に付与される。
+Party Buff Bonus (3 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member3_Friend1
 
-パーティーボーナス（3人）
-パーティー結成時に付与される。
+Party Buff Bonus (3 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member3_Friend2
 
-パーティーボーナス（4人）
-パーティー結成時に付与される。
+Party Buff Bonus (4 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member4_NotFriend
 
-パーティーボーナス（4人）
-パーティー結成時に付与される。
+Party Buff Bonus (4 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member4_Friend1
 
-パーティーボーナス（4人）
-パーティー結成時に付与される。
+Party Buff Bonus (4 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member4_Friend2
 
-パーティーボーナス（4人）
-パーティー結成時に付与される。
+Party Buff Bonus (4 members)
+The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member4_Friend3
 
-ネットカフェボーナス
-ネットカフェ接続時に付与される。
+Internet Cafe Buff Bonus
+The buff is granted when connected.
 Icon/Booster/Icon_Booster_PC_Café
 
-ランクレベル1ボーナス
-ランク獲得時に付与。
+Level 1 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Beginner_D
 
-ランクレベル2ボーナス
-ランク獲得時に付与。
+Level 2 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Beginner_C
 
-ランクレベル3ボーナス
-ランク獲得時に付与。
+Level 3 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Beginner_B
 
-ランクレベル4ボーナス
-ランク獲得時に付与。
+Level 4 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Beginner_A
 
-ランクレベル5ボーナス
-ランク獲得時に付与。
+Level 5 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Rookie_D
 
-ランクレベル6ボーナス
-ランク獲得時に付与。
+Level 6 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Rookie_C
 
-ランクレベル7ボーナス
-ランク獲得時に付与。
+Level 7 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Rookie_B
 
-ランクレベル8ボーナス
-ランク獲得時に付与。
+Level 8 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Rookie_A
 
-ランクレベル9ボーナス
-ランク獲得時に付与。
+Level 9 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Senior_D
 
-ランクレベル10ボーナス
-ランク獲得時に付与。
+Level 10 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Senior_C
 
-ランクレベル11ボーナス
-ランク獲得時に付与。
+Level 11 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Senior_B
 
-ランクレベル12ボーナス
-ランク獲得時に付与。
+Level 12 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Senior_A
 
-ランクレベル13ボーナス
-ランク獲得時に付与。
+Level 13 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Veteran_D
 
-ランクレベル14ボーナス
-ランク獲得時に付与。
+Level 14 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Veteran_C
 
-ランクレベル15ボーナス
-ランク獲得時に付与。
+Level 15 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Veteran_B
 
-ランクレベル16ボーナス
-ランク獲得時に付与。
+Level 16 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Veteran_A
 
-ランクレベル17ボーナス
-ランク獲得時に付与。
+Level 17 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Master_D
 
-ランクレベル18ボーナス
-ランク獲得時に付与。
+Level 18 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Master_C
 
-ランクレベル19ボーナス
-ランク獲得時に付与。
+Level 19 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Master_B
 
-ランクレベル20ボーナス
-ランク獲得時に付与。
+Level 20 Rank Buff Bonus
+The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Master_A
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-アイテムドロップ率が増加する。
+Burning Event
+Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Item1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-ジェニー獲得量が増加する。
+Burning Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量が増加する。
+Burning Event
+Experience and Zenny gained is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-バーニングイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
-ブースターイベント
-獲得経験値が増加する。
+Booster Event
+Experience acquired is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
-ブースターイベント
-獲得経験値が増加する。
+Booster Event
+Experience acquired is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
-ブースターイベント
-獲得経験値が増加する。
+Booster Event
+Experience acquired is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
-ブースターイベント
-獲得経験値が増加する。
+Booster Event
+Experience acquired is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
-ブースターイベント
-獲得経験値が増加する。
+Booster Event
+Experience acquired is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
-ブースターイベント
-獲得経験値が増加する。
+Booster Event
+Experience acquired is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
-ブースターイベント
-ジェニー獲得量が増加する。
+Booster Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Gold1
 
-ブースターイベント
-ジェニー獲得量が増加する。
+Booster Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Gold1
 
-ブースターイベント
-ジェニー獲得量が増加する。
+Booster Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Gold1
 
-ブースターイベント
-ジェニー獲得量が増加する。
+Booster Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Gold1
 
-ブースターイベント
-ジェニー獲得量が増加する。
+Booster Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Gold1
 
-ブースターイベント
-ジェニー獲得量が増加する。
+Booster Event
+Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Gold1
 
-ブースターイベント
-アイテムドロップ率が増加する。
+Booster Event
+Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Item1
 
-ブースターイベント
-アイテムドロップ率が増加する。
+Booster Event
+Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Item1
 
-ブースターイベント
-アイテムドロップ率が増加する。
+Booster Event
+Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Item1
 
-ブースターイベント
-アイテムドロップ率が増加する。
+Booster Event
+Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Item1
 
-ブースターイベント
-アイテムドロップ率が増加する。
+Booster Event
+Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Item1
 
-ブースターイベント
-アイテムドロップ率が増加する。
+Booster Event
+Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_item_Item1
 
-ブースターイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Booster Event
+EXP Rate, Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Item_Burning1
 
-ブースターイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Booster Event
+EXP Rate, Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Item_Burning1
 
-ブースターイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Booster Event
+EXP Rate, Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Item_Burning1
 
-ブースターイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Booster Event
+EXP Rate, Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Item_Burning1
 
-ブースターイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Booster Event
+EXP Rate, Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Item_Burning1
 
-ブースターイベント
-経験値、ジェニー獲得量とアイテムドロップ率が増加する。
+Booster Event
+EXP Rate, Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Item_Burning1
-
