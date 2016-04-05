@@ -1,4 +1,4 @@
-# SoulWorkerHQTranslation
+# SoulWorkerHQ
 Soul Worker JP English Patch Project<br>
 [Home Page](http://soulworkerhq.com)<br>
 [Join us on Discord](https://discord.gg/0elCk6HCY5XkLg0t)
