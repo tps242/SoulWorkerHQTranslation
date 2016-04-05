@@ -89,25 +89,25 @@ It isn't broken, but I'd like to repair it!
 300,000 Zeny spent on repairs.
 
 仏の顔も三度まで //Face Buddha up to three times. 
-戦闘不能回数3回達成 //Battle impossible difficulty 3 time achievement 
+Incapacitated 3 times.
 
 Don't mind don't mind
-Faced an impossible battle 10 times. (dungeon?)
+Incapacitated 10 times.
 
 No, no ... Why?
-Faced an impossible battle 50 times.
+Incapacitated 50 times.
 
 Oh no... to this guy！
-Faced an impossible battle 100 times.
+Incapacitated 100 times.
 
 Where does it start next?
-Faced an impossible battle 200 times.
+Incapacitated 200 times.
 
 Stand up! I can still stand up--!!
-Faced an impossible battle 400 times.
+Incapacitated 400 times.
 
 わざとじゃないよ？
-戦闘不能回数800回達成
+Incapacitated 800 times.
 
 敵を倒すにはまず自分からってね
 戦闘不能回数1200回達成
