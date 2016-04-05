@@ -319,33 +319,33 @@ Expansion Cost：{0} Hancoin
 
 Will you buy [{0}] {1} items from {2}?
 
-[{0}]{1}個を{2}で売却しますか？
+Will you sell [{0}] {1} items at {2}？
 
-{0}を使用して、スロットをオープンしますか？
+Do you want to open {0}?
 
-売却すると{0}を獲得し、選択されたアイテムは売却されます。
+{0} will be put up for sale.
 
-売却するアイテムに<font color='#A566FF'>価値の高い</font>アイテムがあります。売却すると{0}を獲得できます。売却しますか？
+These items are of <font color='#A566FF'>high rarity</font>Do you still wish you sell them?
 
-ジャンク
+Inferior
 
-ノーマル
+Normal
 
-マジック
+Magical
 
-レア
+Rare
 
-ユニーク
+Unique
 
-レジェンド
+Legendary
 
-ヒーロー
+Heroic
 
-取引するジェニーを入力してください。
+Please enter the amount of Zenny to trade.
 
-入金するジェニーを入力してください。
+Please enter the amount of Zenny for payment.
 
-出金するジェニーを入力してください。
+Please enter the amount of Zenny to withdraw.
 
 1
 
@@ -379,238 +379,238 @@ Max
 
 Clear
 
-スロット拡張
+Slot Expansion
 
 Friend Point：
 
 Friend Point：
 
-{0}ジェニー
+{0} Zenny
 
-{0}エーテル
+{0} Ether
 
-{0}ソウルベイパー
+{0} Soul Essence
 
 {0}BP
 
-{0}Sコイン
+{0}S Coin
 
-{0}ハンコイン
+{0}Hancoin
 
-入庫
+Deposit
 
-売却
+Sell
 
-装備
+Equip
 
-使用
+Use
 
-分ける
+Split
 
 チャットリンク
 
-破棄
+Dispose
 
-出庫
+Sell 
 
-解除
+Remove
 
-削除
+Delete
 
-製作
+Craft
 
-強化
+Enhance
 
-分解
+Dismantle
 
-ソケット装備
+Socket Equip
 
-修理
+Repair
 
-取引登録
+Register Item
 
-情報表示
+Display Info
 
-進化
+Evolve
 
-ブローチ装着
+Socket Brooch
 
-装備可能アイテムのみ表示
+Show equipped items only
 
-ジェニー
+Zenny
 
-ハンコイン
+Hancoin
 
 全体
 
-種類
+Category
 
-キャラクター
+Character
 
-等級
+Grade
 
-レベル差が4以下のアイテムを表示
+Display items under 4 level difference
 
-装備可能アイテムのみ表示
+Display only equippable items
 
-基本材料
+Basic Materials
 
-追加材料
+Additional Materials
 
-所持
+Possessions
 
-必要
+Requirement
 
-アイテム製作
+Item Crafting
 
-固定製作
+Fixed Crafting
 
-ランダム製作
+Random Crafting
 
-必要BP
+BP Required
 
-必要ジェニー
+Zenny Required
 
-{0}の製作に成功しました。
+{0} was successfully made.
 
-製作リスト
+Crafting List
 
-必要材料
+Necessary materials
 
-設計図は自動登録されます。
+Blueprints will be registered.
 
-追加材料は自動登録されます。
+Additional materials will be registered.
 
-製作可能アイテムのみ表示
+Display only craftable items.
 
-装備アイテムの耐久度減少により、
-能力値が{0}%減少しました。
+The equipments' durability have been reduced.
+The durability has declined by {0}%.
 
-所持アイテムを全て修理しますか？
-(修理費：{0}ジェニー)
+Are you sure you want to repair all equipment in possession?
+(Costs：{0} Zenny)
 
-装備中のアイテムを全て修理しますか？
-(修理費：{0}ジェニー)
+Are you sure you want to repair all worn equipment?
+(Costs：{0} Zenny)
 
-{0}を修理しますか？
-(修理費：{1}ジェニー)
+Are you sure you want to repair {0}?
+(Costs：{1} Zenny)
 
-{0}が修理されました。
-修理費：{1}ジェニー
+{0} has been repaired.
+(Costs：{1} Zenny)
 
-装備中のアイテムが修理されました。
-修理費：{0}ジェニー
+Equiped items have been repaired.
+(Costs：{0} Zenny)
 
-全てのアイテムが修理されました。
-修理費：{0}ジェニー
+All equipment has been repaired.
+(Costs：{0} Zenny)
 
-費用が不足しているため、修理できません。
+Insufficient funds for repairing.
 
-選択したアイテムは修理できません。
-(耐久度が減少しているアイテムのみ修理できます)
+This item can not be repaired.
+(Only items with decreased durability can be repaired)
 
-アイテムの耐久度が0なので、性能を発揮できません。
+The item cannot be equipped because it has zero durability.
 
-アイテムを修理してください。
+Please repair the item.
 
-耐久度{0}
+Durability : {0}
 
-メイズ
-全体獲得
+Instance
+Earn
 
-達成状況
+Progress
 
-{0}時間{1}分{2}秒
+{0} time {1} minutes {2} seconds
 
-{0}分{1}秒
+{0} minutes {1} seconds
 
-追加報酬獲得：{0} X {1}
+Additional Rewards Gained：{0} X {1}
 
-インベントリに空きスロットが無いため、[{0} X {1}]がメールで発送されました。
+Since there is no remaining inventory space, it has been shiped by、[{0} X {1}] mail.
 
 Result
 
-プレイ記録
+Performance Record
 
-クリア点数
+Clearing Points
 
-クリア時間
+Clearing Time
 
-メイズ難易度
+Instance Difficulty
 
-最大コンボ
+Max Combo Attained
 
-完了報酬
+Completion Reward
 
-プレイ報酬
+Performance Reward
 
-スペシャル報酬
+Special Reward
 
-アバター
+Avatar
 
-アイテム
+Item
 
-イベント
+Event
 
-ネカフェ
+Internet Cafe
 
-最終報酬
+Final Reward
 
 Party Ranking
 
-追加報酬
+Extra Reward
 
-<獲得>
+<Acquired>
 
-<メール支給完了>
+<Mail Payed>
 
-追加獲得
+Additional Earnings
 
-今回のメイズ獲得
+Instance Earnings
 
-追加報酬を受け取るためには[ボーナスカードキー]が必要です。
+In order to receive additional rewards, a bonus key card is required.
 
-{0}秒後に自動で閉じます。
+The advertisement closes after {0} seconds.
 
-情報表示
+Display Info
 
-リーダー委任
+Transfer Leadership
 
-パーティ追放
+Expel Party Member
 
-パーティ離脱
+Leave Party
 
-ささやき
+Whisper
 
-フレンド登録
+Add Friend
 
-復活
+Revive
 
-※<font color='#F15F5F'>戦闘を放棄し</font>、<font size='15' color='#F7AE54'>{0}</font>秒後、<font color='#F15F5F'>町に移動</font>します。
+You will be <font size = '15 'color =' # F7AE54 '>moved to town</font> after abandoning the party in {0} seconds.
 
-放棄
+Abandonment
 
-※バフ効果<font color='#5CD1E5'>[加護]</font>を使用して復活します。
+You have been ressurected by the blessing buff effect.
 
 ※<font color='#F2CB61'>[アクシジェントコール]1個</font>を使用して復活します。
 
 ※<font size='15' color='#F7AE54'>{0}</font>秒後、<font color='#F15F5F'>最後の町に移動</font>します。
 
-※<font color='#47C83E'>「{0}」の助けにより復活</font>します。
+<font color='#47C83E'>{0} has revived you</font>
 
 ※<font color='#FFBB00'>[トップアクシジェントコール]1個</font>を使用して復活します。
 
 ※<font color='#FFBB00'>[トップアクシジェントコール]</font>がないため、復活できません。
 
-離脱
+Withdraw
 
-委任
+Delegate
 
-追放
+Expel
 
-承諾
+Accept
 
-拒否
+Reject
 
 OFFLINE
 
@@ -618,265 +618,265 @@ OFFLINE
 
 A
 
-一般
+General
 
-取引
+Trade
 
-パーティ
+Party
 
-ギルド
+Guild
 
-ささやき
+Whisper
 
-[{0}]のささやき：
+[{0}] whispers：
 
-[{0}]へ：
+[{0}] says：
 
-[{0}]の叫び：
+[{0}] shouts：
 
-さんへ
+says
 
-{0}からパーティーに招待されました。
-パーティーに合流しますか？
-(残り{1}秒)
+You have received a party invitation from {0}.
+Do you accept this party invitation?
+(Response time remaining: {1} seconds)
 
-パーティーを離脱すると、町に移動します。
-離脱しますか？
+If you leave the party, you will be teleported to town.
+Are you sure you want to leave the party?
 
-パーティーを離脱して、町に移動します。
-(残り{0}秒)
+Left the party. Teleporting to town.
+(In {0} seconds)
 
-{0}にパーティーリーダーを委任しますか？
+Are you sure you want to transfer party leadership to {0}？
 
-{0}をパーティーから追放しますか？
+Are you sure you want to expel {0} from the party？
 
-現在加入中のパーティーから離脱しますか？
+Are you sure you want to leave the party?
 
-{0}のレベルを上げますか？
-({1}SP消費)
+Do you want to raise {0}'s skill level？
+(Costs: {1} SP)
 
-所持SP
+SP in Possession
 
-{0} Point
+{0} Points
 
-{0}を習得しますか？
-({1}SP消費)
+Do you want to learn {0}?
+(Costs: {1} SP)
 
-スキルデッキを拡張しますか？
+Are you sure you want to extend the skill deck?
 
-スキルを初期化しますか？
+Are you sure you want to activate the skills?
 
-カード数：
+Number of Cards:
 
-残り時間
+Time Left:
 
-{0}時間{1}分
+{0} time {1} minutes
 
-呼び出し
+Summon
 
-借りたカードは専用スロットに自動で配置されます。
+The rented card will be placed in a dedicated slot.
 
-{0}を使用しますか？
-(アイテム使用で獲得したA.Rカードは売却及び取引ができません)
+Do you want to use {0}?
+(A.R Cards that are used cannot be sold nor traded)
 
-必要Lｖ
+Insufficient level.
 
-必要SP
+Insufficient SP.
 
-アイテム獲得
+Item acquired
 
-使用
+Use
 
-{0}獲得
+{0} acquired
 
-現在HP
+Current HP
 
-現在SG
+Current SG
 
-現在スタミナ
+Current Stamina
 
-力
+Power
 
-敏捷
+Evasion Rate
 
-知能
+Intelligence
 
 均衡
 
 HP
 
-幸運
+Luck
 
 HP
 
-HP回復
+HP Recovery
 
 SG
 
-SG回復
+SG Recovery
 
-スタミナ
+Stamina
 
-スタミナ回復
+Stamina Recovery
 
-現在ソウルベイパー
+Current Soul Essence
 
-ソウルベイパー
+Soul Essence
 
-移動速度(%)
+Movement Speed(%)
 
-攻撃速度(%)
+Attack Speed(%)
 
-最小攻撃力
+Minimum Attack Power
 
-最大攻撃力
+Maximum Attack Power
 
-最小魔法攻撃力
+Minimum Magic Attack Power
 
-最大魔法攻撃力
+Maximum Magic Attack Power
 
-防御度
+Defense
 
-魔法防御度
+Magic Resistance
 
-命中度
+Accuracy
 
-魔法攻撃命中率(%)
+Magical Accuracy(%)
 
-攻撃失敗時ダメージ(%)
+Ineffective Attack Damage(%)
 
-クリティカル(%)
+Critical Rate(%)
 
-魔法クリティカル率(%)
+Magic Critical Rate(%)
 
-クリティカル抵抗(%)
+Critical Resistance(%)
 
-魔法クリティカル抵抗(%)
+Magic Critical Resistance(%)
 
-クリティカル率(%)
+Critical Rate(%)
 
-魔法クリティカル率(%)
+Magic Critical Rate(%)
 
-クリティカルダメージ
+Critical Damage
 
-魔法クリティカル攻撃
+Magic Critical Damage
 
-ダメージ減少確率(%)
+Damage Reduction Chance(%)
 
-ダメージ減少(%)
+Damage Reduction(%)
 
-魔法ダメージ減少(%)
+Magic Damage Reduction(%)
 
-持続状態異常抵抗力(%)
+Persistant Abnormal State Resistance(%)
 
-操作状態異常抵抗力(%)
+Active Abnormal State Resistance(%)
 
-特殊状態異常抵抗力(%)
+Special Abnormal State Resistance(%)
 
-情報表示
+Display Information
 
-フレンド登録
+Befriend
 
-ささやき
+Whisper
 
-取引
+Trade
 
-付いて行く
+Follow
 
-パーティー招待
+Party Invite
 
-ギルド招待
+Guild Invite
 
-遮断
+Block User
 
-メンバー全員が同意すると、メイズに入場します。
-(入場時に別の町にいたり、
-ログアウト状態のメンバーは合流できません)
+The instance can be entered when everyone consents.
+(Members in a different town.
+Members that are logged out.)
 
-パーティーリーダーがメイズ入場を要請しています。入場しますか？
-入場地域：[{0}]
-エピソード：[{1}]
-難易度：[{2}]
-(残り時間：{3}秒)
+The party leader has initiated an instance. Do you wish to join?
+Location：[{0}]
+Episode：[{1}]
+Difficulty：[{2}]
+(Response Time Remaining：{3} seconds)
 
-メンバーの{0}が、メイズ入場を拒否しました。
+Party Members {0}, have refused to join the instance.
 
-間もなく次のエリアに移動します。
-(残り{0}秒)
+You will soon be moved to another area.
+(Remaining Time: {0} seconds)
 
-力尽きました。復活しますか？
+You have been incapacitated. Do you want to revive?
 
-[{0}]の攻撃によって力尽きました。
+You have been incapacitated by [{0}].
 
-噴き出すソウルエナジーによって復活します。
+Ressurected by consuming soul energy.
 
 周囲のソウルエナジーを吸収して復活します。
 
 力尽きました。[{0}]に移動します。
 
-[{0}]を使用しました。
+[{0}] was consumed.
 
-[{0}]が[{1}]を使用しました。
+[{0}] was used by [{1}]。
 
-獲得：{0}
+Gained：{0}
 
-獲得：{0}EXP
+Gained：{0}EXP
 
-獲得：{0}EXP[ X {1}倍]
+Gained：{0}EXP[ X {1}]
 
-会話
+Chat
 
-商店
+Shop
 
-銀行
+Bank
 
-強化
+Enhancements
 
-合成
+Synthesis
 
-競売場
+Auction House
 
-製作
+Crafting
 
-ファッション(未定)
+Fashion(Test)
 
-エリア移動
+Move
 
-ギルド管理(未定)
+Guild Management
 
-ギルド管理(未定)
+Guild Management
 
-通信(未定)
+Communication(Test)
 
-NPC機能
+NPC function
 
-クエストリスト[Space]
+Quest List
 
-会話機能
+Converse
 
-クエスト会話
+Quest Dialogue
 
 トップ
 
-戻る
+Return
 
-進む[Space]
+Advance[Space]
 
 Skip
 
-閉じる[ESC]
+Close[ESC]
 
-会話完了[Space]
+End Conversation[Space]
 
-完了[Space]
+End[Space]
 
-ソケット管理機能
+Manage Sockets
 
-受注[Space]
+Accept Order[Space]
 
-拒否[Back]
+Reject-[Back]
 
-{0}ジェニー
+{0} Zenny
 
 {0}EXP
 
@@ -884,301 +884,301 @@ Lv{0}
 
 {0}位
 
-カジュアルレイド、別名「異常空白」は高難易度のパーティー専用メイズです。しっかり準備を整えてから参加してください。
+The raid "Strange Space" is a difficult instance. Please proceed with caution.
 
-最上級レイド「ゴールデンシタデル」は4人パーティー専用メイズです。黄金の災厄を突破してください。
+The raid "Golden Citadel" is a four-person instance. Please remediate the calamity.
 
-極限の戦闘トレーニングシミュレーション「スチールグレイブ」で自らの限界に挑戦してください。1日に1回のみ挑戦できます。
+The instance "Steel Grave" can only be challenged once a day.
 
-ノーマル
+Normal
 
-ベリーハード
+Very Hard
 
-エキスパート
+Expert
 
-パーティー専用
+Dedicated Party
 
-パーティー専用[4人]
+Party of 4
 
-FP消費
+FP consumption
 
-専用入場券が必要です。
+An admission ticket is required.
 
-推奨Ｌｖ：{0}
+Recommended Level:{0}
 
-推奨人数：{0}
+Recommended Number of Party Members：{0}
 
-入場回数
+Entry Limit
 
-1人単独
+Solo
 
-1人
+1 Person
 
-2人
+2 People
 
-3人
+3 People
 
-パーティー推奨
+Party Recommended
 
-レベル制限
+Level Limit
 
-装備中のアイテム
+Equipment Requirement
 
 {0}[+{1}]
 
-<font color='#0099FF'>分解可能</font>
+<font color='#0099FF'>Dismantable</font>
 
-<font color='#0099FF'>強化可能</font>
+<font color='#0099FF'>Enhancable</font>
 
-<font color='#0099FF'>進化可能</font>
+<font color='#0099FF'>Evolvable</font>
 
-<font color='#FF0000'>装備時帰属</font>
+<font color='#FF0000'>Bound on equip</font>
 
-<font color='#FF0000'>獲得時帰属</font>
+<font color='#FF0000'>Bound on acquisition</font>
 
-<font color='#FF0000'>帰属アイテム</font>
+<font color='#FF0000'>Bound</font>
 
-<font color='#FF0000'>取引不可</font>
+<font color='#FF0000'>Untradable</font>
 
-<font color='#FF0000'>取引不可(帰属状態)</font>
+<font color='#FF0000'>Untradable (status)</font>
 
-<font color='#FF0000'>売却不可</font>
+<font color='#FF0000'>Unsellable</font>
 
-<font color='#FF0000'>破棄不可</font>
+<font color='#FF0000'>Indestructible</font>
 
-<font color='#FF0000'>移動不可</font>
+<font color='#FF0000'>Untransferable</font>
 
-販売価格
+Selling Price:
 
-クールタイム：
+Cooldown：
 
-持続時間：
+Duration：
 
-秒
+Second		
 
-分
+Minute
 
-時間
+Time
 
-日
+Day
 
-必要Ｌｖ
+Level Required:
 
-耐久度
+Durability
 
-表示
-不可
+Showcase Item
+Action denied
 
-装備
-不可
+Equip
+Action denied
 
-製作者
+Craft
 
-ソケット情報
+Socket Information
 
-ソケット追加アイテム使用時、ソケット活性化可能。
+When additional socket items are used, the sockets are activated.
 
-適用対象：
+Effective:
 
-自分
+myself
 
-パーティーメンバー
+party members
 
-敵
+enemy
 
 Master
 
-チャージ後スキル使用
+Use skill, after charging
 
-使用時ON/OFF
+ON/OFF
 
-カーソル移動照準
+Cursor Targetting
 
-チャージ後スキル使用
+Use skill, after charging
 
-敵をターゲット
+Target Enemy
 
-左クリック連打
+Left-Click Barrage
 
-左クリック長押し
+Hold down left click
 
-左クリックまたは右クリック連打
+Left or right-click barrage
 
-推奨連携スキル
+Recommended Link Skill
 
-スキル使用時、効果適用
+When using the skill, the effect is applied
 
-習得時、自動で効果適用
+The skill is passively applied.
 
-ランダムオプション{0}個付与
+Random attribute {0} applied
 
-狙撃モード転換
+Activate Sniper Mode
 
-装備アイテム比較
+Compare Equipment
 
-最終ステータス比較
+Status Comparison
 
-オプション比較
+Attributes Comparison
 
-セット効果比較
+Set Effect Comparison
 
-ソケット効果比較
+Socket Effect Comparison
 
 {0}セット：
 
 Exp
 
-ブローチ情報
+Brooch Information
 
-着用部位
+Socket brooch
 
-着用ブローチなし
+Equip
 
-ソケットアイテム装着
+Socket item attached.
 
-ファミリアを装着できます。
+Attach Familia
 
-ソケット装着に必要な
-アイテムまたは手数料が不足しています。
+Socket item is required.
+Item or price is missing.
 
-手数料
+Commission
 
-ファミリア装着
+Attach Familia
 
-装着中のアイテムを解除後に、新しいアイテムを装着できます。
+After attaching socket items, new socket items cannot be applied.
 
-非活性化ソケットは、活性化状態に変更した後でアイテムを装着できます。
+You can attach the socket item after unattaching the applied socket item.
 
-対象ソケットにファミリアを装着しますか？
+Are you sure you want to attach the Familia to the target socket?
 
-ファミリア装着に成功しました。
+Familia has been successfully installed.
 
-ソケットアイテム管理
+Socket Item Management
 
-ソケットに装着中のファミリアを解除したり、
-新しいソケットを追加できます。
+You can add a new Familia in the socket.
+Release the Familia first.
 
-アイテムの解除に必要な
-アイテムまたは手数料が不足しています。
+Item must be delisted.
+An item is missing or a fee is not paid.
 
-新規ソケット追加に必要なアイテムが不足しています。
+Items required to add the new socket are missing.
 
-ファミリア解除
+Familia successfuly released.
 
-新規ソケット追加
+Additional Socket
 
-ソケットに装着されているアイテムを解除しますか？
-(解除したアイテムはインベントリに移動します)
+Are you sure you want to remove the socketed item?
+(It will be returned to the inventory)
 
-選択したアイテムに新しいソケットを追加しますか？
+Do you want to add a new socket to the selected item?
 
-ファミリア装着はソケットアイテム装着ポップアップで進行できます。
-(装着ポップアップはアイテム右クリックメニューから選択できます)
+Familia can be attached to socket items.
+(To attach it, select the item first, then right-click)
 
-選択したファミリアが解除されました。
+Selected Familia has been canceled.
 
-選択したアイテムにソケットが追加されました。
+A socket has been added to the selected item。
 
-ソケット機能を使用できないアイテムです。
+This item cannot be socketed with a socket item.
 
-右手
+Right Hand
 
-左手
+Left Hand		
 
-頭
+Head
 
-肩
+Shoulder
 
-体
+Chest
 
-脚
+Ankle
 
-首
+Neck
 
-耳
+Ear
 
-指
+Finger
 
-パーティー
+Party
 
-ギルド
+Guild
 
-クエスト
+Quest
 
-メイズ
+Instance
 
-ポータル
+Portal
 
 NPC
 
-CH{0}に入場しました。
+Entered CH{0}.
 
-武器
+Weapon
 
-髪
+Hair
 
-頭
+Head
 
-目
+Eye
 
-口
+Mouth
 
-上衣
+Jacket
 
-手
+Hand
 
-下衣
+Underwear
 
-おしり
+Bottom
 
-靴
+Shoes
 
-タイツ/靴下
+Socks
 
-背
+Back
 
-下着
+Underwear
 
-{0}の分解に成功。
-獲得アイテム：{1} X {2}
-獲得エーテル{3}
+Dismantled {0}.
+Acquired：{1} X {2}
+Acquired Ether{3}
 
-アイテム分解に失敗しました。
+Dismantling failed.
 
-{0}を分解しますか？
+Do you want to dismantle {0}?
 
-確認を押すと選択したアイテムを分解します。
-分解しますか？
+Dismantle the selected item and press confirm.
+Are you sure you want to dismantle?
 
-分解対象に<font color='#A566FF'>価値の高いアイテム</font>があります。
-確認を押すと該当アイテムは分解され、復元できなくなります。分解しますか？
+The selected item is a<font color='#A566FF'>valuable item</font>.
+Upon dismantling, the item cannot be restored. Do you want to proceed?
 
-{0}が不足しているため、分解できません。
+There is not enough {0}, therefore it can't be dismantled.
 
-インベントリが不足しているため分解できません。
+Insufficient inventory space for dismantling.
 
 MAX
 
-装備すると、アイテムは帰属状態になります。
-アイテムを装備しますか？
+When equipped, the item will be bound.
+Do you want to equip the item?
 
-ステータス
+Status
 
-キャラクター
+Character
 
 Ｌｖ
 
-称号
+Title
 
-設定
+Configuration
 
-基本情報
+Basic Information
 
-最大攻撃力
+Maximum Attack Power
 
-防御力
+Defense Power
 
-現在の称号
+Current Title
 
 適用能力値
 
