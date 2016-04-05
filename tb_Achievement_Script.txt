@@ -331,34 +331,34 @@ Defeat 2400 raid bosses.
 Defeat 3000 raid bosses.
 
 ガラクタはガラクタらしく
-Defeat 100 Soul Junk,
+Defeat 100 Soul Junk.
 
 クリーンアップ作戦
-Defeat 800 Soul Junk,
+Defeat 800 Soul Junk.
 
 帰ったら手洗いうがいをしっかりね！
-Defeat 2000 Soul Junk,
+Defeat 2000 Soul Junk.
 
 なんとか再利用できないかな？
-Defeat 4000 Soul Junk,
+Defeat 4000 Soul Junk.
 
 良くみると可愛いかも
-Defeat 6000 Soul Junk,
+Defeat 6000 Soul Junk.
 
 ジャンクにしてはしっかりしてる
-Defeat 9000 Soul Junk,
+Defeat 9000 Soul Junk.
 
 こう見えても潔癖症
-Defeat 13000 Soul Junk,
+Defeat 13000 Soul Junk.
 
 ヴェシとの違いがわからない
-Defeat 18000 Soul Junk,
+Defeat 18000 Soul Junk.
 
 ジャンク愛好家
-Defeat 23000 Soul Junk,
+Defeat 23000 Soul Junk.
 
 ジャンククリーナー
-Defeat 30000 Soul Junk,
+Defeat 30000 Soul Junk.
 
 もう見たくない…
 Defeat 110 puppets.
@@ -391,34 +391,34 @@ Defeat 26500 puppets.
 Defeat 34200 puppets.
 
 さぁ始めよう…
-ネッドカンパニー勢力の敵を110回討伐
+Defeat 110 NEDs.
 
 裏切りの報い
-ネッドカンパニー勢力の敵を450回討伐
+Defeat 450 NEDs.
 
 目には目を歯には歯を
-ネッドカンパニー勢力の敵を1200回討伐
+Defeat 1200 NEDs.
 
 復讐のその先には…
-ネッドカンパニー勢力の敵を2250回討伐
+Defeat 2250 NEDs.
 
 地獄の果てまで追い詰める
-ネッドカンパニー勢力の敵を3600回討伐
+Defeat 3600 NEDs.
 
 許して…あげない！
-ネッドカンパニー勢力の敵を5400回討伐
+Defeat 5400 NEDs.
 
 因果応報
-ネッドカンパニー勢力の敵を7650回討伐
+Defeat 7650 NEDs.
 
 裁くのは神じゃない…私だ！
-ネッドカンパニー勢力の敵を10100回討伐
+Defeat 10100 NEDs.
 
 復讐の鬼
-ネッドカンパニー勢力の敵を13250回討伐
+Defeat 13250 NEDs.
 
 この復讐こそ…正義！
-ネッドカンパニー勢力の敵を17100回討伐
+Defeat 17100 NEDs.
 
 話にならないな
 ラピッドフレイム勢力の敵を110回討伐
