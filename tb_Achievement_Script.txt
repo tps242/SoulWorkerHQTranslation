@@ -110,43 +110,43 @@ Incapacitated 400 times.
 Incapacitated 800 times.
 
 敵を倒すにはまず自分からってね
-戦闘不能回数1200回達成
+Incapacitated 1200 times.
 
 倒れたって良いんだよ
-戦闘不能回数1600回達成
+Incapacitated 1600 times.
 
 倒れてない。この星を抱いてるだけ
-戦闘不能回数2000回達成
+Incapacitated 2000 times.
 
 大したことないね？
-敵討伐回数500回達成
+Defeat 500 enemies.
 
 出させてくれよ…本気を
-敵討伐回数1000回達成
+Defeat 1000 enemies.
 
 足りない…足りない！
-敵討伐回数2000回達成
+Defeat 2000 enemies.
 
 これくらいは余裕でしょ？
-敵討伐回数5000回達成
+Defeat 5000 enemies.
 
 ご愁傷様でした
-敵討伐回数10000回達成
+Defeat 10000 enemies.
 
 通過点に過ぎない
-敵討伐回数20000回達成
+Defeat 20000 enemies.
 
 体が勝手に…
-敵討伐回数50000回達成
+Defeat 50000 enemies.
 
 もっともっともっと！！
-敵討伐回数100000回達成
+Defeat 100000 enemies.
 
 邪魔する者は全て排除！
-敵討伐回数200000回達成
+Defeat 200000 enemies.
 
 全てを制す者…ここに見参！
-敵討伐回数500000回達成
+Defeat 500000 enemies.
 
 手始めに…
 最も弱く見える敵を130回討伐
