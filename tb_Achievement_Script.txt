@@ -1,110 +1,110 @@
-まぁ試しに使ってみただけ！
-消費アイテムを20回使用
+Oh, I used it for trial!
+A consumption item is used 20 times.
 
-結構役に立つかも
-消費アイテムを50回使用
+It may be quite useful.
+A consumption item is used 50 times.
 
-使わないともったいない！
-消費アイテムを100回使用
+When it isn't used, it's wasteful!
+A consumption item is used 100 times.
 
-いくらあっても困ることはない
-消費アイテムを200回使用
+Even if I have that, how much wouldn't that be a problem?
+A consumption item is used 200 times.
 
-止められない！
-消費アイテムを400回使用
+It isn't stopped!
+A consumption item is used 400 times.
 
-止められない！止まらない！
-消費アイテムを800回使用
+It isn't stopped! It doesn't stop!
+A consumption item is used 800 times.
 
-手元にないと不安になってくる
-消費アイテムを1600回使用
+When it isn't in hand, I'm feeling uneasy.
+A consumption item is used 1600 times.
 
-用法用量を守ってお使いください
-消費アイテムを3200回使用
+Please maintain the usage amount and use it.
+A consumption item is used 3200 times.
 
-あれ？いつの間に？
-消費アイテムを6400回使用
+Oh? During when?
+A consumption item is used 6400 times.
 
-冒険の必需品
-消費アイテムを12800回使用
+Necessity of an adventure.
+A consumption item is used 12800 times.
 
-近いからついつい
-商店でアイテムを5回購入
+Just because it's nearby.
+An item is bought 5 times at a store.
 
-まぁまぁ良い店じゃない？
-商店でアイテムを30回購入
+Oh, oh, isn't it a good store?
+An item is bought 30 times at a store.
 
-そろそろ新作入れてくれない？
-商店でアイテムを100回購入
+Don't you put a new design in by and by?
+An item is bought 100 times at a store.
 
-ポイントって貯まらないの？
-商店でアイテムを300回購入
+Isn't a point saved?
+An item is bought 300 times at a store.
 
-今日はどれにしようかな？
-商店でアイテムを600回購入
+Which will you take today?
+An item is bought 600 times at a store.
 
-いつもの！とか言ってみたい
-商店でアイテムを1000回購入
+Give me the usual.
+An item is bought 1000 times at a store.
 
-経済の中心は私！
-商店でアイテムを2000回購入
+The center of the economy is me!
+An item is bought 2000 times at a store.
 
-端から端まで全部頂戴
-商店でアイテムを5000回購入
+Can I have everything from the end to the end?
+An item is bought 5000 times at a store.
 
-私がここの大黒柱
-商店でアイテムを8000回購入
+I've been a mainstay here.
+An item is bought 8000 times at a store.
 
-私も店始めようかな？
-商店でアイテムを10000回購入
+Should I open a store too?
+An item is bought 10000 times at a store.
 
-形ある物いつかは壊れる
-累積修理費30000ジェニー達成
+Something breaks the shape sometimes.
+Accumulation repair fee 30000 zeny achievement
 
-ちょっと壊れやすくない？
-累積修理費50000ジェニー達成
+Isn't it slightly easy to break?
+Accumulation repair fee 50000 zeny achievement
 
-もっと丈夫なのないの？
-累積修理費70000ジェニー達成
+Isn't there a stronger one?
+Accumulation repair fee 70000 zeny achievement
 
-使い捨てが欲しいかも…
-累積修理費90000ジェニー達成
+I want a disposable one...
+Accumulation repair fee 90000 zeny achievement
 
-修理修理って…
-累積修理費110000ジェニー達成
+Repairing repairing...?
+Accumulation repair fee 110000 zeny achievement
 
-物持ちがいいってことで
-累積修理費130000ジェニー達成
+Tt takes a good amount of care for things to last long.
+Accumulation repair fee 130000 zeny achievement
 
-新しい武器買えたかも？
-累積修理費140000ジェニー達成
+Maybe a new weapon could be bought?
+Accumulation repair fee 140000 zeny achievement
 
-こんなにつぎ込む必要が？
-累積修理費160000ジェニー達成
+Is it necessary to invest so much?
+Accumulation repair fee 160000 zeny achievement
 
-変に愛着が…
-累積修理費180000ジェニー達成
+Strange love....
+Accumulation repair fee 180000 zeny achievement
 
-壊れてないけど修理したい！
-累積修理費300000ジェニー達成
+It isn't broken, but I'd like to repair it!
+Accumulation repair fee 300000 zeny achievement
 
-仏の顔も三度まで
-戦闘不能回数3回達成
+仏の顔も三度まで //Face Buddha up to three times. 
+戦闘不能回数3回達成 //Battle impossible difficulty 3 time achievement 
 
-ドンマイドンマイ
-戦闘不能回数10回達成
+Don't mind don't mind
+Battle impossible difficulty 10 time achievement
 
-いやいや…なんで？
-戦闘不能回数50回達成
+No, no ... Why?
+Battle impossible difficulty 50 time achievement
 
-しまった…こんな奴に！
-戦闘不能回数100回達成
+Oh no... to this guy！
+Battle impossible difficulty 100 time achievement
 
-次はどっから始まるんだっけ？
-戦闘不能回数200回達成
+Where does it start next?
+Battle impossible difficulty 200 time achievement
 
-立て！立つんだ～～！！
-戦闘不能回数400回達成
+Stand up! I can still stand up--!!
+Battle impossible difficulty 400 time achievement
 
 わざとじゃないよ？
 戦闘不能回数800回達成
