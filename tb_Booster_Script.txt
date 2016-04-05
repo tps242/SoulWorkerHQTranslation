@@ -119,83 +119,83 @@ The buff is granted upon rank acquisiion.
 Icon/Echelon/Icon_Booster_Echelon_Master_A
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
-Experience acquisition is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 Burning Event
@@ -359,199 +359,195 @@ Zenny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience and Zenny gained is increased.
+Experience and Zenny gained are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Rate and Item Drop rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Experience Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
-Icon/Booster/Icon_Booster_Event_Burning1
-
-Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
@@ -559,7 +555,7 @@ Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
@@ -567,139 +563,143 @@ Zenny Drop Rate and Item Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Zenny Drop Rate and Item Drop Rate is increased.
+Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Zenny Drop Rate and Item Drop Rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Burning Event
-Experience Gain, Zenny Drop Rate and Item Drop rate is increased.
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
+Icon/Booster/Icon_Booster_Event_Burning1
+
+Burning Event
+Experience Gain, Zenny Drop Rate and Item Drop rate are increased.
 Icon/Booster/Icon_Booster_Event_Burning1
 
 Booster Event
-Experience acquired is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
 Booster Event
-Experience acquired is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
 Booster Event
-Experience acquired is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
 Booster Event
-Experience acquired is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
 Booster Event
-Experience acquired is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
 Booster Event
-Experience acquired is increased.
+Experience gain is increased.
 Icon/Booster/Icon_Booster_item_Exp1
 
 Booster Event
