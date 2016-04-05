@@ -6,6 +6,7 @@ Join us on Discord: https://discord.gg/0elCk6HCY5XkLg0t
 What to do?
   - Simply replace the Japanese text with English text.
   - don't make large commit changes
+  - make a pull if you want to edit something already translated
 
 
 
