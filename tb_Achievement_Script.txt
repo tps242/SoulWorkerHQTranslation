@@ -1,10 +1,10 @@
-Oh, I used it for trial!
+Oh, I used it for a trial!
 A consumable is used 20 times.
 
 It may be quite useful.
 A consumable is used 50 times.
 
-When it isn't used, it's wasteful!
+It's wasteful to not use it!
 A consumable is used 100 times.
 
 Even if I have that, how much wouldn't that be a problem?
@@ -40,16 +40,16 @@ Purchase 100 items at a store.
 Isn't a point saved?
 Purchase 300 items at a store.
 
-Which will you take today?
+What will you take today?
 Purchase 600 items at a store.
 
 Give me the usual.
 Purchase 1000 items at a store.
 
-The center of the economy is me!
+The economy revolves around me!
 Purchase 3000 items at a store.
 
-Can I have everything from the end to the end?
+Can I have everything from start to finish?
 Purchase 5000 items at a store.
 
 I've been a mainstay here.
