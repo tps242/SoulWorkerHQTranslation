@@ -34,100 +34,100 @@ Party Buff Bonus (4 members)
 The buff is granted when the party is formed.
 Icon/Booster/Icon_Booster_Party_Member4_Friend3
 
-ネットカフェボーナス
-ネットカフェ接続時に付与される。
+Internet Cafe Buff Bonus
+The buff is granted when connected.
 Icon/Booster/Icon_Booster_PC_Café
 
-ランクレベル1ボーナス
-ランク獲得時に付与。
+Level 1 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Beginner_D
 
-ランクレベル2ボーナス
-ランク獲得時に付与。
+Level 2 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Beginner_C
 
-ランクレベル3ボーナス
-ランク獲得時に付与。
+Level 3 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Beginner_B
 
-ランクレベル4ボーナス
-ランク獲得時に付与。
+Level 4 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Beginner_A
 
-ランクレベル5ボーナス
-ランク獲得時に付与。
+Level 5 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Rookie_D
 
-ランクレベル6ボーナス
-ランク獲得時に付与。
+Level 6 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Rookie_C
 
-ランクレベル7ボーナス
-ランク獲得時に付与。
+Level 7 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Rookie_B
 
-ランクレベル8ボーナス
-ランク獲得時に付与。
+Level 8 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Rookie_A
 
-ランクレベル9ボーナス
-ランク獲得時に付与。
+Level 9 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Senior_D
 
-ランクレベル10ボーナス
-ランク獲得時に付与。
+Level 10 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Senior_C
 
-ランクレベル11ボーナス
-ランク獲得時に付与。
+Level 11 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Senior_B
 
-ランクレベル12ボーナス
-ランク獲得時に付与。
+Level 12 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Senior_A
 
-ランクレベル13ボーナス
-ランク獲得時に付与。
+Level 13 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Veteran_D
 
-ランクレベル14ボーナス
-ランク獲得時に付与。
+Level 14 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Veteran_C
 
-ランクレベル15ボーナス
-ランク獲得時に付与。
+Level 15 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Veteran_B
 
-ランクレベル16ボーナス
-ランク獲得時に付与。
+Level 16 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Veteran_A
 
-ランクレベル17ボーナス
-ランク獲得時に付与。
+Level 17 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Master_D
 
-ランクレベル18ボーナス
-ランク獲得時に付与。
+Level 18 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Master_C
 
-ランクレベル19ボーナス
-ランク獲得時に付与。
+Level 19 Rank Bonus
+The buff is granted upon rank acquisition.。
 Icon/Echelon/Icon_Booster_Echelon_Master_B
 
-ランクレベル20ボーナス
-ランク獲得時に付与。
+Level 20 Rank Bonus
+The buff is granted upon rank acquisition.
 Icon/Echelon/Icon_Booster_Echelon_Master_A
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
-バーニングイベント
-獲得経験値が増加する。
+Burning Event
+Experience acquisition is increased.
 Icon/Booster/Icon_Booster_Event_Exp1
 
 バーニングイベント
