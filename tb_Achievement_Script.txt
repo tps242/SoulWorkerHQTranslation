@@ -1,92 +1,92 @@
 Oh, I used it for trial!
-A consumption item is used 20 times.
+A consumable is used 20 times.
 
 It may be quite useful.
-A consumption item is used 50 times.
+A consumable is used 50 times.
 
 When it isn't used, it's wasteful!
-A consumption item is used 100 times.
+A consumable is used 100 times.
 
 Even if I have that, how much wouldn't that be a problem?
-A consumption item is used 200 times.
+A consumable is used 200 times.
 
-It isn't stopped!
-A consumption item is used 400 times.
+I can't be stopped!
+A consumable is used 400 times.
 
-It isn't stopped! It doesn't stop!
-A consumption item is used 800 times.
+I can't be stopped! It doesn't stop here!
+A consumable is used 800 times.
 
-When it isn't in hand, I'm feeling uneasy.
-A consumption item is used 1600 times.
+When it isn't in my hand, I feel anxious.
+A consumable is used 1600 times.
 
 Please maintain the usage amount and use it.
-A consumption item is used 3200 times.
+A consumable is used 3200 times.
 
 Oh? During when?
-A consumption item is used 6400 times.
+A consumable is used 6400 times.
 
 Necessity of an adventure.
-A consumption item is used 12800 times.
+A consumable is used 12800 times.
 
 Just because it's nearby.
-An item is bought 5 times at a store.
+Purchase 5 items at a store.
 
 Oh, oh, isn't it a good store?
-An item is bought 30 times at a store.
+Purchase 30 items at a store.
 
 Don't you put a new design in by and by?
-An item is bought 100 times at a store.
+Purchase 100 items at a store.
 
 Isn't a point saved?
-An item is bought 300 times at a store.
+Purchase 300 items at a store.
 
 Which will you take today?
-An item is bought 600 times at a store.
+Purchase 600 items at a store.
 
 Give me the usual.
-An item is bought 1000 times at a store.
+Purchase 1000 items at a store.
 
 The center of the economy is me!
-An item is bought 2000 times at a store.
+Purchase 3000 items at a store.
 
 Can I have everything from the end to the end?
-An item is bought 5000 times at a store.
+Purchase 5000 items at a store.
 
 I've been a mainstay here.
-An item is bought 8000 times at a store.
+Purchase 8000 items at a store.
 
 Should I open a store too?
-An item is bought 10000 times at a store.
+Purchase 10000 items at a store.
 
 Something breaks the shape sometimes.
-Accumulation repair fee 30000 zeny achievement
+30,000 Zeny spent on repairs.
 
 Isn't it slightly easy to break?
-Accumulation repair fee 50000 zeny achievement
+50,000 Zeny spent on repairs.
 
 Isn't there a stronger one?
-Accumulation repair fee 70000 zeny achievement
+70,000 Zeny spent on repairs.
 
 I want a disposable one...
-Accumulation repair fee 90000 zeny achievement
+90,000 Zeny spent on repairs.
 
 Repairing repairing...?
-Accumulation repair fee 110000 zeny achievement
+110,000 Zeny spent on repairs.
 
 Tt takes a good amount of care for things to last long.
-Accumulation repair fee 130000 zeny achievement
+130,000 Zeny spent on repairs.
 
 Maybe a new weapon could be bought?
-Accumulation repair fee 140000 zeny achievement
+140,000 Zeny spent on repairs.
 
 Is it necessary to invest so much?
-Accumulation repair fee 160000 zeny achievement
+160,000 Zeny spent on repairs.
 
 Strange love....
-Accumulation repair fee 180000 zeny achievement
+180,000 Zeny spent on repairs.
 
 It isn't broken, but I'd like to repair it!
-Accumulation repair fee 300000 zeny achievement
+300,000 Zeny spent on repairs.
 
 仏の顔も三度まで //Face Buddha up to three times. 
 戦闘不能回数3回達成 //Battle impossible difficulty 3 time achievement 
