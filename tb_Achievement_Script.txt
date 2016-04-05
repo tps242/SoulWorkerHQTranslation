@@ -1,302 +1,302 @@
-まぁ試しに使ってみただけ！
-消費アイテムを20回使用
+Oh, I used it for a trial!
+Used 20 consumables.
 
-結構役に立つかも
-消費アイテムを50回使用
+It may be quite useful.
+Used 50 consumables.
 
-使わないともったいない！
-消費アイテムを100回使用
+It's wasteful to not use it!
+Used 100 consumables.
 
-いくらあっても困ることはない
-消費アイテムを200回使用
+Even if I have that, how much wouldn't that be a problem?
+Used 200 consumables.
 
-止められない！
-消費アイテムを400回使用
+I can't be stopped!
+Used 400 consumables.
 
-止められない！止まらない！
-消費アイテムを800回使用
+I can't be stopped! It doesn't stop here!
+Used 800 consumables.
 
-手元にないと不安になってくる
-消費アイテムを1600回使用
+When it isn't in my hand, I feel anxious.
+Used 1600 consumables.
 
-用法用量を守ってお使いください
-消費アイテムを3200回使用
+Please maintain the usage amount and use it.
+Used 3200 consumables.
 
-あれ？いつの間に？
-消費アイテムを6400回使用
+Oh? During when?
+Used 6400 consumables.
 
-冒険の必需品
-消費アイテムを12800回使用
+It's necessary to adventure!
+Used 12800 consumables.
 
-近いからついつい
-商店でアイテムを5回購入
+Just because it's nearby.
+Purchase 5 items at a store.
 
-まぁまぁ良い店じゃない？
-商店でアイテムを30回購入
+Oh, oh, isn't it a good store?
+Purchase 30 items at a store.
 
-そろそろ新作入れてくれない？
-商店でアイテムを100回購入
+Don't you put a new design in by and by?
+Purchase 100 items at a store.
 
-ポイントって貯まらないの？
-商店でアイテムを300回購入
+Isn't a point saved?
+Purchase 300 items at a store.
 
-今日はどれにしようかな？
-商店でアイテムを600回購入
+What will you take today?
+Purchase 600 items at a store.
 
-いつもの！とか言ってみたい
-商店でアイテムを1000回購入
+Give me the usual.
+Purchase 1000 items at a store.
 
-経済の中心は私！
-商店でアイテムを2000回購入
+The economy revolves around me!
+Purchase 3000 items at a store.
 
-端から端まで全部頂戴
-商店でアイテムを5000回購入
+Can I have everything from start to finish?
+Purchase 5000 items at a store.
 
-私がここの大黒柱
-商店でアイテムを8000回購入
+I am the patron of this place
+Purchase 8000 items at a store.
 
-私も店始めようかな？
-商店でアイテムを10000回購入
+Should I open a store too?
+Purchase 10000 items at a store.
 
-形ある物いつかは壊れる
-累積修理費30000ジェニー達成
+Something deforms it sometimes.
+30,000 Zeny spent on repairs.
 
-ちょっと壊れやすくない？
-累積修理費50000ジェニー達成
+Isn't it too easy to break?
+50,000 Zeny spent on repairs.
 
-もっと丈夫なのないの？
-累積修理費70000ジェニー達成
+Isn't there a stronger one?
+70,000 Zeny spent on repairs.
 
-使い捨てが欲しいかも…
-累積修理費90000ジェニー達成
+I want a disposable one...
+90,000 Zeny spent on repairs.
 
-修理修理って…
-累積修理費110000ジェニー達成
+Repairing repairing...?
+110,000 Zeny spent on repairs.
 
-物持ちがいいってことで
-累積修理費130000ジェニー達成
+It requires good caretaking for things to last a long time.
+130,000 Zeny spent on repairs.
 
-新しい武器買えたかも？
-累積修理費140000ジェニー達成
+Maybe a new weapon could be bought?
+140,000 Zeny spent on repairs.
 
-こんなにつぎ込む必要が？
-累積修理費160000ジェニー達成
+Is it necessary to invest so much?
+160,000 Zeny spent on repairs.
 
-変に愛着が…
-累積修理費180000ジェニー達成
+Strange love....
+180,000 Zeny spent on repairs.
 
-壊れてないけど修理したい！
-累積修理費300000ジェニー達成
+It isn't broken, but I'd like to repair it!
+300,000 Zeny spent on repairs.
 
-仏の顔も三度まで
-戦闘不能回数3回達成
+仏の顔も三度まで //Face Buddha up to three times. 
+Incapacitated 3 times.
 
-ドンマイドンマイ
-戦闘不能回数10回達成
+Don't mind don't mind
+Incapacitated 10 times.
 
-いやいや…なんで？
-戦闘不能回数50回達成
+No, no ... Why?
+Incapacitated 50 times.
 
-しまった…こんな奴に！
-戦闘不能回数100回達成
+Oh no... to this guy！
+Incapacitated 100 times.
 
-次はどっから始まるんだっけ？
-戦闘不能回数200回達成
+Where does it start next?
+Incapacitated 200 times.
 
-立て！立つんだ～～！！
-戦闘不能回数400回達成
+Stand up! I can still stand up--!!
+Incapacitated 400 times.
 
 わざとじゃないよ？
-戦闘不能回数800回達成
+Incapacitated 800 times.
 
 敵を倒すにはまず自分からってね
-戦闘不能回数1200回達成
+Incapacitated 1200 times.
 
 倒れたって良いんだよ
-戦闘不能回数1600回達成
+Incapacitated 1600 times.
 
 倒れてない。この星を抱いてるだけ
-戦闘不能回数2000回達成
+Incapacitated 2000 times.
 
 大したことないね？
-敵討伐回数500回達成
+Defeat 500 enemies.
 
 出させてくれよ…本気を
-敵討伐回数1000回達成
+Defeat 1000 enemies.
 
 足りない…足りない！
-敵討伐回数2000回達成
+Defeat 2000 enemies.
 
 これくらいは余裕でしょ？
-敵討伐回数5000回達成
+Defeat 5000 enemies.
 
 ご愁傷様でした
-敵討伐回数10000回達成
+Defeat 10000 enemies.
 
 通過点に過ぎない
-敵討伐回数20000回達成
+Defeat 20000 enemies.
 
 体が勝手に…
-敵討伐回数50000回達成
+Defeat 50000 enemies.
 
 もっともっともっと！！
-敵討伐回数100000回達成
+Defeat 100000 enemies.
 
 邪魔する者は全て排除！
-敵討伐回数200000回達成
+Defeat 200000 enemies.
 
 全てを制す者…ここに見参！
-敵討伐回数500000回達成
+Defeat 500000 enemies.
 
 手始めに…
-最も弱く見える敵を130回討伐
+Defeat 130 weak monsters.
 
 最初のレベル上げにはもってこい！
-最も弱く見える敵を1100回討伐
+Defeat 1100 weak monsters.
 
 何か…いたから…つい…
-最も弱く見える敵を3000回討伐
+Defeat 3000 weak monsters.
 
 もう何の役にも立たないよ！
-最も弱く見える敵を5600回討伐
+Defeat 5600 weak monsters.
 
 向かってくるなよ…
-最も弱く見える敵を9100回討伐
+Defeat 9100 weak monsters.
 
 あっ…いたんだ？
-最も弱く見える敵を13000回討伐
+Defeat 13000 weak monsters.
 
 暇つぶし！
-最も弱く見える敵を18000回討伐
+Defeat 18000 weak monsters.
 
 目障り！
-最も弱く見える敵を24000回討伐
+Defeat 24000 weak monsters.
 
 この世は…弱肉強食！
-最も弱く見える敵を32000回討伐
+Defeat 32000 weak monsters.
 
 君（の心）が一番強い
-最も弱く見える敵を41000回討伐
+Defeat 41000 weak monsters.
 
 ふっつぅ～～
-平凡に見える敵を80回討伐
+Defeat 80 normal monsters.
 
 一人で充分
-平凡に見える敵を700回討伐
+Defeat 700 normal monsters.
 
 かかってきなよ
-平凡に見える敵を1800回討伐
+Defeat 1800 normal monsters.
 
 しつこいな～
-平凡に見える敵を3500回討伐
+Defeat 3500 normal monsters.
 
 凄んでも怖くない
-平凡に見える敵を5700回討伐
+Defeat 5700 normal monsters.
 
 弱い奴ほどよく吠える
-平凡に見える敵を8300回討伐
+Defeat 8300 normal monsters.
 
 身のほどをわきまえろ！
-平凡に見える敵を11600回討伐
+Defeat 11600 normal monsters.
 
 質より量派ですか？
-平凡に見える敵を15400回討伐
+Defeat 15400 normal monsters.
 
 群がれば良いってもんじゃないよ？
-平凡に見える敵を20000回討伐
+Defeat 20000 normal monsters.
 
 コモンバスター
-平凡に見える敵を25700回討伐
+Defeat 25700 normal monsters.
 
 意外と倒せる
-強そうに見える敵を30回討伐
+Defeat 30 elite monsters.
 
 売られた喧嘩は買う
-強そうに見える敵を280回討伐
+Defeat 280 elite monsters.
 
 段々慣れてきた！
-強そうに見える敵を750回討伐
+Defeat 750 elite monsters.
 
 お前も雑魚の仲間入り
-強そうに見える敵を1400回討伐
+Defeat 1400 elite monsters.
 
 倒した数は覚えていない
-強そうに見える敵を2200回討伐
+Defeat 2200 elite monsters.
 
 そんなにいたの？
-強そうに見える敵を3000回討伐
+Defeat 3000 elite monsters.
 
 強そうに見えたのは過去の事
-強そうに見える敵を5000回討伐
+Defeat 5000 elite monsters.
 
 今は可哀想にしか見えない
-強そうに見える敵を6100回討伐
+Defeat 6100 elite monsters.
 
 ムシャクシャする！八つ当たりだ！
-強そうに見える敵を8000回討伐
+Defeat 8000 elite monsters.
 
 私の方が強そう
-強そうに見える敵を10200回討伐
+Defeat 10200 elite monsters.
 
 えっ？ボスじゃない？
-中ボス級の敵を17回討伐
+Defeat 17 mini-bosses.
 
 どっからがボスなの？
-中ボス級の敵を140回討伐
+Defeat 140 mini-bosses.
 
 まぁ油断はできないよね
-中ボス級の敵を370回討伐
+Defeat 370 mini-bosses.
 
 疲れてる時は会いたくないな
-中ボス級の敵を700回討伐
+Defeat 700 mini-bosses.
 
 たま～にやられるよね
-中ボス級の敵を1100回討伐
+Defeat 1100 mini-bosses.
 
 お前はただの噛ませ犬
-中ボス級の敵を1600回討伐
+Defeat 1600 mini-bosses.
 
 前座には丁度いいかも
-中ボス級の敵を2300回討伐
+Defeat 2300 mini-bosses.
 
 中ボスだってボスなのに…
-中ボス級の敵を3000回討伐
+Defeat 3000 mini-bosses.
 
 敵勢力のナンバー2
-中ボス級の敵を4000回討伐
+Defeat 4000 mini-bosses.
 
 マッドハンター
-中ボス級の敵を5100回討伐
+Defeat 5100 mini-bosses.
 
 どんなもんだい！
-ボスを10回討伐
+Defeat 10 bosses.
 
 さすがにボスだね
-ボスを80回討伐
+Defeat 80 bosses.
 
 ボスにも慣れてきた？
-ボスを200回討伐
+Defeat 200 bosses.
 
 もう行動パターンは読めている
-ボスを400回討伐
+Defeat 400 bosses.
 
 百戦錬磨は伊達じゃない
-ボスを600回討伐
+Defeat 600 bosses.
 
 日々の努力の賜物
-ボスを1000回討伐
+Defeat 1000 bosses.
 
 いつでも相手になるよ？
-ボスを1300回討伐
+Defeat 1300 bosses.
 
 恐るるに足らず
-ボスを1800回討伐
+Defeat 1800 bosses.
 
 ボスの面目丸潰れ
-ボスを2400回討伐
+Defeat 2400 bosses.
 
 ボスキラー
-ボスを3000回討伐
+Defeat 3000 bosses.
 
 一味違うね？
 レイドボスを10回討伐

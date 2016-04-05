@@ -1,15 +1,11 @@
 # SoulWorkerHQTranslation
-Soul Worker JP English Patch Project
-Home Page: http://soulworkerhq.com/
-Join us on Discord: https://discord.gg/0elCk6HCY5XkLg0t
+Soul Worker JP English Patch Project<br>
+[Home Page](http://soulworkerhq.com)<br>
+[Join us on Discord](https://discord.gg/0elCk6HCY5XkLg0t)
 
-What to do?
-Simply replace the Japanese text with English text.
+**PLEASE CHECK [GUIDELINES](https://github.com/Miyuyami/SoulWorkerHQTranslation/wiki/Guidelines) before making pull requests**
 
-
-
-
-Special Thanks to:
+## Special Thanks
   - everyone from discord chat
   - all translators, staff
-  - WRS/x1nixmzeng for helping A LOT with extracting the data, check him out here: http://forum.xentax.com/memberlist.php?mode=viewprofile&u=16084
+  - WRS/x1nixmzeng for helping A LOT with extracting the data, check him out [here] (http://forum.xentax.com/memberlist.php?mode=viewprofile&u=16084)
