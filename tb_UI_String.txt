@@ -1000,185 +1000,185 @@ Target Enemy
 
 Left-Click Barrage
 
-左クリック長押し
+Hold down left click
 
-左クリックまたは右クリック連打
+Left or right-click barrage
 
-推奨連携スキル
+Recommended Link Skill
 
-スキル使用時、効果適用
+When using the skill, the effect is applied
 
-習得時、自動で効果適用
+The skill is passively applied.
 
-ランダムオプション{0}個付与
+Random attribute {0} applied
 
-狙撃モード転換
+Activate Sniper Mode
 
-装備アイテム比較
+Compare Equipment
 
-最終ステータス比較
+Status Comparison
 
-オプション比較
+Attributes Comparison
 
-セット効果比較
+Set Effect Comparison
 
-ソケット効果比較
+Socket Effect Comparison
 
 {0}セット：
 
 Exp
 
-ブローチ情報
+Brooch Information
 
-着用部位
+Socket brooch
 
-着用ブローチなし
+Equip
 
-ソケットアイテム装着
+Socket item attached.
 
-ファミリアを装着できます。
+Attach Familia
 
-ソケット装着に必要な
-アイテムまたは手数料が不足しています。
+Socket item is required.
+Item or price is missing.
 
-手数料
+Commission
 
-ファミリア装着
+Attach Familia
 
-装着中のアイテムを解除後に、新しいアイテムを装着できます。
+After attaching socket items, new socket items cannot be applied.
 
-非活性化ソケットは、活性化状態に変更した後でアイテムを装着できます。
+You can attach the socket item after unattaching the applied socket item.
 
-対象ソケットにファミリアを装着しますか？
+Are you sure you want to attach the Familia to the target socket?
 
-ファミリア装着に成功しました。
+Familia has been successfully installed.
 
-ソケットアイテム管理
+Socket Item Management
 
-ソケットに装着中のファミリアを解除したり、
-新しいソケットを追加できます。
+You can add a new Familia in the socket.
+Release the Familia first.
 
-アイテムの解除に必要な
-アイテムまたは手数料が不足しています。
+Item must be delisted.
+An item is missing or a fee is not paid.
 
-新規ソケット追加に必要なアイテムが不足しています。
+Items required to add the new socket are missing.
 
-ファミリア解除
+Familia successfuly released.
 
-新規ソケット追加
+Additional Socket
 
-ソケットに装着されているアイテムを解除しますか？
-(解除したアイテムはインベントリに移動します)
+Are you sure you want to remove the socketed item?
+(It will be returned to the inventory)
 
-選択したアイテムに新しいソケットを追加しますか？
+Do you want to add a new socket to the selected item?
 
-ファミリア装着はソケットアイテム装着ポップアップで進行できます。
-(装着ポップアップはアイテム右クリックメニューから選択できます)
+Familia can be attached to socket items.
+(To attach it, select the item first, then right-click)
 
-選択したファミリアが解除されました。
+Selected Familia has been canceled.
 
-選択したアイテムにソケットが追加されました。
+A socket has been added to the selected item。
 
-ソケット機能を使用できないアイテムです。
+This item cannot be socketed with a socket item.
 
-右手
+Right Hand
 
-左手
+Left Hand		
 
-頭
+Head
 
-肩
+Shoulder
 
-体
+Chest
 
-脚
+Ankle
 
-首
+Neck
 
-耳
+Ear
 
-指
+Finger
 
-パーティー
+Party
 
-ギルド
+Guild
 
-クエスト
+Quest
 
-メイズ
+Instance
 
-ポータル
+Portal
 
 NPC
 
-CH{0}に入場しました。
+Entered CH{0}.
 
-武器
+Weapon
 
-髪
+Hair
 
-頭
+Head
 
-目
+Eye
 
-口
+Mouth
 
-上衣
+Jacket
 
-手
+Hand
 
-下衣
+Underwear
 
-おしり
+Bottom
 
-靴
+Shoes
 
-タイツ/靴下
+Socks
 
-背
+Back
 
-下着
+Underwear
 
-{0}の分解に成功。
-獲得アイテム：{1} X {2}
-獲得エーテル{3}
+Dismantled {0}.
+Acquired：{1} X {2}
+Acquired Ether{3}
 
-アイテム分解に失敗しました。
+Dismantling failed.
 
-{0}を分解しますか？
+Do you want to dismantle {0}?
 
-確認を押すと選択したアイテムを分解します。
-分解しますか？
+Dismantle the selected item and press confirm.
+Are you sure you want to dismantle?
 
-分解対象に<font color='#A566FF'>価値の高いアイテム</font>があります。
-確認を押すと該当アイテムは分解され、復元できなくなります。分解しますか？
+The selected item is a<font color='#A566FF'>valuable item</font>.
+Upon dismantling, the item cannot be restored. Do you want to proceed?
 
-{0}が不足しているため、分解できません。
+There is not enough {0}, therefore it can't be dismantled.
 
-インベントリが不足しているため分解できません。
+Insufficient inventory space for dismantling.
 
 MAX
 
-装備すると、アイテムは帰属状態になります。
-アイテムを装備しますか？
+When equipped, the item will be bound.
+Do you want to equip the item?
 
-ステータス
+Status
 
-キャラクター
+Character
 
 Ｌｖ
 
-称号
+Title
 
-設定
+Configuration
 
-基本情報
+Basic Information
 
-最大攻撃力
+Maximum Attack Power
 
-防御力
+Defense Power
 
-現在の称号
+Current Title
 
 適用能力値
 
