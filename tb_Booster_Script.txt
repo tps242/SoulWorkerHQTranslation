@@ -315,7 +315,7 @@ Zeny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
 Burning Event
-Zenny Drop Rate is increased.
+Zeny Drop Rate is increased.
 Icon/Booster/Icon_Booster_Event_Gold1
 
 Burning Event
