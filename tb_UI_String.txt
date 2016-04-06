@@ -1556,11 +1556,11 @@ NED Company
 
 スタリーフォレスト連合
 
-ニヒルキングダム勢力
+Nihilum Kingdom Gang
 
 Rapid Flames
 
-チェリーブロッサム勢力
+Cherry Blossom Gang
 
 RSB Forces
 
@@ -1946,39 +1946,39 @@ I purchased {1} in {0}'s personal shop.
 
 {0} has been sold for {1} Zenny.
 
-個人商店開設中は開設券アイテムを使用できません。
+While opening a personal store, you can not open ticket items.
 
-！！！販売準備中！！！
+!!! Start Selling !!!
 
-商店名
+Store Name
 
-販売中
+Sale
 
-販売準備中
+Sale Preparations
 
-商店取引の際は、ジェニーと商品をもう一度確認してください。
+When trading or registering products, please verify the items and zenny.
 
-クエストクリア報酬
+Quest Completion Reward
 
-レコード達成報酬
+Record Achievement Reward
 
-占有率達成報酬
+占 Achievement Reward
 
-メモリアル収集報酬
+Memorial Completion Rward
 
-ランキング報酬
+Rank Achievement Reward
 
-アイテム獲得
+Items acquired.
 
-{0}を完了し、以下の報酬を獲得しました。
+When completing {0}, the following rewards are awarded.
 
 {0}を達成し、以下の報酬を獲得しました。
 
 {0}占有率報酬により、以下を獲得しました。
 
-{0}収集報酬により、以下を獲得しました。
+By collecting {0}, the following rewards are awarded.
 
-{0}の{1}位を達成し、以下の報酬を獲得しました。
+By achieving a position of {0} out of {1}, the following rewards are awarded.
 
 {0}を使用し、以下を獲得しました。
 
