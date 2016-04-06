@@ -1914,37 +1914,37 @@ Personal store names can be up to 20 characters in length.
 
 Change completed
 
-販売開始
+Open Shop
 
-販売中止
+Discontinue
 
-価格変更
+Change Price
 
-登録中止
+Terminate Registration
 
-商店終了
+Exit Shop
 
-個人商店アイテム登録
+Register Item
 
-登録確認
+Confirm Registration
 
-登録中止
+Terminate Registration
 
-現在地に個人商店を開きますか？
+Do you want to open a private store at the present location?
 
-個人商店名が入力されていません。もう一度入力してください。
+A personal shop name was not entered. Type it again.
 
-アイテム価格をもう一度入力してください。
+Please enter the item price again.
 
-取引不可能なアイテムは登録できません。
+Untradable items cannot be registered.
 
-耐久度が減少したアイテムは登録できません。
+Items in non-mint condition cannot be sold.
 
-最大5個までアイテムを登録できます。
+You can register up to five concurrent items only.
 
-{0}の個人商店で{1}を購入しました。
+I purchased {1} in {0}'s personal shop.
 
-{0}が{1}ジェニーで販売されました。
+{0} has been sold for {1} Zenny.
 
 個人商店開設中は開設券アイテムを使用できません。
 
