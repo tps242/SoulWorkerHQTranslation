@@ -154,7 +154,7 @@ Defeat 130 weak monsters.
 Good fit for the first level.
 Defeat 1100 weak monsters.
 
-何か…いたから…つい… 
+Just because there was something.
 Defeat 3000 weak monsters.
 
 You can't hold your ground!
@@ -298,185 +298,185 @@ Defeat 2400 bosses.
 Boss Killer
 Defeat 3000 bosses.
 
-一味違うね？
+Is a member different?
 Defeat 10 raid bosses.
 
-このままじゃダメだ！
+Just as it is, then it's useless!
 Defeat 80 raid bosses.
 
-これが修行の成果だ！
+This is an outcome of training!
 Defeat 200 raid bosses.
 
-口ほどにもない
+Not even enough to brag
 Defeat 400 raid bosses.
 
-私にかかればこんなもんよ
+That's what you get for going against me
 Defeat 600 raid bosses.
 
-武帝への通過点
+The Rise and Fall of an Emperor
 Defeat 1000 raid bosses.
 
-世界の平和のために
+For world peace  
 Defeat 1300 raid bosses.
 
-最強！最恐！最狂！
+Strongest! Formidable! Berserker!
 Defeat 1800 raid bosses.
 
-選ばれし者の境地
+The Chosen One's Capabilities
 Defeat 2400 raid bosses.
 
-レイドエンペラー
+Raid Emperor
 Defeat 3000 raid bosses.
 
-ガラクタはガラクタらしく
+Trash is trash.
 Defeat 100 Soul Junk.
 
-クリーンアップ作戦
+Cleanup strategy
 Defeat 800 Soul Junk.
 
-帰ったら手洗いうがいをしっかりね！
+I should wash my hands when I get back
 Defeat 2000 Soul Junk.
 
-なんとか再利用できないかな？
+Can't it be reused somehow?
 Defeat 4000 Soul Junk.
 
-良くみると可愛いかも
+When take a look, it's quite cute.
 Defeat 6000 Soul Junk.
 
-ジャンクにしてはしっかりしてる
+It's not bad for a junk.
 Defeat 9000 Soul Junk.
 
-こう見えても潔癖症
+I am germophobic, though I may not look like it
 Defeat 13000 Soul Junk.
 
-ヴェシとの違いがわからない
+I can't tell the difference with VESHI. // ??? lol
 Defeat 18000 Soul Junk.
 
-ジャンク愛好家
+Junk lover
 Defeat 23000 Soul Junk.
 
-ジャンククリーナー
+Junk Cleaner
 Defeat 30000 Soul Junk.
 
-もう見たくない…
+I won't want to see any more... 
 Defeat 110 puppets.
 
-お願いだから笑わないで
+Please don't laugh
 Defeat 900 puppets.
 
-全然可愛くない！
+It isn't pretty at all!
 Defeat 2400 puppets.
 
-意味もなく笑うな！！
+Don't laugh meaninglessly!!
 Defeat 4500 puppets.
 
-コレクションはしたくない
+I don't want to do a collection.
 Defeat 7200 puppets.
 
-ただの操り人形…
+Just a normal puppet...
 Defeat 10800 puppets.
 
-こんな悪夢はもう嫌だ
+Such a nightmare, I don't like this.
 Defeat 15300 puppets.
 
-何か着せてみたいな…
+I'd like to put something on it....
 Defeat 20200 puppets.
 
-呪ったりなんかしないよね？
+Is it cursed or something?
 Defeat 26500 puppets.
 
-マリオネッター
+Marionette
 Defeat 34200 puppets.
 
-さぁ始めよう…
+Now let us begin...
 Defeat 110 NEDs.
 
-裏切りの報い
+Reward of betrayal
 Defeat 450 NEDs.
 
-目には目を歯には歯を
+An eye for an eye, a tooth for a tooth
 Defeat 1200 NEDs.
 
-復讐のその先には…
+At the end of every revenge...
 Defeat 2250 NEDs.
 
-地獄の果てまで追い詰める
+Chase down to the ends of hell
 Defeat 3600 NEDs.
 
-許して…あげない！
+I won't forgive you!
 Defeat 5400 NEDs.
 
-因果応報
+Karma is a bitch
 Defeat 7650 NEDs.
 
-裁くのは神じゃない…私だ！
+God is not the judge... I am!
 Defeat 10100 NEDs.
 
-復讐の鬼
+Vengeful Ghost
 Defeat 13250 NEDs.
 
-この復讐こそ…正義！
+This revenge is the true justice！
 Defeat 17100 NEDs.
 
-話にならないな
-ラピッドフレイム勢力の敵を110回討伐
+I didn't come to talk.
+Defeat Rapid Flame faction enemies 110 times
 
-更なる強者を求めて
-ラピッドフレイム勢力の敵を900回討伐
+In search of more power.
+Defeat Rapid Flame faction enemies 900 times
 
-戦いに身を投じた結果
-ラピッドフレイム勢力の敵を2400回討伐
+The results of fighting
+Defeat Rapid Flame faction enemies 2400 times
 
-強さの果てに…
-ラピッドフレイム勢力の敵を4500回討伐
+The limit of the strength....
+Defeat Rapid Flame faction enemies 4500 times
 
-シェイプアップ中
-ラピッドフレイム勢力の敵を7200回討伐
+I'm shaping up
+Defeat Rapid Flame faction enemies 7200 times
 
-血が騒ぐ…胸が躍る…
-ラピッドフレイム勢力の敵を10800回討伐
+Blood is boiling, Heart is beating
+Defeat Rapid Flame faction enemies 10800 times
 
-力こそ全て！
-ラピッドフレイム勢力の敵を15300回討伐
+Power is everything!
+Defeat Rapid Flame faction enemies 15300 times
 
-近づくと怪我するよ？
-ラピッドフレイム勢力の敵を20200回討伐
+Do you get injured when I approach you?
+Defeat Rapid Flame faction enemies 20200 times
 
-いくらでもかかってこい
-ラピッドフレイム勢力の敵を26500回討伐
+I can take on as many as you want
+Defeat Rapid Flame faction enemies 26500 times
 
-戦いでしか伝わらないことがある
-ラピッドフレイム勢力の敵を34200回討伐
+There are things that can only be heard through fighting
+Defeat Rapid Flame faction enemies 34200 times
 
-トランスフォーム？
-アイアンフォース勢力の敵を110回討伐
+Transform?
+Defeat Iron faction enemies 110 times
 
-手が勝手に…
-アイアンフォース勢力の敵を900回討伐
+My hand moved on impulse...
+Defeat Iron faction enemies 900 times
 
-人工知能恐るべし
-アイアンフォース勢力の敵を2400回討伐
+Awful Artificial Intelligence
+Defeat Iron faction enemies 2400 times
 
-製造スピードが異常
-アイアンフォース勢力の敵を4500回討伐
+The manufacturing speed is abnormal.
+Defeat Iron faction enemies 4500 times
 
-合体は？しないの？
-アイアンフォース勢力の敵を7200回討伐
+Combination? Isn't it done?
+Defeat Iron faction enemies 7200 times
 
-何か進化してない？
-アイアンフォース勢力の敵を10800回討伐
+Doesn't anything evolve?
+Defeat Iron faction enemies 10800 times
 
-固そうだよね
-アイアンフォース勢力の敵を15300回討伐
+It seems solid, doesn't it?
+Defeat Iron faction enemies 15300 times
 
-スクラップにしてあげる
-アイアンフォース勢力の敵を20200回討伐
+I'll turn it into scrap.
+Defeat Iron faction enemies 20200 times
 
-いつか分かり合える？
-アイアンフォース勢力の敵を26500回討伐
+Can we understand each other someday?
+Defeat Iron faction enemies 26500 times
 
-キリングマシン
-アイアンフォース勢力の敵を34200回討伐
+Killing Machine
+Defeat Iron faction enemies 34200 times
 
 オリジナリティーがないよね
 ニアソウルワーカーを10回討伐
@@ -808,35 +808,35 @@ BP獲得量40000達成
 修羅の極み
 BP獲得量50000達成
 
-Lv10達成！
-Lv10達成
+Lv10 Achieved!
+Lv10 Achievment
 
-Lv20達成！
-Lv20達成
+Lv20 Achieved!
+Lv20 Achievment
 
-Lv30達成！
-Lv30達成
+Lv30 Achieved!
+Lv30 Achievment
 
-Lv40達成！
-Lv40達成
+Lv40 Achieved!
+Lv40 Achievment
 
-Lv50達成！
-Lv50達成
+Lv50 Achieved!
+Lv50 Achievment
 
-Lv60達成！
-Lv60達成
+Lv60 Achieved!
+Lv60 Achievment
 
-Lv70達成！
-Lv70達成
+Lv70 Achieved!
+Lv70 Achievment
 
-Lv80達成！
-Lv80達成
+Lv80 Achieved!
+Lv80 Achievment
 
-Lv90達成！
-Lv90達成
+Lv90 Achieved!
+Lv90 Achievment
 
-Lv100達成！
-Lv100達成
+Lv100 Achieved!
+Lv100 Achievment
 
 ちょっと慣れてきた
 累積プレイタイム5時間達成
