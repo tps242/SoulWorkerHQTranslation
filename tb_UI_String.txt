@@ -4218,82 +4218,82 @@ SG比率100%回復ポーション購入可能
 
 搭乗
 
-安全地帯{0}に移動しますか?
-必要ジェニー：{1}
+Do you want to move to a safe zone?
+Zenny Fee：{1}
 
-必要ジェニー：
+Zenny Fee：
 
-攻撃及び回復型
+Attack/Recovery Type
 
-遠距離攻撃型
+Long-Range Attack
 
-突進及び状態異常
+Abnormal Rushing State
 
-遠距離支援射撃
+Long-Distance Support Attack
 
-近距離攻撃型
+Short-Range Attack
 
-近距離範囲型
+Short-Distance Type
 
-近距離範囲型
+Short-Distance Type
 
-補助及びバフ型
+Auxillary Buff Type
 
-近距離攻撃型
+Short-Range Attack
 
-状態異常及び攻撃型
+Abnormal Attack State
 
-近距離攻撃型
+Short-Ranged Attack
 
-召喚
+Summon
 
-召喚解除
+Recall
 
-詳細情報
+Detailed Info
 
-サポーター専用装備
+Supporters' Equips
 
-報酬受け取り
+Rewards Received
 
-支援登録
+Register 
 
-攻撃のオーブ
-支援登録
+Attack Orb
+Activate
 
-キャラクター攻撃力の20%適用
+Increases the character's attack power by 20%
 
-防御のオーブ
-支援登録
+Defense Orb
+Activate
 
-キャラクター防御度の20%適用
+Increases the character's defense by 20%
 
-攻撃のオーブ[キャラクター攻撃力20%適用]で支援登録しますか?
+Are you sure you want to apply the attack orb's 20% attack power buff?
 
-防御のオーブ[キャラクター防御度20%適用]で支援登録しますか?
+Are you sure you want to apply the defense orb's 20% attack power buff?
 
-登録内容
+Applied Buffs
 
-攻撃力：{0}
+Attack Increased：{0}
 
-防御度：{0}
+Defense Increased：{0}
 
-支援終了時間：
+Buff End Time：
 
-支援終了：報酬受領後、再登録可能
+After the buff ends, you can re-apply the buff again.
 
 フレンド支援が終了しました。新たに支援登録ができます。
 
-ショートカットキー設定
+Hotkeys
 
 {0}/{1}
 
-フレンド装備選択
+Select Supporters' Equipment
 
-装備
+Equipment
 
-{0}({1})が解除され、消滅しました。新しい支援装備を着用できます。
+{0}({1}) is released. You can equip new support equipment.
 
-メイズ離脱によりサポーターの召喚が解除されました。
+The supporters have been withdrawn
 
 {0}の召喚が解除されました。
 
