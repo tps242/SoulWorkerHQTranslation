@@ -596,7 +596,7 @@ You have been ressurected by the blessing buff effect.
 
 ※<font size='15' color='#F7AE54'>{0}</font>秒後、<font color='#F15F5F'>最後の町に移動</font>します。
 
-<font color='#47C83E'>[{0}] has revived you</font>
+※<font color='#47C83E'>[{0}] has revived you</font>
 
 ※<font color='#FFBB00'>[トップアクシジェントコール]1個</font>を使用して復活します。
 
