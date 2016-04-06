@@ -1,482 +1,482 @@
-まぁ試しに使ってみただけ！
-消費アイテムを20回使用
+I tested it for now~
+Used 20 consumables.
 
-結構役に立つかも
-消費アイテムを50回使用
+It may be quite useful.
+Used 50 consumables.
 
-使わないともったいない！
-消費アイテムを100回使用
+It's wasteful to not use it!
+Used 100 consumables.
 
-いくらあっても困ることはない
-消費アイテムを200回使用
+Even if I have that, how much wouldn't that be a problem?
+Used 200 consumables.
 
-止められない！
-消費アイテムを400回使用
+I can't be stopped!
+Used 400 consumables.
 
-止められない！止まらない！
-消費アイテムを800回使用
+I can't be stopped! It doesn't stop here!
+Used 800 consumables.
 
-手元にないと不安になってくる
-消費アイテムを1600回使用
+When it isn't in my hand, I feel anxious.
+Used 1600 consumables.
 
-用法用量を守ってお使いください
-消費アイテムを3200回使用
+Please maintain the usage amount and use it.
+Used 3200 consumables.
 
-あれ？いつの間に？
-消費アイテムを6400回使用
+Oh? During when?
+Used 6400 consumables.
 
-冒険の必需品
-消費アイテムを12800回使用
+It's necessary to adventure!
+Used 12800 consumables.
 
-近いからついつい
-商店でアイテムを5回購入
+Just because it's nearby.
+Purchase 5 items at a store.
 
-まぁまぁ良い店じゃない？
-商店でアイテムを30回購入
+Oh, oh, isn't it a good store?
+Purchase 30 items at a store.
 
-そろそろ新作入れてくれない？
-商店でアイテムを100回購入
+Didn't you put in a new design just now?
+Purchase 100 items at a store.
 
-ポイントって貯まらないの？
-商店でアイテムを300回購入
+Isn't a point saved?
+Purchase 300 items at a store.
 
-今日はどれにしようかな？
-商店でアイテムを600回購入
+What will you take today?
+Purchase 600 items at a store.
 
-いつもの！とか言ってみたい
-商店でアイテムを1000回購入
+Give me the usual.
+Purchase 1000 items at a store.
 
-経済の中心は私！
-商店でアイテムを2000回購入
+The economy revolves around me!
+Purchase 3000 items at a store.
 
-端から端まで全部頂戴
-商店でアイテムを5000回購入
+Can I have everything from start to finish?
+Purchase 5000 items at a store.
 
-私がここの大黒柱
-商店でアイテムを8000回購入
+I am the owner of this place now!
+Purchase 8000 items at a store.
 
-私も店始めようかな？
-商店でアイテムを10000回購入
+Should I open a store too?
+Purchase 10000 items at a store.
 
-形ある物いつかは壊れる
-累積修理費30000ジェニー達成
+Something deforms it sometimes.
+30,000 Zenny spent on repairs.
 
-ちょっと壊れやすくない？
-累積修理費50000ジェニー達成
+Isn't it too easy to break?
+50,000 Zenny spent on repairs.
 
-もっと丈夫なのないの？
-累積修理費70000ジェニー達成
+Isn't there a stronger one?
+70,000 Zenny spent on repairs.
 
-使い捨てが欲しいかも…
-累積修理費90000ジェニー達成
+I want a disposable one...
+90,000 Zenny spent on repairs.
 
-修理修理って…
-累積修理費110000ジェニー達成
+Repairing repairing...?
+110,000 Zenny spent on repairs.
 
-物持ちがいいってことで
-累積修理費130000ジェニー達成
+It requires good caretaking for things to last a long time.
+130,000 Zenny spent on repairs.
 
-新しい武器買えたかも？
-累積修理費140000ジェニー達成
+Maybe a new weapon could be bought?
+140,000 Zenny spent on repairs.
 
-こんなにつぎ込む必要が？
-累積修理費160000ジェニー達成
+Is it necessary to invest so much?
+160,000 Zenny spent on repairs.
 
-変に愛着が…
-累積修理費180000ジェニー達成
+Strange love....
+180,000 Zenny spent on repairs.
 
-壊れてないけど修理したい！
-累積修理費300000ジェニー達成
+It isn't broken, but I'd like to repair it!
+300,000 Zenny spent on repairs.
 
-仏の顔も三度まで
-戦闘不能回数3回達成
+Face death up to three times
+Incapacitated 3 times.
 
-ドンマイドンマイ
-戦闘不能回数10回達成
+Don't mind don't mind
+Incapacitated 10 times.
 
-いやいや…なんで？
-戦闘不能回数50回達成
+No, no ... Why?
+Incapacitated 50 times.
 
-しまった…こんな奴に！
-戦闘不能回数100回達成
+Oh no... to this guy!
+Incapacitated 100 times.
 
-次はどっから始まるんだっけ？
-戦闘不能回数200回達成
+Where does it start next?
+Incapacitated 200 times.
 
-立て！立つんだ～～！！
-戦闘不能回数400回達成
+Stand up! I can still stand up--!!
+Incapacitated 400 times.
 
-わざとじゃないよ？
-戦闘不能回数800回達成
+It wasn't my intention.
+Incapacitated 800 times.
 
-敵を倒すにはまず自分からってね
-戦闘不能回数1200回達成
+To defeat an enemy, first overcome yourself.
+Incapacitated 1200 times.
 
-倒れたって良いんだよ
-戦闘不能回数1600回達成
+It's okay to fall down.
+Incapacitated 1600 times.
 
-倒れてない。この星を抱いてるだけ
-戦闘不能回数2000回達成
+I haven't fallen. I am simply hugging this planet.
+Incapacitated 2000 times.
 
-大したことないね？
-敵討伐回数500回達成
+That wasn't hard!
+Defeat 500 enemies.
 
-出させてくれよ…本気を
-敵討伐回数1000回達成
+Show me... Your true self.
+Defeat 1000 enemies.
 
-足りない…足りない！
-敵討伐回数2000回達成
+More...I need more...!
+Defeat 2000 enemies.
 
-これくらいは余裕でしょ？
-敵討伐回数5000回達成
+Not that bad yet, right?
+Defeat 5000 enemies.
 
-ご愁傷様でした
-敵討伐回数10000回達成
+It's your funeral!
+Defeat 10000 enemies.
 
-通過点に過ぎない
-敵討伐回数20000回達成
+I am only passing by
+Defeat 20000 enemies.
 
-体が勝手に…
-敵討伐回数50000回達成
+My body is moving by itself...
+Defeat 50000 enemies.
 
-もっともっともっと！！
-敵討伐回数100000回達成
+More more more!!
+Defeat 100000 enemies.
 
-邪魔する者は全て排除！
-敵討伐回数200000回達成
+Exterminate all that blocks the path!
+Defeat 200000 enemies.
 
-全てを制す者…ここに見参！
-敵討伐回数500000回達成
+The one who gives judgement... is now here!
+Defeat 500000 enemies.
 
-手始めに…
-最も弱く見える敵を130回討伐
+For starters...
+Defeat 130 weak monsters.
 
-最初のレベル上げにはもってこい！
-最も弱く見える敵を1100回討伐
+Good fit for the first level.
+Defeat 1100 weak monsters.
 
-何か…いたから…つい…
-最も弱く見える敵を3000回討伐
+Just because there was something.
+Defeat 3000 weak monsters.
 
-もう何の役にも立たないよ！
-最も弱く見える敵を5600回討伐
+You can't hold your ground!
+Defeat 5600 weak monsters.
 
-向かってくるなよ…
-最も弱く見える敵を9100回討伐
+Don't defy me.
+Defeat 9100 weak monsters.
 
-あっ…いたんだ？
-最も弱く見える敵を13000回討伐
+Oh..that was nothing.
+Defeat 13000 weak monsters.
 
-暇つぶし！
-最も弱く見える敵を18000回討伐
+Killing time!
+Defeat 18000 weak monsters.
 
-目障り！
-最も弱く見える敵を24000回討伐
+Eyesore!
+Defeat 24000 weak monsters.
 
-この世は…弱肉強食！
-最も弱く見える敵を32000回討伐
+It's survival of the fittest!
+Defeat 32000 weak monsters.
 
-君（の心）が一番強い
-最も弱く見える敵を41000回討伐
+Mind over matter.
+Defeat 41000 weak monsters.
 
 ふっつぅ～～
-平凡に見える敵を80回討伐
+Defeat 80 normal monsters.
 
-一人で充分
-平凡に見える敵を700回討伐
+I alone am enough
+Defeat 700 normal monsters.
 
-かかってきなよ
-平凡に見える敵を1800回討伐
+Don't leave me hanging
+Defeat 1800 normal monsters.
 
-しつこいな～
-平凡に見える敵を3500回討伐
+Persistent
+Defeat 3500 normal monsters.
 
-凄んでも怖くない
-平凡に見える敵を5700回討伐
+I'm not afraid even if I'm threatened
+Defeat 5700 normal monsters.
 
-弱い奴ほどよく吠える
-平凡に見える敵を8300回討伐
+The weak shouldn't bark at all
+Defeat 8300 normal monsters.
 
-身のほどをわきまえろ！
-平凡に見える敵を11600回討伐
+Know your place!
+Defeat 11600 normal monsters.
 
-質より量派ですか？
-平凡に見える敵を15400回討伐
+Is it the quantity more than the quality?
+Defeat 15400 normal monsters.
 
-群がれば良いってもんじゃないよ？
-平凡に見える敵を20000回討伐
+Isn't it the gate where they should gather?
+Defeat 20000 normal monsters.
 
-コモンバスター
-平凡に見える敵を25700回討伐
+Common Buster
+Defeat 25700 normal monsters.
 
-意外と倒せる
-強そうに見える敵を30回討伐
+Unexpectedly beaten
+Defeat 30 elite monsters.
 
-売られた喧嘩は買う
-強そうに見える敵を280回討伐
+I accept a sold challenge.
+Defeat 280 elite monsters.
 
-段々慣れてきた！
-強そうに見える敵を750回討伐
+I have been getting used to it!
+Defeat 750 elite monsters.
 
-お前も雑魚の仲間入り
-強そうに見える敵を1400回討伐
+You should join the fishes
+Defeat 1400 elite monsters.
 
-倒した数は覚えていない
-強そうに見える敵を2200回討伐
+I don't remember how many I've beaten
+Defeat 2200 elite monsters.
 
-そんなにいたの？
-強そうに見える敵を3000回討伐
+Were there so much of you here?
+Defeat 3000 elite monsters.
 
-強そうに見えたのは過去の事
-強そうに見える敵を5000回討伐
+It seemed strong in the past.
+Defeat 5000 elite monsters.
 
-今は可哀想にしか見えない
-強そうに見える敵を6100回討伐
+It looks pitiful now.
+Defeat 6100 elite monsters.
 
-ムシャクシャする！八つ当たりだ！
-強そうに見える敵を8000回討伐
+It's vexing! it's hit 8 // eight probably referring to 8000
+Defeat 8000 elite monsters.
 
-私の方が強そう
-強そうに見える敵を10200回討伐
+I seem to be strong.
+Defeat 10200 elite monsters.
 
-えっ？ボスじゃない？
-中ボス級の敵を17回討伐
+Oh? Aren't you the boss?
+Defeat 17 mini-bosses.
 
-どっからがボスなの？
-中ボス級の敵を140回討伐
+It's the boss from where?
+Defeat 140 mini-bosses.
 
-まぁ油断はできないよね
-中ボス級の敵を370回討伐
+Oh, I can't be careless.
+Defeat 370 mini-bosses.
 
-疲れてる時は会いたくないな
-中ボス級の敵を700回討伐
+I don't want to meet you when I'm tired
+Defeat 700 mini-bosses.
 
-たま～にやられるよね
-中ボス級の敵を1100回討伐
+You sometimes lose, right?
+Defeat 1100 mini-bosses.
 
-お前はただの噛ませ犬
-中ボス級の敵を1600回討伐
+You bite just like a dog
+Defeat 1600 mini-bosses.
 
-前座には丁度いいかも
-中ボス級の敵を2300回討伐
+It may be good for an opening performance.
+Defeat 2300 mini-bosses.
 
-中ボスだってボスなのに…
-中ボス級の敵を3000回討伐
+Even though a mini-boss is a boss....
+Defeat 3000 mini-bosses.
 
-敵勢力のナンバー2
-中ボス級の敵を4000回討伐
+Two times the enemy force power
+Defeat 4000 mini-bosses.
 
-マッドハンター
-中ボス級の敵を5100回討伐
+Mad Hunter
+Defeat 5100 mini-bosses.
 
-どんなもんだい！
-ボスを10回討伐
+What is it!
+Defeat 10 bosses.
 
-さすがにボスだね
-ボスを80回討伐
+You're the boss indeed, right?
+Defeat 80 bosses.
 
-ボスにも慣れてきた？
-ボスを200回討伐
+Am I used to the boss, too?
+Defeat 200 bosses.
 
-もう行動パターンは読めている
-ボスを400回討伐
+I can predict your next move.
+Defeat 400 bosses.
 
-百戦錬磨は伊達じゃない
-ボスを600回討伐
+A veteran isn't showy
+Defeat 600 bosses.
 
-日々の努力の賜物
-ボスを1000回討伐
+Gift of a daily effort
+Defeat 1000 bosses.
 
-いつでも相手になるよ？
-ボスを1300回討伐
+Will you be my opponent anytime?
+Defeat 1300 bosses.
 
-恐るるに足らず
-ボスを1800回討伐
+Not formidable enough
+Defeat 1800 bosses.
 
-ボスの面目丸潰れ
-ボスを2400回討伐
+The boss's face is ruined
+Defeat 2400 bosses.
 
-ボスキラー
-ボスを3000回討伐
+Boss Killer
+Defeat 3000 bosses.
 
-一味違うね？
-レイドボスを10回討伐
+Is a member different?
+Defeat 10 raid bosses.
 
-このままじゃダメだ！
-レイドボスを80回討伐
+Just as it is, then it's useless!
+Defeat 80 raid bosses.
 
-これが修行の成果だ！
-レイドボスを200回討伐
+This is an outcome of training!
+Defeat 200 raid bosses.
 
-口ほどにもない
-レイドボスを400回討伐
+Not even enough to brag
+Defeat 400 raid bosses.
 
-私にかかればこんなもんよ
-レイドボスを600回討伐
+That's what you get for going against me
+Defeat 600 raid bosses.
 
-武帝への通過点
-レイドボスを1000回討伐
+The Rise and Fall of an Emperor
+Defeat 1000 raid bosses.
 
-世界の平和のために
-レイドボスを1300回討伐
+For world peace  
+Defeat 1300 raid bosses.
 
-最強！最恐！最狂！
-レイドボスを1800回討伐
+Strongest! Formidable! Berserker!
+Defeat 1800 raid bosses.
 
-選ばれし者の境地
-レイドボスを2400回討伐
+The Chosen One's Capabilities
+Defeat 2400 raid bosses.
 
-レイドエンペラー
-レイドボスを3000回討伐
+Raid Emperor
+Defeat 3000 raid bosses.
 
-ガラクタはガラクタらしく
-ソウルジャンク勢力の敵を100回討伐
+Trash is trash.
+Defeat 100 Soul Junk.
 
-クリーンアップ作戦
-ソウルジャンク勢力の敵を800回討伐
+Cleanup strategy
+Defeat 800 Soul Junk.
 
-帰ったら手洗いうがいをしっかりね！
-ソウルジャンク勢力の敵を2000回討伐
+I should wash my hands when I get back
+Defeat 2000 Soul Junk.
 
-なんとか再利用できないかな？
-ソウルジャンク勢力の敵を4000回討伐
+Can't it be reused somehow?
+Defeat 4000 Soul Junk.
 
-良くみると可愛いかも
-ソウルジャンク勢力の敵を6000回討伐
+When take a look, it's quite cute.
+Defeat 6000 Soul Junk.
 
-ジャンクにしてはしっかりしてる
-ソウルジャンク勢力の敵を9000回討伐
+It's not bad for a junk.
+Defeat 9000 Soul Junk.
 
-こう見えても潔癖症
-ソウルジャンク勢力の敵を13000回討伐
+I am germophobic, though I may not look like it
+Defeat 13000 Soul Junk.
 
-ヴェシとの違いがわからない
-ソウルジャンク勢力の敵を18000回討伐
+I can't tell the difference with VESHI. // ??? lol
+Defeat 18000 Soul Junk.
 
-ジャンク愛好家
-ソウルジャンク勢力の敵を23000回討伐
+Junk lover
+Defeat 23000 Soul Junk.
 
-ジャンククリーナー
-ソウルジャンク勢力の敵を30000回討伐
+Junk Cleaner
+Defeat 30000 Soul Junk.
 
-もう見たくない…
-人形勢力の敵を110回討伐
+I won't want to see any more... 
+Defeat 110 puppets.
 
-お願いだから笑わないで
-人形勢力の敵を900回討伐
+Please don't laugh
+Defeat 900 puppets.
 
-全然可愛くない！
-人形勢力の敵を2400回討伐
+It isn't pretty at all!
+Defeat 2400 puppets.
 
-意味もなく笑うな！！
-人形勢力の敵を4500回討伐
+Don't laugh meaninglessly!!
+Defeat 4500 puppets.
 
-コレクションはしたくない
-人形勢力の敵を7200回討伐
+I don't want to do a collection.
+Defeat 7200 puppets.
 
-ただの操り人形…
-人形勢力の敵を10800回討伐
+Just a normal puppet...
+Defeat 10800 puppets.
 
-こんな悪夢はもう嫌だ
-人形勢力の敵を15300回討伐
+Such a nightmare, I don't like this.
+Defeat 15300 puppets.
 
-何か着せてみたいな…
-人形勢力の敵を20200回討伐
+I'd like to put something on it....
+Defeat 20200 puppets.
 
-呪ったりなんかしないよね？
-人形勢力の敵を26500回討伐
+Is it cursed or something?
+Defeat 26500 puppets.
 
-マリオネッター
-人形勢力の敵を34200回討伐
+Marionette
+Defeat 34200 puppets.
 
-さぁ始めよう…
-ネッドカンパニー勢力の敵を110回討伐
+Now let us begin...
+Defeat 110 NEDs.
 
-裏切りの報い
-ネッドカンパニー勢力の敵を450回討伐
+Reward of betrayal
+Defeat 450 NEDs.
 
-目には目を歯には歯を
-ネッドカンパニー勢力の敵を1200回討伐
+An eye for an eye, a tooth for a tooth
+Defeat 1200 NEDs.
 
-復讐のその先には…
-ネッドカンパニー勢力の敵を2250回討伐
+At the end of every revenge...
+Defeat 2250 NEDs.
 
-地獄の果てまで追い詰める
-ネッドカンパニー勢力の敵を3600回討伐
+Chase down to the ends of hell
+Defeat 3600 NEDs.
 
-許して…あげない！
-ネッドカンパニー勢力の敵を5400回討伐
+I won't forgive you!
+Defeat 5400 NEDs.
 
-因果応報
-ネッドカンパニー勢力の敵を7650回討伐
+Karma is a bitch
+Defeat 7650 NEDs.
 
-裁くのは神じゃない…私だ！
-ネッドカンパニー勢力の敵を10100回討伐
+God is not the judge... I am!
+Defeat 10100 NEDs.
 
-復讐の鬼
-ネッドカンパニー勢力の敵を13250回討伐
+Vengeful Ghost
+Defeat 13250 NEDs.
 
-この復讐こそ…正義！
-ネッドカンパニー勢力の敵を17100回討伐
+This revenge is the true justice！
+Defeat 17100 NEDs.
 
-話にならないな
-ラピッドフレイム勢力の敵を110回討伐
+I didn't come to talk.
+Defeat Rapid Flame faction enemies 110 times
 
-更なる強者を求めて
-ラピッドフレイム勢力の敵を900回討伐
+In search of more power.
+Defeat Rapid Flame faction enemies 900 times
 
-戦いに身を投じた結果
-ラピッドフレイム勢力の敵を2400回討伐
+The results of fighting
+Defeat Rapid Flame faction enemies 2400 times
 
-強さの果てに…
-ラピッドフレイム勢力の敵を4500回討伐
+The limit of the strength....
+Defeat Rapid Flame faction enemies 4500 times
 
-シェイプアップ中
-ラピッドフレイム勢力の敵を7200回討伐
+I'm shaping up
+Defeat Rapid Flame faction enemies 7200 times
 
-血が騒ぐ…胸が躍る…
-ラピッドフレイム勢力の敵を10800回討伐
+Blood is boiling, Heart is beating
+Defeat Rapid Flame faction enemies 10800 times
 
-力こそ全て！
-ラピッドフレイム勢力の敵を15300回討伐
+Power is everything!
+Defeat Rapid Flame faction enemies 15300 times
 
-近づくと怪我するよ？
-ラピッドフレイム勢力の敵を20200回討伐
+Do you get injured when I approach you?
+Defeat Rapid Flame faction enemies 20200 times
 
-いくらでもかかってこい
-ラピッドフレイム勢力の敵を26500回討伐
+I can take on as many as you want
+Defeat Rapid Flame faction enemies 26500 times
 
-戦いでしか伝わらないことがある
-ラピッドフレイム勢力の敵を34200回討伐
+There are things that can only be heard through fighting
+Defeat Rapid Flame faction enemies 34200 times
 
-トランスフォーム？
-アイアンフォース勢力の敵を110回討伐
+Transform?
+Defeat Iron faction enemies 110 times
 
-手が勝手に…
-アイアンフォース勢力の敵を900回討伐
+My hand moved on impulse...
+Defeat Iron faction enemies 900 times
 
-人工知能恐るべし
-アイアンフォース勢力の敵を2400回討伐
+Awful Artificial Intelligence
+Defeat Iron faction enemies 2400 times
 
-製造スピードが異常
-アイアンフォース勢力の敵を4500回討伐
+The manufacturing speed is abnormal.
+Defeat Iron faction enemies 4500 times
 
-合体は？しないの？
-アイアンフォース勢力の敵を7200回討伐
+Combination? Isn't it done?
+Defeat Iron faction enemies 7200 times
 
-何か進化してない？
-アイアンフォース勢力の敵を10800回討伐
+Doesn't anything evolve?
+Defeat Iron faction enemies 10800 times
 
-固そうだよね
-アイアンフォース勢力の敵を15300回討伐
+It seems solid, doesn't it?
+Defeat Iron faction enemies 15300 times
 
-スクラップにしてあげる
-アイアンフォース勢力の敵を20200回討伐
+I'll turn it into scrap.
+Defeat Iron faction enemies 20200 times
 
-いつか分かり合える？
-アイアンフォース勢力の敵を26500回討伐
+Can we understand each other someday?
+Defeat Iron faction enemies 26500 times
 
-キリングマシン
-アイアンフォース勢力の敵を34200回討伐
+Killing Machine
+Defeat Iron faction enemies 34200 times
 
 オリジナリティーがないよね
 ニアソウルワーカーを10回討伐
@@ -808,35 +808,35 @@ BP獲得量40000達成
 修羅の極み
 BP獲得量50000達成
 
-Lv10達成！
-Lv10達成
+Lv10 Achieved!
+Lv10 Achievment
 
-Lv20達成！
-Lv20達成
+Lv20 Achieved!
+Lv20 Achievment
 
-Lv30達成！
-Lv30達成
+Lv30 Achieved!
+Lv30 Achievment
 
-Lv40達成！
-Lv40達成
+Lv40 Achieved!
+Lv40 Achievment
 
-Lv50達成！
-Lv50達成
+Lv50 Achieved!
+Lv50 Achievment
 
-Lv60達成！
-Lv60達成
+Lv60 Achieved!
+Lv60 Achievment
 
-Lv70達成！
-Lv70達成
+Lv70 Achieved!
+Lv70 Achievment
 
-Lv80達成！
-Lv80達成
+Lv80 Achieved!
+Lv80 Achievment
 
-Lv90達成！
-Lv90達成
+Lv90 Achieved!
+Lv90 Achievment
 
-Lv100達成！
-Lv100達成
+Lv100 Achieved!
+Lv100 Achievment
 
 ちょっと慣れてきた
 累積プレイタイム5時間達成
@@ -1252,18 +1252,18 @@ Lv100達成
 金色のイレギュラー
 [ゴールデンシタデル]のボス[オルティメイタム]100回討伐
 
-失礼します
-フレンドのマイルーム1回訪問
+Excuse me.
+Visit a friend's room once
 
-食べ物をください
-フレンドのマイルーム500回訪問
+Can I have food?
+Visit a friend's room 500 times
 
-慣れてきましたね
-フレンドのマイルーム1000回訪問
+I'm getting used to it
+Visit a friend's room 1000 times
 
-あなたの家が好き
-フレンドのマイルーム2000回訪問
+I like your house.
+Visit a friend's room 2000 times
 
-隠してきたホームレス根性
-フレンドのマイルーム5000回訪問
+Hidden homeless guts
+Visit a friend's room 5000 times
 
