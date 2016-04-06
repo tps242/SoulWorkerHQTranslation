@@ -526,7 +526,7 @@ Progress
 
 Additional Rewards Gained：{0} X {1}
 
-Since there is no remaining inventory space, it has been shiped by [{0} X {1}] mail. 
+Since there is no remaining inventory space, it has been shiped by [{0} X {1}] mail.
 
 Result
 
@@ -586,19 +586,19 @@ Add Friend
 
 Revive
 
-※You will be <font color='#F15F5F'>moved to town</font> after abandoning the party in <font size='15' color='#F7AE54'>{0}</font> seconds. 
+※You will be <font color='#F15F5F'>moved to town</font> after abandoning the party in <font size='15' color='#F7AE54'>{0}</font> seconds.
 
 Abandonment
 
 You have been ressurected by the blessing buff effect.
 
-+※<font color='#F2CB61'>1 [Accident Call]</font> will be used for resurrection. 
+※<font color='#F2CB61'>1 [Accident Call]</font> will be used for resurrection.
 
-※<font color='#F15F5F'>You will be moved to the last town you visited</font> after <font size='15' color='#F7AE54'>{0}</font> seconds. 
+※<font color='#F15F5F'>You will be moved to the last town you visited</font> after <font size='15' color='#F7AE54'>{0}</font> seconds.
 
-※<font color='#47C83E'>[{0}] has revived you</font>
+※<font color='#47C83E'>[{0}] has revived you</font>.
 
-※Do you want to use <font color='#FFBB00'>1 [Top Accident Call]</font> to revive? 
+※Do you want to use <font color='#FFBB00'>1 [Top Accident Call]</font> to revive?
 
 ※You cannot revive because you don't have a <font color='#FFBB00'>[Top Accident Call]</font>.
 
@@ -638,7 +638,7 @@ says
 
 You have received a party invitation from {0}.
 Do you accept this party invitation?
-({1}s remaining) 
+({1}s remaining)
 
 If you leave the party, you will be teleported to town.
 Are you sure you want to leave the party?
@@ -655,7 +655,7 @@ Are you sure you want to leave the party?
 Do you want to raise {0}'s skill level?
 (Costs: {1} SP)
 
-Owned SP 
+Owned SP
 
 {0} Points
 
@@ -860,29 +860,29 @@ Quest Dialogue
 
 Return
 
-Advance[Space]
+Continue [Space]
 
 Skip
 
-Close[ESC]
+Close [ESC]
 
-End Conversation[Space]
+End Conversation [Space]
 
-End[Space]
+End [Space]
 
 Manage Sockets
 
-Accept Order[Space]
+Accept Order [Space]
 
-Decline-[Back]
+Decline [Back]
 
 {0} Zenny
 
-{0}EXP
+{0} EXP
 
 Lv{0}
 
-{0}位
+Rank {0}
 
 The raid "Strange Space" is a difficult dungeon. Please proceed with caution.
 
@@ -1075,7 +1075,7 @@ Do you want to add a new socket to the selected item?
 A Familia can be attached to socket items.
 (Right-click the item to attach it)
 
-The selected Familia has been released. 
+The selected Familia has been released.
 
 A socket has been added to the selected item。
 
@@ -1260,7 +1260,7 @@ Trade
 
 Please register an item.
 
-Maximum Enhancements Possible：+{0}
+Maximum Enhancement Stage: +{0}
 
 Enhancements done
 
@@ -1268,7 +1268,7 @@ Reinforced materials.
 
 {1}/{2}
 
-Enhancement Target 
+Enhancement Target
 
 The item cannot be enhanced.
 
@@ -1554,7 +1554,7 @@ Exit Survival Mode
 
 NED Company
 
-Starry Forest League 
+Starry Forest League
 
 Nihilum Kingdom Gang
 
@@ -1690,7 +1690,7 @@ Time Sent
 
 Received time
 
-{0}h {1}m 
+{0}h {1}m
 
 Claim Zenny
 
@@ -1852,31 +1852,31 @@ Waiting for a response from the other trader.
 (If you do not want to trade, please click on the button "Cancel Trade"
 
 Trade request sent to {0}. Waiting the consent of the other party.
-[{1} seconds remaining]
+[{1}s remaining]
 
 Trade request received from {0}. Do you accept?
-[{1} seconds remaining]
+[{1}s remaining]
 
 The player is too far away; the trade request has been canceled.
 
 The player has logged out, the trade request has been aborted.
 
-Transaction has been canceled.
+The trade has been canceled.
 (You must be in the same town as the other party)
 
-The trade request with {0} was canceled. 
+The trade request with {0} was canceled.
 
-The trade request from {0} was declined. 
+The trade request from {0} was declined.
 
-{0} has canceled the trade request. 
+{0} has canceled the trade request.
 
-{0} has declined the trade request. 
+{0} has declined the trade request.
 
-The trade request has expired because of no response. 
+The trade request has expired because of no response.
 
-NPC Functions are unavailable while in a transaction.
+NPC Functions are unavailable while in a trade.
 
-Equipment changes are unavailable while in a transaction.
+Equipment changes are unavailable while in a trade.
 
 Target player already has a trade in progress.
 Please try again later.
@@ -1884,25 +1884,25 @@ Please try again later.
 Target player has already requested a trade.
 Please try again later.
 
-Transactions with {0} was successful.
+Trade with {0} was successful.
 
-Since there was no free inventory space, the transaction was canceled.
+Since there was no free inventory space, the trade was canceled.
 
 Do you want to stop the trade with {0}?
 
-Aborted the trade with {0}.
+Canceled the trade with {0}.
 
-{0} has aborted the transaction.
+{0} has canceled the trade.
 
-Since the target player is too far, the trade has been aborted.
+Since the target player is too far, the trade has been canceled.
 
-Since the target player has logged out, the trade has been aborted.
+Since the target player has logged out, the trade has been canceled.
 
-Since the target player has moved into other areas, the trade has been aborted.
+Since the target player has moved into other areas, the trade has been canceled.
 
 {0} can't be traded with because they are currently opening a private shop.
 
-Transactions with this player is impossible.
+You cannot trade with this player.
 
 Change
 
@@ -1956,7 +1956,7 @@ Sale
 
 Sale Preparations
 
-When trading or registering products, please verify the items and Zenny. 
+When trading or registering products, please verify the items and Zenny.
 
 Quest Completion Reward
 
@@ -1972,7 +1972,7 @@ Items acquired.
 
 When completing {0}, the following rewards are awarded.
 
-You have achieved the {0}, the rewards below have been awarded. 
+You have achieved the {0}, the rewards below have been awarded.
 
 {0}占有率報酬により、以下を獲得しました。
 
@@ -2044,7 +2044,7 @@ You received a friend request from {0}
 
 Completion Rate
 
-{0} Completion Rate:{1}% 
+{0} Completion Rate:{1}%
 
 Unlearned
 
@@ -2176,23 +2176,23 @@ Combat
 
 Skill
 
-Uses a sword as a weapon. 
-A practical choice for combat.
+Uses a sword as a weapon.
+This weapon has a balanced style and its performance is exceptional.
 
-Uses a pistol as a weapon. 
+Uses a pistol as a weapon.
 Perform nimble movements at the expense of the enemy.
 
-Uses a scythe as a weapon. 
-Strike down your foes with long-reaching attacks.
+Uses a scythe as a weapon.
+Sweep away enemies with the power of long-reaching attacks.
 
-Uses gauntlets as a weapon.
-Quickly annihilate enemies with impending speed..
+Uses a gauntlet as a weapon.
+Quickly annihilate enemies with impending speed.
 
-Uses a guitar as a weapon. 
+Uses a guitar as a weapon.
 Harbor some deadly sound-wrenching melodies by summoning ghosts.
 
-Uses a cannon as a weapon. 
-Dominate enemies with overwhelming firepower. 
+Uses a cannon as a weapon.
+Dominate enemies with overwhelming firepower.
 
 A girl who wishes to demonstrate her various abilities due to feeling helplessness from not being able to do anything as a medium. A gentle, huge-sword wielding girl who suffers from a feeling of obligation and guilt.
 
@@ -2220,7 +2220,7 @@ Preview
 
 Playback
 
-Select Apperance
+Select Appearance
 
 Hairstyle Color
 
@@ -2246,26 +2246,26 @@ Random
 
 Character Style Settings
 
-<font color='#FFFFFF'><font size="30">TIP：</font>The basic equipment items in each town's <font color='#00ff9c'>equipment store</font>can be bought.
+<font color='#FFFFFF'><font size="30">TIP:</font>Basic equipment items in each town's <font color='#00ff9c'>Equipment Shop</font>can be bought.
 
-<font color='#FFFFFF'><font size="30">TIP：</font>The basic consumable items in each town's <font color='#00ff9c'>general merchandise store</font>can be bought.
+<font color='#FFFFFF'><font size="30">TIP:</font>Basic consumable items in each town's <font color='#00ff9c'>General Merchant Shop</font>can be bought.
 
-<font color='#FFFFFF'><font size="30">TIP：</font>The various shops in town can<font color='#00D8FF'>[repair]</font> your equipment or <font color='#00D8FF'>[dismantle]</font> them.
+<font color='#FFFFFF'><font size="30">TIP:</font>Various shops in towns can <font color='#00D8FF'>[repair]</font> your equipment or <font color='#00D8FF'>[dismantle]</font> them.
 
-<font color='#FFFFFF'><font size="30">TIP：</font>If you make a purchase from a NPC Shop, your<font color='#00D8FF'>[customer grade]</font> will rise.
+<font color='#FFFFFF'><font size="30">TIP:</font>If you purchase from an NPC Shop, your <font color='#00D8FF'>[Customer Grade]</font> will rise.
 Determining on the customer grade level obtained, various benefits and additional items can be offered.
 
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>In [トリシャ]</font>You can <font color='#00D8FF'>[exchange][enhance]</font> materials/equipments.
+<font color='#FFFFFF'><font size="30">TIP:</font><font color='#00ff9c'>Talking to [Trisha]</font>, you can <font color='#00D8FF'>[exchange] or [enhance]</font> materials/equipment.
 
-<font color='#FFFFFF'><font size="30">TIP：</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して
+<font color='#FFFFFF'><font size="30">TIP:</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して
 別の装備品の強化・製作アイテムを入手することもできます。
 
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#B2EBF4'>[ゼニス]</font>の所で、武器・ギア・アバターを<font color='#00D8FF'>[製作]</font>できます。
+<font color='#FFFFFF'><font size="30">TIP:</font><font color='#B2EBF4'>[ゼニス]</font>の所で、武器・ギア・アバターを<font color='#00D8FF'>[製作]</font>できます。
 
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>HEMS</font>を利用してメールを送れます。メール送信には手数料がかかります。
+<font color='#FFFFFF'><font size="30">TIP:</font><font color='#00ff9c'>HEMS</font>を利用してメールを送れます。メール送信には手数料がかかります。
 必要に応じてアイテムやジェニーの添付も可能です。
 
-<font color='#FFFFFF'><font size="30">TIP：</font>町にいる<font color='#00ff9c'>オードン</font>の銀行に、持ちきれない<font color='#00D8FF'>アイテム</font>を預けることができます。
+<font color='#FFFFFF'><font size="30">TIP:</font>町にいる<font color='#00ff9c'>オードン</font>の銀行に、持ちきれない<font color='#00D8FF'>アイテム</font>を預けることができます。
 
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>ミニマップ</font>で自分の現在地や各<font color='#00D8FF'>NPC</font>の場所、<font color='#00D8FF'>メイズ</font>の入口を確認できます。
 
@@ -9392,7 +9392,7 @@ NEW
 
 選択したセットを装着しますか?
 
-選択したセットをAre you sure you want to discard this?
+Are you sure you want to discard this?
 
 アイテム検索には2文字以上の入力が必要です。
 
