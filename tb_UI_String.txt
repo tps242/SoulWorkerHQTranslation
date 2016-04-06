@@ -2177,7 +2177,7 @@ Combat
 Skill
 
 Uses a sword as a weapon. 
-A practical choice for combat.
+This weapon has a balanced style and its performance is exceptional.
 
 Uses pistols as a weapon. 
 Perform nimble movements at the expense of the enemy.
