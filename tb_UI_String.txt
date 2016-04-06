@@ -932,11 +932,11 @@ Equipment Requirement
 
 <font color='#0099FF'>Evolvable</font>
 
-<font color='#FF0000'>bind on Equip</font>
+<font color='#FF0000'>Bind on Equip</font>
 
-<font color='#FF0000'>bind on Acquisition</font>
+<font color='#FF0000'>Bind on Acquisition</font>
 
-<font color='#FF0000'>bind</font>
+<font color='#FF0000'>Bind</font>
 
 <font color='#FF0000'>Untradable</font>
 
@@ -1159,7 +1159,7 @@ Insufficient inventory space for dismantling.
 
 MAX
 
-When equipped, the item will be bind.
+When equipped, the item will be Bind.
 Do you want to equip the item?
 
 Status
@@ -1244,11 +1244,11 @@ Evolvable
 
 Dismantable
 
-bind on Equip
+Bind on Equip
 
-bind on Acquisition
+Bind on Acquisition
 
-bind
+Bind
 
 <font color='#FF0000'>Unsellable</font>
 
