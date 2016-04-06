@@ -1362,135 +1362,135 @@ Enhancement Cost
 
 {0}{1} to {2}{3}; Are you sure you want to convert the items？
 
-ナチュラルショート
+Naturally Short
 
-ワイルドショート
+Short n Wild
 
-カールフォームショート
+Curled Short Style
 
-ヘア4
+Hair 4
 
-ヘア5
+Hair 5
 
-テールシャギー
+Shaggy with Tails
 
-スマートヘア
+Booksmart Hair
 
-ワイルドシャギー
+Wildly Shaggy
 
-ヘア4
+Hair 4
 
-ヘア5
+Hair 5
 
-ツイストツインテール
+Twisted Twin Tails
 
-プリンセスツインテール
+Princess Twin Tails
 
-ナチュラルツインテール
+Natural Twin Tails
 
-ヘア4
+Hair 4
 
-ヘア5
+Hair 5
 
-ヘア1
+Hair 1
 
-ヘア2
+Hair 2
 
-ヘア3
+Hair 3
 
-ヘア4
+Hair 4
 
-ヘア5
+Hair 5
 
-ボトムバインド
+Bottom Bind
 
-カットバインド
+Cut Bind
 
-ミドルバインド
+Center Bind
 
-ヘア4
+Hair 4
 
-ヘア5
+Hair 5
 
-ヘア1
+Hair 1
 
-ヘア2
+Hair 2
 
-ヘア3
+Hair 3
 
-ヘア4
+Hair 4
 
-ヘア5
+Hair 5
 
-外見選択
+Appearance Selection
 
-キャラクター名
+Character Name
 
-重複確認
+Duplicate Check
 
-キャラクター確認
+Character Confirmation
 
-衣装
+Costume
 
-武器
+Weapon
 
-音声
+Voice
 
-動作
+Action
 
-外見
+Appearance
 
-ヘアスタイル・カラー
+Hair Style Color
 
-スキン
+Skin
 
-アイカラー
+Eye Color
 
-基本衣装
+Basic Costume
 
-聞く
+Listen
 
-実行
+Run
 
-キャラクター選択
+Character Selection
 
-基本値
+Default Look
 
-ランダム
+Random Look
 
-作成完了
+Finish Creation
 
-キャラクターの外見を決定できます。
+You can determine the appearance of the character.
 
-このままキャラクターを作成しますか？
+Do you want to create this character?
 
-2文字以上のキャラクター名を入力してください。
+Please enter two or more characters for your character name.
 
-キャラクター名の重複確認をしてください。
+Please check for character name duplication.
 
-VoiceA
+Voice A
 
-VoiceB
+Voice B
 
-VoiceC
+Voice C
 
-VoiceD
+Voice D
 
-VoiceE
+Voice E
 
-動作A
+Action A
 
-動作B
+Action B
 
-動作C
+Action C
 
-動作D
+Action D
 
-動作E
+Action E
 
 ウォーロードメイズ
 
-ストーリーメイズ
+Story Instance
 
 ユニティメイズ
 
