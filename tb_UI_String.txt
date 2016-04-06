@@ -1849,7 +1849,7 @@ After registering the item and Jenny, please click on the "complete registration
 Check the contents, please click on the "completion transaction."
 
 Waiting for a response from the other trader.
-(If you do not want to trade, please click on the button "Abort Transactipn"
+(If you do not want to trade, please click on the button "Abort Transaction"
 
 Trade request sent to {0}. Waiting the consent of the other party.
 [Remaining Response Time: {1} seconds]
@@ -1861,58 +1861,58 @@ The player is too far; the trade request has been canceled.
 
 The player has logged out, the transaction request has been aborted.
 
-取引が中止されました。
-(対象と同じ町でのみ取引ができます)
+Transaction has been aborted.
+(You must be in the same town as the other party)
 
-{0}への取引要請を中止しました。
+Aborted the transaction request to {0}.
 
-{0}の取引要請を拒否しました。
+Refused the transaction request from {0}.
 
-{0}が取引要請を中止しました。
+{0} has aborted the transaction request.
 
-{0}が取引要請を拒否しました。
+{0} has rejected the trade request.
 
-承諾待機時間が終了し、取引要請が中止されました。
+The transaction request has expired because of no response.
 
-取引進行中はNPC機能を利用できません。
+NPC Functions are unavailable while in a transaction.
 
-取引進行中は装備を変更できません。
+Equipment changes are unavailable while in a transaction.
 
-対象プレイヤーはすでに取引進行中です。
-しばらくしてからもう一度お試しください。
+Target player already has a trade in progress.
+Please try again later.
 
-対象プレイヤーはすでに取引を要請中です。
-しばらくしてからもう一度お試しください。
+Target player has already requested a trade.
+Please try again later.
 
-{0}との取引が成立しました。
+Transactions with {0} was successful.
 
-インベントリに空きスロットが無いため、取引を完了できません。
+Since there was no free inventory space, the transaction was canceled.
 
-{0}と進行中の取引を中止しますか？
+Do you want to stop the trade with {0}?
 
-{0}との取引を中止しました。
+Aborted the trade with {0}.
 
-{0}が取引を中止しました。
+{0} has aborted the transaction.
 
-対象プレイヤーと距離があり、進行中の取引が中止されました。
+Since the target player is too far, the trade has been aborted.
 
-対象プレイヤーがログアウトし、進行中の取引が中止されました。
+Since the target player has logged out, the trade has been aborted.
 
-対象プレイヤーが他のエリアに移動したので、進行中の取引が中止されました。
+Since the target player has moved into other areas, the trade has been aborted.
 
-{0}は現在個人商店開設準備中なので取引ができません。
+{0} can't be traded with because they are currently opening a private shop.
 
-対象は取引できない状態です。
+Transactions with this player is impossible.
 
-変更
+Change
 
-[{0}]の個人商店
+[{0}]'s Private Shop
 
-個人商店名を入力してください。
+Please enter a personal shop name.
 
-[個人商店名は最大20文字入力可能]
+Personal store names can be up to 20 characters in length.
 
-変更完了
+Change completed
 
 販売開始
 
