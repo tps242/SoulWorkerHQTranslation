@@ -2042,9 +2042,9 @@ Incoming Friend Request
 
 Received friend request from {0}
 
-Not learned
+Completion Rate
 
-{0} Cooldown:{1}%
+{0}占有率{1}%達成    
 
 Unlearned
 
@@ -2072,11 +2072,11 @@ Succeeding Skills：
 
 SV
 
-<Awakening Skills>
-Awakening available
+<Break Skill>
+Peak Available
 
-<ブレイクスキル>
-イロージョン使用可能
+<Break Skill>
+Erosion Available
 
 SV{0}% Consumption
 
@@ -2094,7 +2094,7 @@ Login
 
 ID
 
-Please enter ab ID.
+Please enter an ID.
 
 Password
 
@@ -2144,9 +2144,9 @@ Wait for connection...
 
 Populated
 
-普通
+Normal
 
-円滑
+Free
 
 ロスカー
 
