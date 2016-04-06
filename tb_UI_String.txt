@@ -1159,7 +1159,7 @@ Insufficient inventory space for dismantling.
 
 MAX
 
-When equipped, the item will be Bind.
+This item binds when you equip it.
 Do you want to equip the item?
 
 Status
