@@ -900,7 +900,7 @@ Dedicated Party
 
 Party of 4
 
-FP cost
+FP Cost
 
 An admission ticket is required.
 
