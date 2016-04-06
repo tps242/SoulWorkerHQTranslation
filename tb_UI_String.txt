@@ -962,7 +962,7 @@ Time
 
 Day
 
-Required Level:
+Required Level: 
 
 Durability
 
@@ -1159,7 +1159,7 @@ Insufficient inventory space for dismantling.
 
 MAX
 
-This item binds when you equip it.
+When equipped, the item will be Bind.
 Do you want to equip the item?
 
 Status
@@ -2130,23 +2130,23 @@ Delete Character
 
 The character name may not be used for 7 days after deletion. Are you sure you want to delete the character?
 
-A deleted character cannot be recovered. 
+A deleted character cannot be recovered.
 As a guild master, the guild will be disbanded.
 Are you sure you want to delete this character?
 
-A deleted character cannot be recovered. 
+A deleted character cannot be recovered.
 The guild leader's position will be revoked.
 Are you sure you want to delete this character?
 
-Maintenance 
+Maintenance
 
-Waiting for connection...
+Waiting to connect.
 
-Populated
+Busy
 
 Normal
 
-Free
+Low
 
 Oscar
 
@@ -2179,7 +2179,7 @@ Skill
 Uses a sword as a weapon. 
 A practical choice for combat.
 
-Uses pistols as a weapon. 
+Uses a pistol as a weapon. 
 Perform nimble movements at the expense of the enemy.
 
 Uses a scythe as a weapon. 
