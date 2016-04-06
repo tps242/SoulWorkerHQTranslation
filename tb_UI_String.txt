@@ -1180,118 +1180,118 @@ Defense Power
 
 Current Title
 
-適用能力値
+Proficiency
 
-接頭
+Prefix
 
-接尾
+Suffix
 
-表示
+View
 
-物理攻撃力と防御度に影響
+Effect on Physical Attack Power and Defense
 
-物理攻撃力とクリティカル命中度に影響
+Effect on Physical Attack Power and Critical Hit Damage
 
-魔法攻撃力と魔法防御度に影響
+Effect on Magical Attack Power and Magic Resistance
 
-物理攻撃失敗率とクリティカル率に影響
+Effect on Failed Attack Rate and Critical Rate
 
-HPと物理防御度に影響
+Effect on HP and Physical Defense
 
-確率に影響
+Effect on chance
 
-1秒あたりに回復するスタミナ量
+Stamina recovered per second
 
-プレイヤーの移動速度倍率
+Movement speed increase
 
-プレイヤーの攻撃速度倍率
+Attack speed increase
 
-敵に与える物理攻撃力
+Physical Damage to enemies
 
-物理攻撃に失敗する確率が低下
+Reduce Chance of Failed Attacks
 
-物理攻撃時、クリティカルが発生する確率
+When attacking, the probability of critical hits increases
 
-物理攻撃中、クリティカル発生時に追加されるダメージ
+When attacking, critical hit damage is increased
 
-敵に与える魔法攻撃力
+Magical Damage to enemies
 
-魔法攻撃に失敗する確率が低下
+Reduce Chance of Failed Magic Attacks
 
-魔法攻撃時、クリティカルが発生する確率
+When casting magic attacks, the probability of critical hits increases
 
-魔法攻撃中、クリティカル発生時に追加されるダメージ
+When casting magic attacks, magic critical hit damage is increased
 
-物理攻撃によるダメージを軽減
+Reduce damage taken from physical attacks
 
-魔法攻撃によるダメージを軽減
+Reduce damage taken from magical attacks
 
-敵の物理クリティカル攻撃に対する抵抗
+Physical Critical Attack Resistance
 
-敵の魔法クリティカル攻撃に対する抵抗
+Magical Critical Attack Resistance
 
-[持続状態異常：火傷、中毒、感電、出血]にかかる確率が低下
+Persistant Abnormal Status Effects: Burns, Poisoning, Electric Shocks, Bleeding; decreases affected chance of receiving an effect
 
-[操作状態異常：気絶、麻痺、睡眠、凍結]にかかる確率が低下
+Active Abnormal States Effects: Stun, Paralysis, Sleep, Freeze; decreases affected chance of receiving an effect
 
-[特殊状態異常：沈黙、衰弱]にかかる確率が低下
+Special Abnormal States Effects: Silence, Weakness; decreases affected chance of receiving an effect
 
 %
 
-強化可能
+Possible enhancements
 
-進化可能
+Evolvable
 
-分解可能
+Dismantable
 
-装備時帰属
+Bound on equip
 
-獲得時帰属
+Bound on acquisition
 
-帰属アイテム
+Bound
 
-<font color='#FF0000'>売却不可</font>
+<font color='#FF0000'>Not sellable</font>
 
-<font color='#FF0000'>削除不可</font>
+<font color='#FF0000'>Indestructible</font>
 
-強化
+Enhancing
 
-交換
+Trade
 
-対象を登録してください。
+Please register an item.
 
-最大強化段階：+{0}
+Maximum Enhancements possible：+{0}
 
-強化段階
+Enhancements done
 
-強化材料
+Reinforced materials.
 
 {1}/{2}
 
-強化対象
+Enhancement target
 
-強化できないアイテムです。
+The item cannot be enhanced.
 
-これ以上強化できないアイテムです。
+This item cannot be enhanced anymore.
 
-強化材料または手数料が不足しています。
+Enhancing materials unavailable or fees are not paid.
 
-破壊防止アイテム使用
+Prevents item from being destroyed
 
-必要ジェニー
+Zenny required
 
-必要BP
+BP Required
 
-強化結果によっては登録アイテムが破壊状態になることがあります。
+Enhancing this item can destroy the item upon failure.
 
-破壊防止アイテムは、
-+4から使用できます。
+Protection items.
+Usable up to +4.
 
-強化
+Enhancing
 
-交換アイテムを選択してください。
+Please select a replacement item.
 
-所持数：
+Number of possessions:
 
 ▲
 
@@ -1299,222 +1299,222 @@ HPと物理防御度に影響
 
 Max
 
-交換
+Exchange
 
-獲得数：
+Cost
 
-消費量
+The item has been successfully enhanced.
 
-アイテム強化に成功しました。
+The item has failed to enhance.
 
-アイテム強化に失敗しました。
+The item has failed to enhance.
 
-アイテム強化に失敗しました。
-強化失敗により対象アイテムは破壊状態になりました。
+The item has failed to enhance.
+The item has been destroyed in the process.
 
-アイテム強化に失敗しました。
-Q.B.D[強化保護]使用により、対象アイテムは破壊状態になりませんでした。
+The item has failed to enhance.
+By using Q.B.D [Enhancement Protection], the item was not destroyed.
 
-強化失敗時、一定の確率でアイテムが破壊状態になります。
-アイテムを強化しますか？
-(Q.B.D[強化保護]を使用すると破壊状態防止)
+When enhancing fails, there is a chance of it being destroyed.
+Do you wish to proceed?
+(Q.B.D [Enhancement protection can be used to prevent item destruction)
 
-進化
+Evolution
 
-アイテムが保護されました。
+The item has been protected.
 
-アイテム交換
+Item exchange
 
-交換する数を入力してください。
+Please enter the quantity of items you wish to exchange.
 
-交換アイテム
+Exchange items
 
-獲得アイテム
+Acquired Items
 
-対象を選択してください。
+Please select a target.
 
-交換比率
+Exchange ratio
 
-アイテム進化
+Item Evolution
 
-進化成功時、強化段階は初期化されます。
+Upon successful item evolution, the enhancing stage is activated.
 
-進化
+Evolution
 
-装備中のアイテムは強化できません。
+The equipment item cannot be enhanced.
 
-強化不可：「{0}」不足
+Enhancing not possible： 「{0}」 missing
 
-強化を実行できます。
-一定確率で破壊状態になることがあります。
+You can enhance the item.
+It may result in destroying the item.
 
-強化を実行できます。
-結果によって、アイテムが破壊状態になることがあります。
-破壊防止アイテムは使用できません。
+You can enhance the item.
+It may result in destroying the item.
+Destruction mitigation items cannot be used.
 
-進化不可：「{0}」不足
+Evolution not possible： 「{0}」 missing
 
-強化回数
+Enhanced number of times:
 
-最大{0}
+Maximum {0}
 
-強化費用
+Enhancement Cost
 
-{0}{1}個を{2}{3}個に変更しますか？
+{0}{1} to {2}{3}; Are you sure you want to convert the items？
 
-ナチュラルショート
+Naturally Short
 
-ワイルドショート
+Short n Wild
 
-カールフォームショート
+Curled Short Style
 
-ヘア4
+Hair 4
 
-ヘア5
+Hair 5
 
-テールシャギー
+Shaggy with Tails
 
-スマートヘア
+Booksmart Hair
 
-ワイルドシャギー
+Wildly Shaggy
 
-ヘア4
+Hair 4
 
-ヘア5
+Hair 5
 
-ツイストツインテール
+Twisted Twin Tails
 
-プリンセスツインテール
+Princess Twin Tails
 
-ナチュラルツインテール
+Natural Twin Tails
 
-ヘア4
+Hair 4
 
-ヘア5
+Hair 5
 
-ヘア1
+Hair 1
 
-ヘア2
+Hair 2
 
-ヘア3
+Hair 3
 
-ヘア4
+Hair 4
 
-ヘア5
+Hair 5
 
-ボトムバインド
+Bottom Bind
 
-カットバインド
+Cut Bind
 
-ミドルバインド
+Center Bind
 
-ヘア4
+Hair 4
 
-ヘア5
+Hair 5
 
-ヘア1
+Hair 1
 
-ヘア2
+Hair 2
 
-ヘア3
+Hair 3
 
-ヘア4
+Hair 4
 
-ヘア5
+Hair 5
 
-外見選択
+Appearance Selection
 
-キャラクター名
+Character Name
 
-重複確認
+Duplicate Check
 
-キャラクター確認
+Character Confirmation
 
-衣装
+Costume
 
-武器
+Weapon
 
-音声
+Voice
 
-動作
+Action
 
-外見
+Appearance
 
-ヘアスタイル・カラー
+Hair Style Color
 
-スキン
+Skin
 
-アイカラー
+Eye Color
 
-基本衣装
+Basic Costume
 
-聞く
+Listen
 
-実行
+Run
 
-キャラクター選択
+Character Selection
 
-基本値
+Default Look
 
-ランダム
+Random Look
 
-作成完了
+Finish Creation
 
-キャラクターの外見を決定できます。
+You can determine the appearance of the character.
 
-このままキャラクターを作成しますか？
+Do you want to create this character?
 
-2文字以上のキャラクター名を入力してください。
+Please enter two or more characters for your character name.
 
-キャラクター名の重複確認をしてください。
+Please check for character name duplication.
 
-VoiceA
+Voice A
 
-VoiceB
+Voice B
 
-VoiceC
+Voice C
 
-VoiceD
+Voice D
 
-VoiceE
+Voice E
 
-動作A
+Action A
 
-動作B
+Action B
 
-動作C
+Action C
 
-動作D
+Action D
 
-動作E
+Action E
 
-ウォーロードメイズ
+Warlord Instance
 
-ストーリーメイズ
+Story Instance
 
 ユニティメイズ
 
-カジュアルレイド
+Casual Raid
 
-全メイズの<font color='#FF0000'>[カジュアルレイド][ユニティメイズ]</font>が開放されました。
+All instances of<font color='#FF0000'>[Casual Raid][ユニティメイズ]</font>have been open.
 
-エクリブリウムが出現しました。
+エクリブリウム will appear.
 
-エクリブリウムが消滅します。
+エクリブリウム will disappear.
 
 BP
 
 D.S Point
 
-ステージ終了
+Exit Stage
 
 Clear
 
 {0} Stage
 
-町に移動
+Move to Town
 
-ボタンをクリックすると、町に移動します。
+Click on the button to go to town.
 
 Warlord Prologue
 
@@ -1524,427 +1524,427 @@ Warlord Second Invasion
 
 Warlord Third Invasion
 
-人形軍団の侵攻
+Doll Corps Invasion
 
-ラピッドフレイムの侵攻
+Rapid Flames' Invasion
 
-ラピッドフレイムの逆襲
+Rapid Flames' Resistance
 
-ネッドカンパニーの空襲
+NED Corp Air Raid
 
 District Condition
 
-制限時間
+Time limit
 
-ウォーロード防御成功
+Warlord defense success
 
-ウォーロード防御失敗
+Warlord defense failed
 
-間もなく町に自動移動します。
+You will automatically be transferred to town promptly.
 
-ディフェンスモード開始
+Defense mode start
 
-ディフェンスモード成功
+Defense mode success
 
-ディフェンスモード失敗
+Defense mode failure
 
-サバイバルモード開始
+Survival mode start
 
-サバイバルモード終了
+Exit Survival Mode
 
-ネッドカンパニー
+NED Company
 
 スタリーフォレスト連合
 
 ニヒルキングダム勢力
 
-ラピッドフレイム
+Rapid Flames
 
 チェリーブロッサム勢力
 
-RSB勢力
+RSB Forces
 
-ソウルジャンク
+Soul Junk
 
-シャドージャンク
+Shadow Junk
 
-封印回数
+Sealed Count
 
-復元回数
+Restored number of times
 
-破壊状態
+Destroyed
 
-称号に使用する単語を選択してください。
+Please select a company name.
 
-なし
+None
 
-番号
+ID No.
 
 No.
 
-称号を獲得しました。
+Acquired the title.
 
-コミュニティー
+Community
 
-フレンド登録
+Befriend
 
-パーティー
+Party
 
-ギルド
+Guild
 
-遮断リスト
+Block List
 
 On({0})
 
 Off({0})
 
-キャラクター名
+Character Name
 
-検索
+Search
 
-推奨フレンド
+Recommended Friend
 
-フレンド要請
+Add Friend
 
-推奨フレンドは10分ごとに更新されます。
+The list is updated every 10 minutes.
 
-遮断解除
+Unblock	
 
-フレンド検索
+Friend Search
 
-パーティー招待
+Party Invite
 
-パーティー離脱
+Leave Party
 
-ささやき
+Whisper
 
-フレンド削除
+Unfriend
 
-遮断登録
+Blacklist
 
-遮断
+Block
 
-キャンセル
+Cancel
 
 Lv{0}
 
 CH{0}
 
-{0}からの
-フレンド要請です。
-承諾しますか？
+Friend request from {0}
+Friend's Request
+Do you accept?
 
-{0}がフレンドに登録されました。
+{0} has been registered as a friend.
 
-{0}を
-フレンドリストから削除しますか？
+{0}
+Do you want to remove {0} from your friends list?
 
-{0}がフレンドリストから削除されました。
+{0} has been removed from the friends list.
 
-{0}が遮断リストに追加されました。
+{0} has been added to the blacklist.
 
-{0}が遮断リストから削除されました。
+{0} has been removed from the blacklist.
 
-フレンド登録したフレンドです。
-遮断しますか？
+The person is a friend that you have befriended.
+Are you sure you want to cut off interaction?
 
-{0}は現在、他の要請を進行中です。
+{0} cannot accept requests currently due to pending requests.
 
 HEMS
 
-受信メール
+Inbox
 
-送信メール
+Outbox
 
-保管箱
+Archive
 
-{0}が送ったメッセージ
+{0} has sent message.
 
-{0}に送ったメッセージ
+Message sent to {0}.
 
-代金請求
+Biling
 
-{0}日後満了
+Expires in {0} days
 
-受信者
+Recipient
 
-タイトル
+Header
 
-添付ジェニー
+Attached Zenny
 
-メール手数料
+Mail Fee
 
-ジェニー
+Zenny
 
-タイトルなし
+Please insert a title.
 
-内容なし
+Please insert a message.
 
-送信者
+Sender
 
-受信時間
+Timestamp
 
-送信時間
+Time Sent
 
-{0}-{1}-{2} {3}時{4}分
+{0}-{1}-{2} {3}time{4} minutes
 
-受領可能時間
+Received time
 
-{0}時間{1}分
+{0} time {1} minutes
 
-請求ジェニー
+Claim Zenny
 
-保管期間
+Storage Duration
 
-{0}日
+{0} Days
 
-自動返送時間
+Automatic Transfer Time
 
-請求待機
+Claim 
 
-残り保管期間
+Remaining Duration
 
-{0}-{1}-{2} {3}時{4}分
+{0}-{1}-{2} {3}time{4} minutes
 
-運営チーム
+Management team
 
-[返信]
+[reply]
 
-初期化
+Clear
 
-送信
+Send
 
-キャンセル
+Cancel
 
-添付受領
+Attached Items
 
-メール作成
+Compose Mail
 
-開く
+Check
 
-削除
+Delete
 
-返信
+Reply
 
-返送
+Return
 
-新規
+New
 
-閉じる
+Close
 
-保管
+Archive
 
-アカウントメール
+Account Mail
 
-選択したメールを削除しますか？
+Are you sure you want to delete the selected mail?
 
-選択したメールに受け取っていない添付物があります。
+There are attachments that have not received in the selected mail.
 
-代金請求により添付物受領には{0}ジェニーが必要です。
-添付物を受け取りますか？
+The attachments received by the billing requires {0} Zenny.
+Do you wish to receive the attachment?
 
-選択したメールを削除しますか？
-(添付物が削除されます)
+Are you sure you want to delete the selected mail?
+(Attachment will be deleted)
 
-代金請求があるメールは削除できません。
+You can not delete billing-related mail.
 
-自分にはメールを送れません。
+You can not send mail to yourself.
 
-該当ユーザーが存在しません。
+The user does not exist.
 
-メールを保管箱に移動しますか？
+Do you want to move the mail to the archive?
 
-{0}に一般メールを送信しました。
+A mail was sent to {0}.
 
-{0}に添付メールを送信しました。
+The mail was sent to {0}.
 
-{0}に代金請求メールを送信しました。
+I sent a billing mail to {0}.
 
-{0}にメールを返送しました。
+The mail was sent back to {0}.
 
-代金請求のあるメールは返送できません。
+You can not reply to billing-related mails.
 
-返送されたメールを再び返送することはできません。
+You can not return the mail twice.
 
-システムメッセージは返送できません。
+System messages cannot be sent back.
 
-コミュニティー
+Community
 
-ログイン中
+Login
 
-オフライン
+Offline
 
-残り{0}日
+Time Remaining {0} Days
 
-残り{0}時間
+Time Remaining {0} Hours
 
 CH{0}
 
 Lv{0}
 
-フレンド募集中
+Looking for Friends
 
-募集登録
+Post Party Request
 
-キャラクター
+Character
 
 Lv
 
-検索
+Search
 
 今日の推奨フレンド
 
-募集解除
+Delist Party Request
 
-フレンド
+Friend
 
-フレンド検索
+Friend Search
 
-フレンド要請待機({0})
+Try a friend search again in ({0})
 
 On({0})
 
 Off({0})
 
-フレンド検索
+Friend Search
 
-キャラクター名
+Character name
 
-フレンド検索
+Friend Search
 
-フレンド要請
+Friend Request
 
-ギルド
+Guild
 
-ギルドホーム
+Guild Home
 
-遮断リスト
+Blacklist
 
-遮断登録
+Blacklist
 
-遮断登録
+Blacklist
 
-遮断対象
+Blocked Users
 
-遮断
+Block
 
-キャンセル
+Cancel
 
-[{0}]のアイテム
+[{0}]'s Item
 
-登録中
+Registration 
 
-登録完了
+Complete Registration
 
-登録確認
+Confirm
 
-登録修正
+Correct
 
-取引完了
+Complete Transaction
 
-取引中止
+Abort Transaction
 
-アイテムとジェニーを登録後、「登録確認」をクリックしてください。
+After registering the item and Jenny, please click on the "complete registration".
 
-内容を確認して、「取引完了」をクリックしてください。
+Check the contents, please click on the "completion transaction."
 
-相手の取引完了を待っています。
-(取引したくない場合は「取引中止」をクリックしてください)
+Waiting for a response from the other trader.
+(If you do not want to trade, please click on the button "Abort Transaction"
 
-{0}に取引を要請しました。相手の承諾を待っています。
-[残り{1}秒]
+Trade request sent to {0}. Waiting the consent of the other party.
+[Remaining Response Time: {1} seconds]
 
-{0}から取引要請が来ました。承諾しますか？
-[残り{1}秒]
+Trade request received from {0}. Do you accept?
+[Remaining Response Time: {1} seconds]
 
-対象プレイヤーと距離があり、取引要請が中止されました。
+The player is too far; the trade request has been canceled.
 
-対象プレイヤーがログアウトし、取引要請が中止されました。
+The player has logged out, the transaction request has been aborted.
 
-取引が中止されました。
-(対象と同じ町でのみ取引ができます)
+Transaction has been aborted.
+(You must be in the same town as the other party)
 
-{0}への取引要請を中止しました。
+Aborted the transaction request to {0}.
 
-{0}の取引要請を拒否しました。
+Refused the transaction request from {0}.
 
-{0}が取引要請を中止しました。
+{0} has aborted the transaction request.
 
-{0}が取引要請を拒否しました。
+{0} has rejected the trade request.
 
-承諾待機時間が終了し、取引要請が中止されました。
+The transaction request has expired because of no response.
 
-取引進行中はNPC機能を利用できません。
+NPC Functions are unavailable while in a transaction.
 
-取引進行中は装備を変更できません。
+Equipment changes are unavailable while in a transaction.
 
-対象プレイヤーはすでに取引進行中です。
-しばらくしてからもう一度お試しください。
+Target player already has a trade in progress.
+Please try again later.
 
-対象プレイヤーはすでに取引を要請中です。
-しばらくしてからもう一度お試しください。
+Target player has already requested a trade.
+Please try again later.
 
-{0}との取引が成立しました。
+Transactions with {0} was successful.
 
-インベントリに空きスロットが無いため、取引を完了できません。
+Since there was no free inventory space, the transaction was canceled.
 
-{0}と進行中の取引を中止しますか？
+Do you want to stop the trade with {0}?
 
-{0}との取引を中止しました。
+Aborted the trade with {0}.
 
-{0}が取引を中止しました。
+{0} has aborted the transaction.
 
-対象プレイヤーと距離があり、進行中の取引が中止されました。
+Since the target player is too far, the trade has been aborted.
 
-対象プレイヤーがログアウトし、進行中の取引が中止されました。
+Since the target player has logged out, the trade has been aborted.
 
-対象プレイヤーが他のエリアに移動したので、進行中の取引が中止されました。
+Since the target player has moved into other areas, the trade has been aborted.
 
-{0}は現在個人商店開設準備中なので取引ができません。
+{0} can't be traded with because they are currently opening a private shop.
 
-対象は取引できない状態です。
+Transactions with this player is impossible.
 
-変更
+Change
 
-[{0}]の個人商店
+[{0}]'s Private Shop
 
-個人商店名を入力してください。
+Please enter a personal shop name.
 
-[個人商店名は最大20文字入力可能]
+Personal store names can be up to 20 characters in length.
 
-変更完了
+Change completed
 
-販売開始
+Open Shop
 
-販売中止
+Discontinue
 
-価格変更
+Change Price
 
-登録中止
+Terminate Registration
 
-商店終了
+Exit Shop
 
-個人商店アイテム登録
+Register Item
 
-登録確認
+Confirm Registration
 
-登録中止
+Terminate Registration
 
-現在地に個人商店を開きますか？
+Do you want to open a private store at the present location?
 
-個人商店名が入力されていません。もう一度入力してください。
+A personal shop name was not entered. Type it again.
 
-アイテム価格をもう一度入力してください。
+Please enter the item price again.
 
-取引不可能なアイテムは登録できません。
+Untradable items cannot be registered.
 
-耐久度が減少したアイテムは登録できません。
+Items in non-mint condition cannot be sold.
 
-最大5個までアイテムを登録できます。
+You can register up to five concurrent items only.
 
-{0}の個人商店で{1}を購入しました。
+I purchased {1} in {0}'s personal shop.
 
-{0}が{1}ジェニーで販売されました。
+{0} has been sold for {1} Zenny.
 
 個人商店開設中は開設券アイテムを使用できません。
 
