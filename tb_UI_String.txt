@@ -1180,118 +1180,118 @@ Defense Power
 
 Current Title
 
-適用能力値
+Proficiency
 
-接頭
+Prefix
 
-接尾
+Suffix
 
-表示
+View
 
-物理攻撃力と防御度に影響
+Effect on Physical Attack Power and Defense
 
-物理攻撃力とクリティカル命中度に影響
+Effect on Physical Attack Power and Critical Hit Damage
 
-魔法攻撃力と魔法防御度に影響
+Effect on Magical Attack Power and Magic Resistance
 
-物理攻撃失敗率とクリティカル率に影響
+Effect on Failed Attack Rate and Critical Rate
 
-HPと物理防御度に影響
+Effect on HP and Physical Defense
 
-確率に影響
+Effect on chance
 
-1秒あたりに回復するスタミナ量
+Stamina recovered per second
 
-プレイヤーの移動速度倍率
+Movement speed increase
 
-プレイヤーの攻撃速度倍率
+Attack speed increase
 
-敵に与える物理攻撃力
+Physical Damage to enemies
 
-物理攻撃に失敗する確率が低下
+Reduce Chance of Failed Attacks
 
-物理攻撃時、クリティカルが発生する確率
+When attacking, the probability of critical hits increases
 
-物理攻撃中、クリティカル発生時に追加されるダメージ
+When attacking, critical hit damage is increased
 
-敵に与える魔法攻撃力
+Magical Damage to enemies
 
-魔法攻撃に失敗する確率が低下
+Reduce Chance of Failed Magic Attacks
 
-魔法攻撃時、クリティカルが発生する確率
+When casting magic attacks, the probability of critical hits increases
 
-魔法攻撃中、クリティカル発生時に追加されるダメージ
+When casting magic attacks, magic critical hit damage is increased
 
-物理攻撃によるダメージを軽減
+Reduce damage taken from physical attacks
 
-魔法攻撃によるダメージを軽減
+Reduce damage taken from magical attacks
 
-敵の物理クリティカル攻撃に対する抵抗
+Physical Critical Attack Resistance
 
-敵の魔法クリティカル攻撃に対する抵抗
+Magical Critical Attack Resistance
 
-[持続状態異常：火傷、中毒、感電、出血]にかかる確率が低下
+Persistant Abnormal Status Effects: Burns, Poisoning, Electric Shocks, Bleeding; decreases affected chance of receiving an effect
 
-[操作状態異常：気絶、麻痺、睡眠、凍結]にかかる確率が低下
+Active Abnormal States Effects: Stun, Paralysis, Sleep, Freeze; decreases affected chance of receiving an effect
 
-[特殊状態異常：沈黙、衰弱]にかかる確率が低下
+Special Abnormal States Effects: Silence, Weakness; decreases affected chance of receiving an effect
 
 %
 
-強化可能
+Possible enhancements
 
-進化可能
+Evolvable
 
-分解可能
+Dismantable
 
-装備時帰属
+Bound on equip
 
-獲得時帰属
+Bound on acquisition
 
-帰属アイテム
+Bound
 
-<font color='#FF0000'>売却不可</font>
+<font color='#FF0000'>Not sellable</font>
 
-<font color='#FF0000'>削除不可</font>
+<font color='#FF0000'>Indestructible</font>
 
-強化
+Enhancing
 
-交換
+Trade
 
-対象を登録してください。
+Please register an item.
 
-最大強化段階：+{0}
+Maximum Enhancements possible：+{0}
 
-強化段階
+Enhancements done
 
-強化材料
+Reinforced materials.
 
 {1}/{2}
 
-強化対象
+Enhancement target
 
-強化できないアイテムです。
+The item cannot be enhanced.
 
-これ以上強化できないアイテムです。
+This item cannot be enhanced anymore.
 
-強化材料または手数料が不足しています。
+Enhancing materials unavailable or fees are not paid.
 
-破壊防止アイテム使用
+Prevents item from being destroyed
 
-必要ジェニー
+Zenny required
 
-必要BP
+BP Required
 
-強化結果によっては登録アイテムが破壊状態になることがあります。
+Enhancing this item can destroy the item upon failure.
 
-破壊防止アイテムは、
-+4から使用できます。
+Protection items.
+Usable up to +4.
 
-強化
+Enhancing
 
-交換アイテムを選択してください。
+Please select a replacement item.
 
-所持数：
+Number of possessions:
 
 ▲
 
@@ -1299,68 +1299,68 @@ HPと物理防御度に影響
 
 Max
 
-交換
+Exchange
 
-獲得数：
+Cost
 
-消費量
+The item has been successfully enhanced.
 
-アイテム強化に成功しました。
+The item has failed to enhance.
 
-アイテム強化に失敗しました。
+The item has failed to enhance.
 
-アイテム強化に失敗しました。
-強化失敗により対象アイテムは破壊状態になりました。
+The item has failed to enhance.
+The item has been destroyed in the process.
 
-アイテム強化に失敗しました。
-Q.B.D[強化保護]使用により、対象アイテムは破壊状態になりませんでした。
+The item has failed to enhance.
+By using Q.B.D [Enhancement Protection], the item was not destroyed.
 
-強化失敗時、一定の確率でアイテムが破壊状態になります。
-アイテムを強化しますか？
-(Q.B.D[強化保護]を使用すると破壊状態防止)
+When enhancing fails, there is a chance of it being destroyed.
+Do you wish to proceed?
+(Q.B.D [Enhancement protection can be used to prevent item destruction)
 
-進化
+Evolution
 
-アイテムが保護されました。
+The item has been protected.
 
-アイテム交換
+Item exchange
 
-交換する数を入力してください。
+Please enter the quantity of items you wish to exchange.
 
-交換アイテム
+Exchange items
 
-獲得アイテム
+Acquired Items
 
-対象を選択してください。
+Please select a target.
 
-交換比率
+Exchange ratio
 
-アイテム進化
+Item Evolution
 
-進化成功時、強化段階は初期化されます。
+Upon successful item evolution, the enhancing stage is activated.
 
-進化
+Evolution
 
-装備中のアイテムは強化できません。
+The equipment item cannot be enhanced.
 
-強化不可：「{0}」不足
+Enhancing not possible： 「{0}」 missing
 
-強化を実行できます。
-一定確率で破壊状態になることがあります。
+You can enhance the item.
+It may result in destroying the item.
 
-強化を実行できます。
-結果によって、アイテムが破壊状態になることがあります。
-破壊防止アイテムは使用できません。
+You can enhance the item.
+It may result in destroying the item.
+Destruction mitigation items cannot be used.
 
-進化不可：「{0}」不足
+Evolution not possible： 「{0}」 missing
 
-強化回数
+Enhanced number of times:
 
-最大{0}
+Maximum {0}
 
-強化費用
+Enhancement Cost
 
-{0}{1}個を{2}{3}個に変更しますか？
+{0}{1} to {2}{3}; Are you sure you want to convert the items？
 
 ナチュラルショート
 
