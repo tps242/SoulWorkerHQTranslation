@@ -319,7 +319,7 @@ Expansion Cost：{0} Hancoin
 
 Will you buy [{0}] {1} items from {2}?
 
-Will you sell [{0}] {1} items at {2}？
+Will you sell [{0}] {1} items at {2}?
 
 Do you want to open {0}?
 
@@ -391,11 +391,11 @@ Friend Point：
 
 {0} Soul Vapor
 
-{0}BP
+{0} BP
 
-{0}S Coin
+{0} S Coin
 
-{0}Hancoin
+{0} Hancoin
 
 Deposit
 
@@ -483,7 +483,7 @@ Additional materials will be registered.
 
 Display only craftable items.
 
-The equipments' durability have been reduced.
+The equipment durability have been reduced.
 The durability has declined by {0}%.
 
 Are you sure you want to repair all equipment in possession?
@@ -586,7 +586,7 @@ Add Friend
 
 Revive
 
-You will be <font size = '15 'color =' # F7AE54 '>moved to town</font> after abandoning the party in {0} seconds.
+※<font color='#F15F5F'>戦闘を放棄し</font>、<font size='15' color='#F7AE54'>{0}</font>秒後、<font color='#F15F5F'>町に移動</font>します。
 
 Abandonment
 
@@ -596,7 +596,7 @@ You have been ressurected by the blessing buff effect.
 
 ※<font size='15' color='#F7AE54'>{0}</font>秒後、<font color='#F15F5F'>最後の町に移動</font>します。
 
-<font color='#47C83E'>{0} has revived you</font>
+※<font color='#47C83E'>[{0}] has revived you</font>
 
 ※<font color='#FFBB00'>[トップアクシジェントコール]1個</font>を使用して復活します。
 
@@ -646,13 +646,13 @@ Are you sure you want to leave the party?
 Left the party. Teleporting to town.
 (In {0} seconds)
 
-Are you sure you want to transfer party leadership to {0}？
+Are you sure you want to transfer party leadership to {0}?
 
-Are you sure you want to expel {0} from the party？
+Are you sure you want to expel {0} from the party?
 
 Are you sure you want to leave the party?
 
-Do you want to raise {0}'s skill level？
+Do you want to raise {0}'s skill level?
 (Costs: {1} SP)
 
 SP in Possession
