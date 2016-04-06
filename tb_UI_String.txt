@@ -4293,29 +4293,29 @@ Equipment
 
 {0}({1}) is released. You can equip new support equipment.
 
-The supporters have been withdrawn
+The supporters have been withdrawn because you have left the dungeon.
 
-{0}の召喚が解除されました。
+Summoning of {0} has been canceled. 
 
-特性
+Trait
 
-サポーターリスト
+Supporters List
 
-使用中
+Active
 
-使用者とのレベル差が5以上ある場合、サポーターのレベルに合わせて能力値が減少します。
+If there is a level difference of 5 or more; the combat abilities of the supporters will decrease proportionately.
 
-使用者とのレベル差が5以上ある場合、使用者のレベルに合わせて能力値が減少します。
+If there is a level difference of 5 or more; the combat abilities of the user will decrease proportionately.
 
-適用：{0}
+Apply：{0}
 
-召喚順序変更
+Change Supporter
 
-サポーター召喚
+Active Supporters
 
-攻撃のオーブ
+Attack Orb
 
-防御のオーブ
+Defense Orb
 
 召喚中のサポーターを解除すると、着用中のオーブが消滅します。このまま続けますか?
 
@@ -4331,696 +4331,696 @@ The supporters have been withdrawn
 
 インベントリ空間が不足しているため、支援報酬を受け取れません。
 
-召喚設定
+Toggle Settings
 
-呼び戻し
+Recall
 
-ソロプレイ時のみ召喚できます。
-
-ON
-
-OFF
-
-全て表示
-
-パーティーメンバーのみ表示
-
-同じギルドのみ表示
-
-全て非表示
-
-常に表示
-
-攻撃時表示
-
-非表示
-
-表示
-
-非表示
+You can only summon the supporters during solo play.
 
 ON
 
 OFF
 
-一回押し
+Show all
 
-長押し
+Display only party members
 
-使用可能時表示
+Display only guild members
 
-全て許容
+Hide All
 
-フレンドのみ許容
+Show Always
 
-全て拒否
+Display when attacking
 
-変更
+Disable
 
-キーを入力してください。
+Show
 
-テキストを入力してください。
+Disable
 
-ウィンドウモード
+ON
 
-全体ウィンドウモード
+OFF
 
-全画面
+Single Press
 
-最下
+Hold Down
 
-下
+Display if possible
 
-中
+Allow All
 
-上
+Allow Friends Only
 
-最上
+Deny All
 
-プロジェクション
+Change
+
+Please enter the hotkey.
+
+Please enter some text.
+
+Windowed Mode
+
+Full Window Mode
+
+Full Screen
+
+Lowest
+
+Low
+
+Medium
+
+High
+
+Best
+
+Show
 
 円
 
 {0} pt
 
-固定
+Fixed Mode
 
-回転
+Rotating Mode
 
-操作設定
+Camera Settings
 
-操作方法設定
+System Preferences
 
 FIXED CAMERA MODE
 
-カメラとキャラクターの向きが一致し、カメラ回転時にキャラクターの方向が変わります。
+The camera moves in the same orientation as the character.
 
-移動キー2回入力で回避
+The camera display is fixed.
 
 FREE CAMERA MODE
 
-カメラとキャラクターを分離し、自由に視点を変更できます。
+The camera's perspective is isomorphic to the character. You can freely move the camera.
 
-カメラの方向に攻撃
+Attacks are based on the camera's direction.
 
-カメラ視点
+Camera 
 
-キャラ視点
+Character 
 
-ゲームパッド使用
+Use Auxillary Controller
 
-回避後ダッシュ使用
+Dash to Dodge
 
-その他設定
+Miscallaneous Settings
 
-ゲーム設定
+System Prefrences
 
-表示情報
+Display Information
 
-キャラクター名
+Show Character Names
 
-ギルド名
+Show Guild Names
 
-称号
+Show Titles
 
-敵名
+Show Enemy Names
 
-敵HP
+Show HP
 
-NPC名
+Show NPC Names
 
-吹き出し
+Show Chat Bubbles
 
-自己ダメージ情報
+Show Personal Damage
 
-味方ダメージ情報
+Show Ally Damage
 
-対象ダメージ情報
+Show Object Damage
 
-カメラ
+Camera Settings
 
-スキル演出カメラ
+Camera Skill FX
 
-カメラシェイク
+Shake Screen
 
-カメラ感度
+Camera Sensitivity
 
-インターフェース
+Interface
 
-UIスケール
+UI Scaling
 
-ドロップアイテム名
+Item Drop Names
 
-アカシックモード転換
+Activate Awakening Mode
 
-スキルナビゲーション
+Show Chain Skill
 
-キャラクター状態演出
+Show Character State
 
-ミニマップ回転
+Minimap Rotating
 
-マウス感度
+Mouse Sensitivity
 
-メッセージ受信
+Incoming Message
 
-ささやき
+Whisper
 
-個人取引
+Trade
 
-パーティー招待
+Party Invitation
 
-ギルド招待
+Guild Invitation
 
-フレンド登録
+Friend Request
 
-情報表示
+Display Info
 
-その他
+Other Settings
 
-スクリーンショット保存場所
+Screenshot Location
 
-スクリーンショット保存場所選択
+Select Screenshot Save Location
 
-スクリーンショット保存キー
+Screenshot Hotkey
 
-ゲーム設定初期化
+Default Settings
 
-自分の攻撃情報表示
+Display NPC Attack Info
 
-味方の攻撃情報表示
+Display Ally Attack Info
 
-グラフィック設定
+Graphics Settings
 
-画面
+Screen Settings
 
-画面モード
+Screen Mode
 
-解像度
+Game Resolution
 
-品質
+Quality Controls
 
-全体品質
+Overall Quality
 
-影表現
+Shadow Details
 
-影品質
+Shader Quality
 
-可視距離
+Viewing Distance
 
-事物視野の距離
+Object Textures Distance
 
-地形視野の距離
+Environmental Textures Distance
 
-明るさ
+Brightness
 
-対比
+Contrast
 
-ガンマ[全画面専用]
+Gamma Offset[Full Screen Only]
 
-浸透効果
+Leaking Effect
 
-残像効果
+Afterimage Effect
 
-グロー効果
+Glow Effect
 
-アウトフォーカス
+Defocus Effect
 
-破壊物理適用
+Object Destruction Effect
 
-アンチエイリアス
+Anti-Aliasing
 
-垂直同期化
+V-Sync
 
-自動最適化
+Optimize Game Settings (Auto)
 
-サウンド設定
+Sound Settings
 
-ボリューム
+Volume Control
 
-全体
+Master Volume
 
-効果音
+Sound Effects
 
-環境音
+Environmental Sound Effects
 
-背景音
+BGM
 
-音声
+Voice Volume
 
-キー設定
+Key Settings
 
-操作
+Gameplay Controls
 
-前に移動
+Move Forward
 
-後ろに移動
+Move Backwards
 
-左に移動
+Move Left
 
-右に移動
+Move Right
 
-ジャンプ
+Jump
 
-回避
+Dodge
 
-自動前進
+Auto-Run
 
-振り返り
+Reverse Camera
 
-通常攻撃
+Normal Attack
 
-特殊攻撃
+Special Attack
 
-サブウェポン攻撃
+Sub-Weapon Attack
 
-ブレイクスキル使用
+Break Skill
 
-高速スキルデッキ連携
+Activate Skill Deck
 
-クイックスロット
+Quick Slot
 
-スキル1
+Quick Slot 1
 
-スキル2
+Quick Slot 2
 
-スキル3
+Quick Slot 3
 
-スキル4
+Quick Slot 4
 
-スキル5
+Quick Slot 5
 
-スキル6
+Quick Slot 6
 
-アイテム1
+Item 1
 
-アイテム2
+Item 2
 
-A.Rカード1
+A.R Card 1
 
-A.Rカード2
+A.R Card 2
 
-A.Rカード3
+A.R Card 3
 
-A.Rカード4
+A.R Card 4
 
-A.Rカード5
+A.R Card 5
 
-機能
+Functions
 
-ささやき返信
+Reply to Whisper
 
-アイテム回収
+Item Recovery
 
-アイテム名確認
+Confirm Item
 
-アカシックモード転換
+Activate Awakening Mode
 
-武器の出し入れ
+Weapon Equip Toggle
 
-カメラ
+Camera Settings
 
-カメラズームイン
+Camera Zoom In
 
-カメラズームアウト
+Camera Zoom Out
 
-カメラ上に回転
+Rotate Camera Up
 
-カメラ下に回転
+Rotate Camera Down
 
-カメラ左に回転
+Rotate Camera Left
 
-カメラ右に回転
+Rotate Camera Right
 
 UI
 
-UIモード転換
+Change UI
 
-UI非表示
+Toggle UI Interface
 
-ステータス表示
+Display Status Window
 
-装備情報表示
+Display Equipment Window
 
-インベントリ表示
+Display Inventory Window
 
-スキル表示
+Display Skills Window
 
-クエストジャーナル表示
+Display Quest Log
 
-コミュニティー表示
+Display Community Interface
 
-進行情報表示
+Personal Achievements
 
-ギルド表示
+Display Guild Window
 
-全体マップ表示
+Display Map
 
-システムメニュー表示
+System Menu 
 
-チャット
+Chat
 
-マクロチャット1
+Macro Chat 1
 
-マクロチャット2
+Macro Chat 2
 
-マクロチャット3
+Macro Chat 3
 
-マクロチャット4
+Macro Chat 4
 
-マクロチャット5
+Macro Chat 5
 
-マクロチャット6
+Macro Chat 6
 
-マクロチャット7
+Macro Chat 7
 
-マクロチャット8
+Macro Chat 8
 
-マクロチャット9
+Macro Chat 9
 
-マクロチャット10
+Macro Chat 10
 
-ラジオチャット1
+Radio Chat 1
 
-ラジオチャット2
+Radio Chat 2
 
-ラジオチャット3
+Radio Chat 3
 
-ラジオチャット4
+Radio Chat 4
 
-ラジオチャット5
+Radio Chat 5
 
-ラジオチャット6
+Radio Chat 6
 
-その他
+Other
 
-キー設定初期化
+Default Settings
 
-ターゲッティング
+Targeting
 
-マイルームに入場
+Go to My Room
 
-サポーターリスト表示
+Display Supporter Window 
 
-パーティー検索表示
+Display Party Listings
 
-チャット設定
+Chat Settings
 
-パーティー自動チャット
+Party Auto-Chat
 
-自動チャット使用
+Auto-Chat 
 
-自動チャット表示位置
+Show Auto-Chat During
 
-パーティーに参加
+On joining a party
 
-新しいメンバーが参加
+When a new party member joins
 
-メイズ入場
+On Dungeon Start
 
-メイズクリア
+On Dungeon Clear
 
-本人のレベルアップ
+On level up
 
-メンバーのレベルアップ
+On party member level up
 
-メンバーからバフを受ける
+When receiving a buff
 
-戦闘不能状態になる
+On Incapcitation
 
-メンバーによる復活
+On Resurrection
 
-マクロチャット
+Macro Chat
 
-マクロテキスト{0}
+Macro Text{0}
 
-マクロテキスト1
+Macro Text 1
 
-マクロテキスト2
+Macro Text 2
 
-マクロテキスト3
+Macro Text 3
 
-マクロテキスト4
+Macro Text 4
 
-マクロテキスト5
+Macro Text 5
 
-マクロテキスト6
+Macro Text 6
 
-マクロテキスト7
+Macro Text 7
 
-マクロテキスト8
+Macro Text 8
 
-マクロテキスト9
+Macro Text 9
 
-マクロテキスト10
+Macro Text 10
 
-会話メッセージ色
+Message Text Color
 
-全体
+Overall
 
-取引
+Trade
 
-パーティー
+Party
 
-ギルド
+Guild
 
-ささやき
+Whisper
 
-叫び
+Shout
 
-システム
+System
 
-イベント
+Event
 
-告知事項
+Notice
 
-NPCセリフ
+NPC Dialogue
 
-ストーリーセリフ
+Storyline
 
-システムメッセージ色
+System Message Color
 
-攻撃関連
+Attack-related
 
-ダメージ関連
+Damage-related
 
-回復関連
+Recovery-related
 
-ステータス関連
+Status-related
 
-死亡関連
+Death-related
 
-スキル関連
+Skill-related
 
-バフ関連
+Buff-related
 
-EXP関連
+EXP-related
 
-レベルアップ関連
+Level up
 
-SP関連
+SP-related
 
-アイテム獲得関連
+Item acquisition
 
-チャンネル関連
+Channel-related
 
-パーティー関連
+Party-related
 
-ギルド関連
+Guild-related
 
-画面設定
+Screen Settings
 
-背景色
+Background Color
 
-フォントサイズ
+Font Size
 
-活性化時透明度
+Active (Transparency)
 
-非活性化時透明度
+Inactive (Transparency)
 
-その他
+Other Settings
 
-チャット設定初期化
+Default Settings
 
-【{0}】キーは別の操作キーで使用しています。
-この操作キーの設定を変更しますか?
+【{0}】 hotkey is in use by another function.
+Do you want to override the setting for this hotkey?
 
-【{0}】キーはショートカットキーに使用できません。
-別のキーを指定してください。
+【{0}】 can't be used as a hotkey.
+Please use a different hotkey.
 
-メモリアル表示
+Display Memorial Interface
 
-取引所表示
+Display Auction House
 
-スクリーンショット品質
+Screenshot Quality
 
-JPG：低い
+JPG： Low
 
-BMP：高い
+BMP： High
 
-カスタマイズ設定
+Customize Settings
 
-エフェクト最小化
+Optimize for Low-Performance
 
-適用
+Apply
 
-未適用
+Disable
 
-※品質は低下しますが、円滑なプレイが可能です。
+※The game's performance has been increased at the expense of decreased quality.
 
-アンチエイリアス効果は、ゲームを再起動すると適用されます。
+Anti-aliasing will apply upon restarting the game.
 
 操作キー案内表示
 
-サポーター呼び戻し
+Recall Supporters
 
-サポーター召喚クールタイムです。
-({0}秒)
+Supporters Summoning Cooldown Time
+({0} seconds)
 
-STARTボタンとの組み合わせはできません。
+START can't be used as a gameplay button.
 
-パーティクル品質
+Particle FX
 
-FPS表示
+FPS Display
 
-自動アイテム回収
+Auto-Loot
 
-{0}キーとの組み合わせは設定できません。
+{0} can't be used as a combination key.
 
 {0}キーと組み合わせた設定をしてください。
 
 基本FPが全回復しました。
 
-ボーナス疲労度{0}
+Bonus Fatigue {0}
 
-獲得戦闘EXP10%増加
+Increase EXP gain by 10%.
 
-疲労度{0}
+Fatigue{0}
 
-FP情報
+FP Details 
 
-所持金
+Zenny
 
-ソウルウェポン
+Soul Weapon
 
-ギア
+Gear
 
-アクセサリー
+Accessories
 
-アクセサリー
+Accessories
 
-アクセサリー
+Accessories
 
-装備登録
+Showcase Product
 
-消費
+Consumables
 
-機能
+Utility Items
 
-外見
+Appearance
 
-A.Rカード
+A.R Card
 
-家具
+Furniture
 
-アバター
+Avatar
 
-称号
+Title
 
-材料
+Material
 
-サポーター
+Supporters
 
-アーティファクト
+Artifact
 
-クエスト
+Quest
 
-設計図
+Blueprint
 
-ファミリア
+Familia
 
-ジェニー
+Zenny
 
-ソウルベイパー
+Soul Vapor
 
-ブッカーズポイント
+BP
 
-エーテル
+Ether
 
-ハンコイン
+HanCoin
 
-Sコイン
+S Coin
 
-ソウルウェポン
+Soul Weapon
 
-サブウェポン
+Sub-Weapon
 
-ヘッド
+Head
 
-ショルダー
+Shoulder
 
-ボディ
+Body
 
-レッグ
+Leg
 
-ペンダント
+Pendant
 
-イヤリング
+Earrings
 
-リング
+Ring
 
-ファミリア
+Familia
 
-ブローチ
+Brooch
 
-一般消費
+General Consumables
 
-FP消費
+Personal Consumables
 
-機能
+Function
 
-髪型
+Hair
 
-ヘアカラー
+Hair Color
 
-アイカラー
+Eye Color
 
-スキンカラー
+Skin Color
 
-A.Rカード
+A.R Card
 
-A.Rカードキー
+A.R Card Key
 
-A.Rカードボックス
+A.R Card Package
 
-カード
+Card
 
-家具
+Furniture
 
-武器
+Weapon
 
-頭
+Head
 
-帽子
+Hat
 
-目1
+Primary Head
 
-口
+Mouth
 
-上衣
+Body
 
-手
+Hand
 
-下衣
+Next
 
-尻尾
+Rear
 
-靴
+Shoes
 
-タイツ/靴下
+Tights/Socks
 
-背
+Back
 
-下着
+Underwear
 
 上衣+下衣一体型
 
