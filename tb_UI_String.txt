@@ -319,7 +319,7 @@ Expansion Cost：{0} Hancoin
 
 Will you buy [{0}] {1} items from {2}?
 
-Will you sell [{0}] {1} items at {2}?
+Will you sell [{0}] {1} items at {2}？
 
 Do you want to open {0}?
 
@@ -391,11 +391,11 @@ Friend Point：
 
 {0} Soul Vapor
 
-{0} BP
+{0}BP
 
-{0} S Coin
+{0}S Coin
 
-{0} Hancoin
+{0}Hancoin
 
 Deposit
 
@@ -483,7 +483,7 @@ Additional materials will be registered.
 
 Display only craftable items.
 
-The equipment durability have been reduced.
+The equipments' durability have been reduced.
 The durability has declined by {0}%.
 
 Are you sure you want to repair all equipment in possession?
@@ -586,7 +586,7 @@ Add Friend
 
 Revive
 
-※<font color='#F15F5F'>戦闘を放棄し</font>、<font size='15' color='#F7AE54'>{0}</font>秒後、<font color='#F15F5F'>町に移動</font>します。
+You will be <font size = '15 'color =' # F7AE54 '>moved to town</font> after abandoning the party in {0} seconds.
 
 Abandonment
 
@@ -596,7 +596,7 @@ You have been ressurected by the blessing buff effect.
 
 ※<font size='15' color='#F7AE54'>{0}</font>秒後、<font color='#F15F5F'>最後の町に移動</font>します。
 
-※<font color='#47C83E'>[{0}] has revived you</font>
+<font color='#47C83E'>{0} has revived you</font>
 
 ※<font color='#FFBB00'>[トップアクシジェントコール]1個</font>を使用して復活します。
 
@@ -646,13 +646,13 @@ Are you sure you want to leave the party?
 Left the party. Teleporting to town.
 (In {0} seconds)
 
-Are you sure you want to transfer party leadership to {0}?
+Are you sure you want to transfer party leadership to {0}？
 
-Are you sure you want to expel {0} from the party?
+Are you sure you want to expel {0} from the party？
 
 Are you sure you want to leave the party?
 
-Do you want to raise {0}'s skill level?
+Do you want to raise {0}'s skill level？
 (Costs: {1} SP)
 
 SP in Possession
@@ -1980,77 +1980,77 @@ By collecting {0}, the following rewards are awarded.
 
 By achieving a position of {0} out of {1}, the following rewards are awarded.
 
-{0}を使用し、以下を獲得しました。
+By using {0}, the following rewards are awarded.
 
 EXP
 
-ジェニー
+Zenny
 
 BP
 
-エーテル
+Ether
 
-称号
+Title
 
-サポーター
+Supporters
 
-パッケージ使用
+Open Package
 
-ランダムボックス使用
+Open Random Package
 
-[{0}]を使用しますか？
-(以下のアイテムを獲得できます)
+Do you want to use [{0}]?
+(You can obtain the following items)
 
-[{0}]を使用しますか？
-(以下のアイテムからランダムに{1}個を獲得できます)
+Do you want to use [{0}]?
+(The following items from {1} can be won randomly)
 
-インベントリに空きがないためアイテムを使用できません。
+You can not use the item as there is insufficient inventory space.
 
-未読メール
+Unread Mail
 
-{0}通の未読メールがあります。HEMSで確認してください。
+{0} There are unread mails. Please check with HEMS.
 
-習得可能スキル
+Learning possible skills
 
-{0}Lv{1}習得可能
+{0}Lv{1} Skill Acquisition possible
 
-特性習得可能
+Learnable attributes
 
-{0}Lv{1}習得可能
+{0}Lv{1} Skill Acquisition possible
 
-ブレイクスキル使用可能
+Awakening skills are available.
 
-{0}使用可能
+{0} is available.
 
-メイズ入場可能
+Instance Admission is possible.
 
-{0}-{1}{2}入場可能
+{0}-{1}{2} can be entered.
 
-レコード達成
+Record achieved
 
-レコード「{0}」を達成しました。
+Record "{0}" achieved.
 
-占有率達成
+占有率 achieved
 
 {0} {1}段階占有率
 
-メモリアル獲得
+Memorial completed.
 
-{0}獲得
+{0} acquired
 
-フレンド要請受信
+Incoming Friend Request
 
-{0}個のフレンド要請を受け取りました。
+Received friend request from {0}
 
-占有率達成
+Not learned
 
-{0}占有率{1}%達成
+{0} Cooldown:{1}%
 
-未習得
+Unlearned
 
-クールタイム：
+Cooldown: 
 
-秒
+Seconds
 
 COST：
 
@@ -2060,73 +2060,73 @@ SG
 
 ST
 
-次のレベル：
+Next Level：
 
-習得レベル：
+Present Level：
 
-必要SP：
+Need SP：
 
-累積使用ポイント：
+Cumulative SP Points Consumed：
 
-先行スキル：
+Succeeding Skills：
 
 SV
 
-<ブレイクスキル>
-ピーク使用可能
+<Awakening Skills>
+Awakening available
 
 <ブレイクスキル>
 イロージョン使用可能
 
-SV{0}%消費
+SV{0}% Consumption
 
-イントロ動画
+Intro Video
 
-製作スタッフ
+Production staff
 
-ゲーム終了
+Close Game
 
-サーバー変更
+Server Change
 
-環境設定
+System Settings
 
-アカウントログイン
+Login
 
 ＩＤ
 
-ＩＤを入力してください。
+Please enter a ID.
 
-パスワード
+Password
 
-パスワードを入力してください。
+Please enter a Password.
 
-アカウント名保存
+Save Account Name
 
-ログイン[ENTER]
+Login [ENTER]
 
-サーバー選択
+Server Selection
 
-サーバー名
+Server name
 
-サーバー状態
+Server state
 
-キャラクター数
+Character Order
 
-サーバー接続[ENTER]
+Connect to Server [ENTER]
 
-サーバー入場失敗
+Cannot enter the server.
 
-サーバーを選択してください。
+Please select a server.
 
-プレイキャラクター選択
+Play character selection
 
-ゲームスタート[ENTER]
+Start Game [ENTER]
 
-キャラクター削除
+Delete Character
 
-新規キャラクター
+New  Character
 
-キャラクター削除
+Delete Character
 
 キャラクターを削除すると、7日後には全てのデータがなくなり、今後同じキャラクター名が利用できなくなる場合があります。本当に削除しますか。
 
