@@ -638,13 +638,13 @@ says
 
 You have received a party invitation from {0}.
 Do you accept this party invitation?
-({1}s remaining)
+({1} second(s) remaining)
 
 If you leave the party, you will be teleported to town.
 Are you sure you want to leave the party?
 
 You have left the party. Moving to town.
-({0} seconds remaining)
+({0} second(s) remaining)
 
 Are you sure you want to make {0} the party leader?
 
