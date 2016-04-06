@@ -2501,12 +2501,12 @@ Confirm
 A.Rカード「{0}」を
 Are you sure you want to discard this?
 
-{0}の{1}
-A.Rカードを持ってきますか?
-レンタル期間：{2}時間　必要ジェニー：{3}
-差引き後の所持ジェニー：{4}
+{0} of {1}
+Did you want to rent the A.R. Card?
+Rental Period：{2}; Zenny Fee：{3}
+Total Zenny after Rental：{4}
 
-フレンドのA.Rカードを選択しませんでした。
+You did not select a friend's A.R. Card.
 
 A.Rカードのレンタルにより、{0}ジェニーが追加されました。
 
@@ -2602,36 +2602,36 @@ A.Rカードを登録してください。
 
 解放不可
 
-プリセット
+Presets
 
-スキルデッキ
-初期化
+Skill Deck
+Start
 
-ボーナス
+Bonus
 
-段階
+Step 
 
-スキルデッキを選択してください。
+Please select a skill deck.
 
-ブレイクスキル表示
+Show Break Skills
 
-ピーク
+Peak
 
-イロージョン
+Erosion
 
 Lv{0}
 
-先行スキル
+Preceding Skills
 
-特性選択
+Select Character
 
-習得可能
+Learnable
 
-装着中
+On equip
 
-SP不足
+Insufficient SP
 
-累積使用SP不足
+Refund SP
 
 Master
 
@@ -2639,13 +2639,13 @@ Master
 
 枚
 
-ダメージ{0}%増加
+Damage Increase by {0}%
 
-クールタイム{0}%減少
+Cooldown Decreased by {0}%
 
-SG消費量{0}%減少
+SG Consumption Decreased by {0}%
 
-進行率{0}/{1}({2}%)
+Completion Rate {0}/{1}({2}%)
 
 進行率
 
@@ -2655,13 +2655,13 @@ SG消費量{0}%減少
 
 難易度変更
 
-入場({0})
+Enter ({0})
 
-中止({0})
+End {0})
 
 {0}-{1}
 
-入場可能
+Entry is permitted.
 
 Lv{0} {1}
 
@@ -2671,36 +2671,36 @@ Lv{0} {1}
 
 ログインチェック
 
-累積回数
+Cumulative Days:
 
-報酬
+Rewards
 
-報酬受け取り
+Claim Reward
 
-デイリーログイン報酬
+Daily Login Reward
 
-残り時間
+Time Left
 
 {0}：{1}：{2}
 
-支給完了
+Payed
 
-待機中
+Waiting
 
-カウントダウンが完了すると、
-報酬を受け取ることができます。
+When the countdown timer elapses,
+you can claim a reward.
 
-ログインチェック報酬
+Login Reward
 
-ログインチェック報酬の支給が完了しました。
+You have received the login reward for logging in.
 
-デイリーログイン報酬
+Daily Login Reward
 
-デイリーログイン報酬の支給が完了しました。
+You have received the reward for logging in today.
 
-報酬支給不可
+Reward Not Paid
 
-インベントリに空きスロットが無いため、報酬を獲得できません。
+Your inventory is full; you cannot receive the reward.
 
 1
 
@@ -2764,25 +2764,25 @@ Lv{0} {1}
 
 31
 
-死亡
+Dead
 
-現在位置：{0}
+Current Location：{0}
 
-対象からの距離が遠すぎます。
+You are too far from the target.
 
 OFFLINE
 
-シーズン.1
+Season 1
 
-シーズン.2
+Season 2
 
-シーズン.3
+Season 3
 
-マイルーム
+My Room
 
-芝生布団キャンプ
+Camping Futon
 
-マイルーム
+Alice Breeze
 
 アリスブリーズ
 
@@ -2794,51 +2794,51 @@ OFFLINE
 
 ソローキャッスル
 
-テストマップ
+Test Map
 
-バトルクリア1
+Battle 1 Cleared
 
-バトルクリア2
+Battle 2 Cleared
 
-第6区域
+Sixth District
 
-カジュアルレイド
+Casual Raid
 
-町レイド
+Town Raid
 
-アポカリプスレイド
+Apocalypse Raid
 
-ロコタウン
+Rocco Town
 
-スチールグレイブ
+Steel Grave
 
-コントロールゾーン43
+Control Zone 43
 
-Rスクエア
+R Square
 
-ベストショータイム
+Best Showtime
 
-カンダスシティ
+Kansas City
 
 N-102
 
-フロントライン
+Front Line
 
-ネッドカンパニー
+NED Company
 
-ブレイクアウト
+Breakout
 
-グレイスシティ
+Grace City
 
-コールドレイン
+Howling Wolf
 
 ウルフクライ
 
-ジャンクプール
+Junk Pool
 
-エリア9
+District 9
 
-ルインフォートレス
+Ruin Fortress
 
 コントロールベース
 
