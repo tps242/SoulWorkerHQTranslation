@@ -1488,33 +1488,33 @@ Action D
 
 Action E
 
-ウォーロードメイズ
+Warlord Instance
 
 Story Instance
 
 ユニティメイズ
 
-カジュアルレイド
+Casual Raid
 
-全メイズの<font color='#FF0000'>[カジュアルレイド][ユニティメイズ]</font>が開放されました。
+All instances of<font color='#FF0000'>[Casual Raid][ユニティメイズ]</font>have been open.
 
-エクリブリウムが出現しました。
+エクリブリウム will appear.
 
-エクリブリウムが消滅します。
+エクリブリウム will disappear.
 
 BP
 
 D.S Point
 
-ステージ終了
+Exit Stage
 
 Clear
 
 {0} Stage
 
-町に移動
+Move to Town
 
-ボタンをクリックすると、町に移動します。
+Click on the button to go to town.
 
 Warlord Prologue
 
@@ -1524,342 +1524,342 @@ Warlord Second Invasion
 
 Warlord Third Invasion
 
-人形軍団の侵攻
+Doll Corps Invasion
 
-ラピッドフレイムの侵攻
+Rapid Flames' Invasion
 
-ラピッドフレイムの逆襲
+Rapid Flames' Resistance
 
-ネッドカンパニーの空襲
+NED Corp Air Raid
 
 District Condition
 
-制限時間
+Time limit
 
-ウォーロード防御成功
+Warlord defense success
 
-ウォーロード防御失敗
+Warlord defense failed
 
-間もなく町に自動移動します。
+You will automatically be transferred to town promptly.
 
-ディフェンスモード開始
+Defense mode start
 
-ディフェンスモード成功
+Defense mode success
 
-ディフェンスモード失敗
+Defense mode failure
 
-サバイバルモード開始
+Survival mode start
 
-サバイバルモード終了
+Exit Survival Mode
 
-ネッドカンパニー
+NED Company
 
 スタリーフォレスト連合
 
 ニヒルキングダム勢力
 
-ラピッドフレイム
+Rapid Flames
 
 チェリーブロッサム勢力
 
-RSB勢力
+RSB Forces
 
-ソウルジャンク
+Soul Junk
 
-シャドージャンク
+Shadow Junk
 
-封印回数
+Sealed Count
 
-復元回数
+Restored number of times
 
-破壊状態
+Destroyed
 
-称号に使用する単語を選択してください。
+Please select a company name.
 
-なし
+None
 
-番号
+ID No.
 
 No.
 
-称号を獲得しました。
+Acquired the title.
 
-コミュニティー
+Community
 
-フレンド登録
+Befriend
 
-パーティー
+Party
 
-ギルド
+Guild
 
-遮断リスト
+Block List
 
 On({0})
 
 Off({0})
 
-キャラクター名
+Character Name
 
-検索
+Search
 
-推奨フレンド
+Recommended Friend
 
-フレンド要請
+Add Friend
 
-推奨フレンドは10分ごとに更新されます。
+The list is updated every 10 minutes.
 
-遮断解除
+Unblock	
 
-フレンド検索
+Friend Search
 
-パーティー招待
+Party Invite
 
-パーティー離脱
+Leave Party
 
-ささやき
+Whisper
 
-フレンド削除
+Unfriend
 
-遮断登録
+Blacklist
 
-遮断
+Block
 
-キャンセル
+Cancel
 
 Lv{0}
 
 CH{0}
 
-{0}からの
-フレンド要請です。
-承諾しますか？
+Friend request from {0}
+Friend's Request
+Do you accept?
 
-{0}がフレンドに登録されました。
+{0} has been registered as a friend.
 
-{0}を
-フレンドリストから削除しますか？
+{0}
+Do you want to remove {0} from your friends list?
 
-{0}がフレンドリストから削除されました。
+{0} has been removed from the friends list.
 
-{0}が遮断リストに追加されました。
+{0} has been added to the blacklist.
 
-{0}が遮断リストから削除されました。
+{0} has been removed from the blacklist.
 
-フレンド登録したフレンドです。
-遮断しますか？
+The person is a friend that you have befriended.
+Are you sure you want to cut off interaction?
 
-{0}は現在、他の要請を進行中です。
+{0} cannot accept requests currently due to pending requests.
 
 HEMS
 
-受信メール
+Inbox
 
-送信メール
+Outbox
 
-保管箱
+Archive
 
-{0}が送ったメッセージ
+{0} has sent message.
 
-{0}に送ったメッセージ
+Message sent to {0}.
 
-代金請求
+Biling
 
-{0}日後満了
+Expires in {0} days
 
-受信者
+Recipient
 
-タイトル
+Header
 
-添付ジェニー
+Attached Zenny
 
-メール手数料
+Mail Fee
 
-ジェニー
+Zenny
 
-タイトルなし
+Please insert a title.
 
-内容なし
+Please insert a message.
 
-送信者
+Sender
 
-受信時間
+Timestamp
 
-送信時間
+Time Sent
 
-{0}-{1}-{2} {3}時{4}分
+{0}-{1}-{2} {3}time{4} minutes
 
-受領可能時間
+Received time
 
-{0}時間{1}分
+{0} time {1} minutes
 
-請求ジェニー
+Claim Zenny
 
-保管期間
+Storage Duration
 
-{0}日
+{0} Days
 
-自動返送時間
+Automatic Transfer Time
 
-請求待機
+Claim 
 
-残り保管期間
+Remaining Duration
 
-{0}-{1}-{2} {3}時{4}分
+{0}-{1}-{2} {3}time{4} minutes
 
-運営チーム
+Management team
 
-[返信]
+[reply]
 
-初期化
+Clear
 
-送信
+Send
 
-キャンセル
+Cancel
 
-添付受領
+Attached Items
 
-メール作成
+Compose Mail
 
-開く
+Check
 
-削除
+Delete
 
-返信
+Reply
 
-返送
+Return
 
-新規
+New
 
-閉じる
+Close
 
-保管
+Archive
 
-アカウントメール
+Account Mail
 
-選択したメールを削除しますか？
+Are you sure you want to delete the selected mail?
 
-選択したメールに受け取っていない添付物があります。
+There are attachments that have not received in the selected mail.
 
-代金請求により添付物受領には{0}ジェニーが必要です。
-添付物を受け取りますか？
+The attachments received by the billing requires {0} Zenny.
+Do you wish to receive the attachment?
 
-選択したメールを削除しますか？
-(添付物が削除されます)
+Are you sure you want to delete the selected mail?
+(Attachment will be deleted)
 
-代金請求があるメールは削除できません。
+You can not delete billing-related mail.
 
-自分にはメールを送れません。
+You can not send mail to yourself.
 
-該当ユーザーが存在しません。
+The user does not exist.
 
-メールを保管箱に移動しますか？
+Do you want to move the mail to the archive?
 
-{0}に一般メールを送信しました。
+A mail was sent to {0}.
 
-{0}に添付メールを送信しました。
+The mail was sent to {0}.
 
-{0}に代金請求メールを送信しました。
+I sent a billing mail to {0}.
 
-{0}にメールを返送しました。
+The mail was sent back to {0}.
 
-代金請求のあるメールは返送できません。
+You can not reply to billing-related mails.
 
-返送されたメールを再び返送することはできません。
+You can not return the mail twice.
 
-システムメッセージは返送できません。
+System messages cannot be sent back.
 
-コミュニティー
+Community
 
-ログイン中
+Login
 
-オフライン
+Offline
 
-残り{0}日
+Time Remaining {0} Days
 
-残り{0}時間
+Time Remaining {0} Hours
 
 CH{0}
 
 Lv{0}
 
-フレンド募集中
+Looking for Friends
 
-募集登録
+Post Party Request
 
-キャラクター
+Character
 
 Lv
 
-検索
+Search
 
 今日の推奨フレンド
 
-募集解除
+Delist Party Request
 
-フレンド
+Friend
 
-フレンド検索
+Friend Search
 
-フレンド要請待機({0})
+Try a friend search again in ({0})
 
 On({0})
 
 Off({0})
 
-フレンド検索
+Friend Search
 
-キャラクター名
+Character name
 
-フレンド検索
+Friend Search
 
-フレンド要請
+Friend Request
 
-ギルド
+Guild
 
-ギルドホーム
+Guild Home
 
-遮断リスト
+Blacklist
 
-遮断登録
+Blacklist
 
-遮断登録
+Blacklist
 
-遮断対象
+Blocked Users
 
-遮断
+Block
 
-キャンセル
+Cancel
 
-[{0}]のアイテム
+[{0}]'s Item
 
-登録中
+Registration 
 
-登録完了
+Complete Registration
 
-登録確認
+Confirm
 
-登録修正
+Correct
 
-取引完了
+Complete Transaction
 
-取引中止
+Abort Transaction
 
-アイテムとジェニーを登録後、「登録確認」をクリックしてください。
+After registering the item and Jenny, please click on the "complete registration".
 
-内容を確認して、「取引完了」をクリックしてください。
+Check the contents, please click on the "completion transaction."
 
-相手の取引完了を待っています。
-(取引したくない場合は「取引中止」をクリックしてください)
+Waiting for a response from the other trader.
+(If you do not want to trade, please click on the button "Abort Transactipn"
 
-{0}に取引を要請しました。相手の承諾を待っています。
-[残り{1}秒]
+Trade request sent to {0}. Waiting the consent of the other party.
+[Remaining Response Time: {1} seconds]
 
-{0}から取引要請が来ました。承諾しますか？
-[残り{1}秒]
+Trade request received from {0}. Do you accept?
+[Remaining Response Time: {1} seconds]
 
-対象プレイヤーと距離があり、取引要請が中止されました。
+The player is too far; the trade request has been canceled.
 
-対象プレイヤーがログアウトし、取引要請が中止されました。
+The player has logged out, the transaction request has been aborted.
 
 取引が中止されました。
 (対象と同じ町でのみ取引ができます)
