@@ -2092,9 +2092,9 @@ System Settings
 
 Login
 
-ＩＤ
+ID
 
-Please enter a ID.
+Please enter ab ID.
 
 Password
 
