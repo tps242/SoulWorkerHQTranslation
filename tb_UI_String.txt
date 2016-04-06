@@ -483,7 +483,7 @@ Additional materials will be registered.
 
 Display only craftable items.
 
-The equipments' durability have been reduced.
+The equipment durability has been reduced.
 The durability has declined by {0}%.
 
 Are you sure you want to repair all equipment in possession?
@@ -586,7 +586,7 @@ Add Friend
 
 Revive
 
-You will be <font size = '15' color ='#F15F5F'>moved to town</font> after abandoning the party in <font color='#F7AE54'>{0} seconds</font>.
+You will be <font size='15' color ='#F15F5F'>moved to town</font> after abandoning the party in <font color='#F7AE54'>{0} seconds</font>.
 
 Abandonment
 
