@@ -586,7 +586,7 @@ Add Friend
 
 Revive
 
-You will be <font size='15' color='#F15F5F'>moved to town</font> after abandoning the party in <font color='#F7AE54'>{0} seconds</font>.
+※You will be <font size='15' color='#F15F5F'>moved to town</font> after abandoning the party in <font color='#F7AE54'>{0} seconds</font>.
 
 Abandonment
 
