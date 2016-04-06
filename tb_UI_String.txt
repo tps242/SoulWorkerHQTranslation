@@ -962,7 +962,7 @@ Time
 
 Day
 
-Required Level: 
+Required Level:
 
 Durability
 
@@ -1159,7 +1159,7 @@ Insufficient inventory space for dismantling.
 
 MAX
 
-When equipped, the item will be Bind.
+The item binds on equip.
 Do you want to equip the item?
 
 Status
@@ -2202,7 +2202,7 @@ A girl with a propensity to control her madness. She was brought into a foreign 
 
 A boy who is determined to show off his abilities for righteous reasons. He helps people at his own expense and does not allow evil to prevail at all costs.
 
-A girl who exerts an ability to display sorrow as a medium. She is oblivious and naive at times; however, the melodies she plays are full of srrow.
+A girl who exerts an ability to display sorrow as a medium. She is oblivious and naive at times; however, the melodies she plays are full of sorrow.
 
 A girl who exerts an ability to control rage as a medium. Although she tries to direct her anger in this insane world, what reverbates back to her is only her voice and sense of emptiness.
 
