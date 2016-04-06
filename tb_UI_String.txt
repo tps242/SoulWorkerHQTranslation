@@ -2128,7 +2128,7 @@ New  Character
 
 Delete Character
 
-After deleting a character, the character name may not be used for 7 days.
+After deleting, the character name may not be used for 7 days.
 Are you sure you want to delete the character?
 
 Deleted characters cannot be recovered.
