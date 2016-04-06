@@ -14,7 +14,7 @@ Maximum
 
 Agree
 
-Reject
+Decline
 
 Payment
 
@@ -134,7 +134,7 @@ Sub-Weapon
 
 Soul Pendant
 
-ソウルギア
+Soul Gear
 
 Soul Earrings
 
@@ -208,7 +208,7 @@ Soul Cartridge
 
 Soul Pendant
 
-ソウルギア
+Soul Gear
 
 Soul Earrings
 
@@ -244,7 +244,7 @@ General Items
 
 Consumables
 
-クエストアイテム
+Quest Item
 
 Quest Items
 
@@ -395,7 +395,7 @@ Friend Point：
 
 {0} S Coin
 
-{0} Hancoin
+{0} HanCoin
 
 Deposit
 
@@ -407,9 +407,9 @@ Use
 
 Split
 
-チャットリンク
+Chat Link
 
-Dispose
+Discard
 
 Sell 
 
@@ -469,7 +469,7 @@ Random Crafting
 
 BP Required
 
-Zenny Required
+Zenny Required 
 
 {0} was successfully made.
 
@@ -487,22 +487,22 @@ The equipment durability has been reduced.
 The durability has declined by {0}%.
 
 Are you sure you want to repair all equipment in possession?
-(Costs：{0} Zenny)
+(Cost：{0} Zenny)
 
 Are you sure you want to repair all worn equipment?
-(Costs：{0} Zenny)
+(Cost：{0} Zenny)
 
 Are you sure you want to repair {0}?
-(Costs：{1} Zenny)
+(Cost：{1} Zenny)
 
 {0} has been repaired.
-(Costs：{1} Zenny)
+(Cost：{1} Zenny)
 
 Equiped items have been repaired.
-(Costs：{0} Zenny)
+(Cost：{0} Zenny)
 
 All equipment has been repaired.
-(Costs：{0} Zenny)
+(Cost：{0} Zenny)
 
 Insufficient funds for repairing.
 
@@ -513,20 +513,20 @@ The item cannot be equipped because it has zero durability.
 
 Please repair the item.
 
-Durability : {0}
+Durability: {0}
 
 Instance
 Earn
 
 Progress
 
-{0} time {1} minutes {2} seconds
+{0}h {1}m {2}s
 
-{0} minutes {1} seconds
+{0}m {1}s
 
 Additional Rewards Gained：{0} X {1}
 
-Since there is no remaining inventory space, it has been shiped by、[{0} X {1}] mail.
+Since there is no remaining inventory space, it has been shiped by [{0} X {1}] mail. 
 
 Result
 
@@ -586,21 +586,21 @@ Add Friend
 
 Revive
 
-※You will be <font size='15' color='#F15F5F'>moved to town</font> after abandoning the party in <font color='#F7AE54'>{0} seconds</font>.
+※You will be <font color='#F15F5F'>moved to town</font> after abandoning the party in <font size='15' color='#F7AE54'>{0}</font> seconds. 
 
 Abandonment
 
 You have been ressurected by the blessing buff effect.
 
-※<font color='#F2CB61'>[アクシジェントコール]1個</font>を使用して復活します。
++※<font color='#F2CB61'>1 [Accident Call]</font> will be used for resurrection. 
 
-※<font size='15' color='#F7AE54'>{0}</font>秒後、<font color='#F15F5F'>最後の町に移動</font>します。
+※<font color='#F15F5F'>You will be moved to the last town you visited</font> after <font size='15' color='#F7AE54'>{0}</font> seconds. 
 
 ※<font color='#47C83E'>[{0}] has revived you</font>
 
-※<font color='#FFBB00'>[トップアクシジェントコール]1個</font>を使用して復活します。
+※Do you want to use <font color='#FFBB00'>1 [Top Accident Call]</font> to revive? 
 
-※<font color='#FFBB00'>[トップアクシジェントコール]</font>がないため、復活できません。
+※You cannot revive because you don't have a <font color='#FFBB00'>[Top Accident Call]</font>.
 
 Withdraw
 
@@ -610,7 +610,7 @@ Expel
 
 Accept
 
-Reject
+Decline
 
 OFFLINE
 
@@ -638,15 +638,15 @@ says
 
 You have received a party invitation from {0}.
 Do you accept this party invitation?
-(Response time remaining: {1} seconds)
+({1}s remaining) 
 
 If you leave the party, you will be teleported to town.
 Are you sure you want to leave the party?
 
-Left the party. Teleporting to town.
-(In {0} seconds)
+You have left the party. Moving to town.
+({0} seconds remaining)
 
-Are you sure you want to transfer party leadership to {0}?
+Are you sure you want to make {0} the party leader?
 
 Are you sure you want to expel {0} from the party?
 
@@ -655,12 +655,12 @@ Are you sure you want to leave the party?
 Do you want to raise {0}'s skill level?
 (Costs: {1} SP)
 
-SP in Possession
+Owned SP 
 
 {0} Points
 
 Do you want to learn {0}?
-(Costs: {1} SP)
+(Cost: {1} SP)
 
 Are you sure you want to extend the skill deck?
 
@@ -793,7 +793,7 @@ The instance can be entered when everyone consents.
 (Members in a different town.
 Members that are logged out.)
 
-The party leader has initiated an instance. Do you wish to join?
+The party leader has requested to enter the dungeon. Do you wish to join?
 Location：[{0}]
 Episode：[{1}]
 Difficulty：[{2}]
@@ -874,7 +874,7 @@ Manage Sockets
 
 Accept Order[Space]
 
-Reject-[Back]
+Decline-[Back]
 
 {0} Zenny
 
@@ -884,11 +884,11 @@ Lv{0}
 
 {0}位
 
-The raid "Strange Space" is a difficult instance. Please proceed with caution.
+The raid "Strange Space" is a difficult dungeon. Please proceed with caution.
 
-The raid "Golden Citadel" is a four-person instance. Please remediate the calamity.
+The raid "Golden Citadel" is a four-person dungeon. Please remediate the calamity.
 
-The instance "Steel Grave" can only be challenged once a day.
+The dungeon "Steel Grave" can only be challenged once a day.
 
 Normal
 
@@ -900,11 +900,11 @@ Dedicated Party
 
 Party of 4
 
-FP consumption
+FP Cost
 
 An admission ticket is required.
 
-Recommended Level:{0}
+Recommended Level: {0}
 
 Recommended Number of Party Members：{0}
 
@@ -932,11 +932,11 @@ Equipment Requirement
 
 <font color='#0099FF'>Evolvable</font>
 
-<font color='#FF0000'>Bound on equip</font>
+<font color='#FF0000'>Bind on Equip</font>
 
-<font color='#FF0000'>Bound on acquisition</font>
+<font color='#FF0000'>Bind on Acquisition</font>
 
-<font color='#FF0000'>Bound</font>
+<font color='#FF0000'>Bind</font>
 
 <font color='#FF0000'>Untradable</font>
 
@@ -962,7 +962,7 @@ Time
 
 Day
 
-Level Required:
+Required Level:
 
 Durability
 
@@ -1000,7 +1000,7 @@ Target Enemy
 
 Left-Click Barrage
 
-Hold down left click
+Hold down left-click
 
 Left or right-click barrage
 
@@ -1024,7 +1024,7 @@ Set Effect Comparison
 
 Socket Effect Comparison
 
-{0}セット：
+{0} Set：
 
 Exp
 
@@ -1034,7 +1034,7 @@ Socket brooch
 
 Equip
 
-Socket item attached.
+Attached Socket Item 
 
 Attach Familia
 
@@ -1051,7 +1051,7 @@ You can attach the socket item after unattaching the applied socket item.
 
 Are you sure you want to attach the Familia to the target socket?
 
-Familia has been successfully installed.
+You have successfully attached the Familiar. 
 
 Socket Item Management
 
@@ -1072,10 +1072,10 @@ Are you sure you want to remove the socketed item?
 
 Do you want to add a new socket to the selected item?
 
-Familia can be attached to socket items.
-(To attach it, select the item first, then right-click)
+A Familia can be attached to socket items.
+(Right-click the item to attach it)
 
-Selected Familia has been released.
+The selected Familia has been released. 
 
 A socket has been added to the selected item。
 
@@ -1105,7 +1105,7 @@ Guild
 
 Quest
 
-Instance
+Dungeon
 
 Portal
 
@@ -1150,16 +1150,16 @@ Do you want to dismantle {0}?
 Dismantle the selected item and press confirm.
 Are you sure you want to dismantle?
 
-The selected item is a<font color='#A566FF'>valuable item</font>.
+The selected item is a <font color='#A566FF'>valuable item</font>.
 Upon dismantling, the item cannot be restored. Do you want to proceed?
 
-There is not enough {0}, therefore it can't be dismantled.
+You do not have enough {0}, therefore it can't be dismantled.
 
 Insufficient inventory space for dismantling.
 
 MAX
 
-When equipped, the item will be bound.
+This item binds on equip.
 Do you want to equip the item?
 
 Status
@@ -1198,7 +1198,7 @@ Effect on Failed Attack Rate and Critical Rate
 
 Effect on HP and Physical Defense
 
-Effect on chance
+Effect on Chance
 
 Stamina recovered per second
 
@@ -1244,13 +1244,13 @@ Evolvable
 
 Dismantable
 
-Bound on equip
+Bind on Equip
 
-Bound on acquisition
+Bind on Acquisition
 
-Bound
+Bind
 
-<font color='#FF0000'>Not sellable</font>
+<font color='#FF0000'>Unsellable</font>
 
 <font color='#FF0000'>Indestructible</font>
 
@@ -1260,7 +1260,7 @@ Trade
 
 Please register an item.
 
-Maximum Enhancements possible：+{0}
+Maximum Enhancements Possible：+{0}
 
 Enhancements done
 
@@ -1268,7 +1268,7 @@ Reinforced materials.
 
 {1}/{2}
 
-Enhancement target
+Enhancement Target 
 
 The item cannot be enhanced.
 
@@ -1343,7 +1343,7 @@ Evolution
 
 The equipment item cannot be enhanced.
 
-Enhancing not possible： 「{0}」 missing
+Evolution not possible: 「{0}」 missing  
 
 You can enhance the item.
 It may result in destroying the item.
@@ -1554,7 +1554,7 @@ Exit Survival Mode
 
 NED Company
 
-スタリーフォレスト連合
+Starry Forest League 
 
 Nihilum Kingdom Gang
 
@@ -1690,7 +1690,7 @@ Time Sent
 
 Received time
 
-{0} time {1} minutes
+{0}h {1}m 
 
 Claim Zenny
 
@@ -1840,39 +1840,39 @@ Confirm
 
 Correct
 
-Complete Transaction
+Complete Trade
 
-Abort Transaction
+Cancel Trade
 
-After registering the item and Jenny, please click on the "complete registration".
+After registering your items and Zenny, please click on the "Complete Registration".
 
-Check the contents, please click on the "completion transaction."
+Check the contents, please click on the "Complete Trade."
 
 Waiting for a response from the other trader.
-(If you do not want to trade, please click on the button "Abort Transaction"
+(If you do not want to trade, please click on the button "Cancel Trade"
 
 Trade request sent to {0}. Waiting the consent of the other party.
-[Remaining Response Time: {1} seconds]
+[{1} seconds remaining]
 
 Trade request received from {0}. Do you accept?
-[Remaining Response Time: {1} seconds]
+[{1} seconds remaining]
 
-The player is too far; the trade request has been canceled.
+The player is too far away; the trade request has been canceled.
 
-The player has logged out, the transaction request has been aborted.
+The player has logged out, the trade request has been aborted.
 
-Transaction has been aborted.
+Transaction has been canceled.
 (You must be in the same town as the other party)
 
-Aborted the transaction request to {0}.
+The trade request with {0} was canceled. 
 
-Refused the transaction request from {0}.
+The trade request from {0} was declined. 
 
-{0} has aborted the transaction request.
+{0} has canceled the trade request. 
 
-{0} has rejected the trade request.
+{0} has declined the trade request. 
 
-The transaction request has expired because of no response.
+The trade request has expired because of no response. 
 
 NPC Functions are unavailable while in a transaction.
 
@@ -1956,7 +1956,7 @@ Sale
 
 Sale Preparations
 
-When trading or registering products, please verify the items and zenny.
+When trading or registering products, please verify the items and Zenny. 
 
 Quest Completion Reward
 
@@ -1972,7 +1972,7 @@ Items acquired.
 
 When completing {0}, the following rewards are awarded.
 
-{0}を達成し、以下の報酬を獲得しました。
+You have achieved the {0}, the rewards below have been awarded. 
 
 {0}占有率報酬により、以下を獲得しました。
 
@@ -1992,7 +1992,7 @@ Ether
 
 Title
 
-Supporters
+Supporter
 
 Open Package
 
@@ -2008,21 +2008,21 @@ You can not use the item as there is insufficient inventory space.
 
 Unread Mail
 
-{0} There are unread mails. Please check with HEMS.
+You have unread {0} mails. Please check with HEMS.
 
-Learning possible skills
+Available Skill
 
-{0}Lv{1} Skill Acquisition possible
+{0}Lv{1} Available
 
-Learnable attributes
+Available Attribute
 
-{0}Lv{1} Skill Acquisition possible
+{0}Lv{1} Available
 
-Awakening skills are available.
+Break Skill Available
 
 {0} is available.
 
-Instance Admission is possible.
+Dungeon Entry Possible
 
 {0}-{1}{2} can be entered.
 
@@ -2040,11 +2040,11 @@ Memorial completed.
 
 Incoming Friend Request
 
-Received friend request from {0}
+You received a friend request from {0}
 
-Not learned
+Completion Rate
 
-{0} Cooldown:{1}%
+{0} Completion Rate:{1}% 
 
 Unlearned
 
@@ -2072,21 +2072,21 @@ Succeeding Skills：
 
 SV
 
-<Awakening Skills>
-Awakening available
+<Break Skill>
+Peak Available
 
-<ブレイクスキル>
-イロージョン使用可能
+<Break Skill>
+Erosion Available
 
 SV{0}% Consumption
 
 Intro Video
 
-Production staff
+Production Staff
 
-Close Game
+Quit Game
 
-Server Change
+Change Server
 
 System Settings
 
@@ -2094,11 +2094,11 @@ Login
 
 ID
 
-Please enter ab ID.
+Please enter your ID.
 
 Password
 
-Please enter a Password.
+Please enter your Password.
 
 Save Account Name
 
@@ -2106,59 +2106,59 @@ Login [ENTER]
 
 Server Selection
 
-Server name
+Server Name
 
-Server state
+Server Status
 
 Character Order
 
 Connect to Server [ENTER]
 
-Cannot enter the server.
+Failed to enter the server.
 
 Please select a server.
 
-Play character selection
+Play Character Selection
 
 Start Game [ENTER]
 
 Delete Character
 
-New  Character
+New Character
 
 Delete Character
 
 The character name may not be used for 7 days after deletion. Are you sure you want to delete the character?
 
-Deleted characters cannot be recovered.
+A deleted character cannot be recovered.
 As a guild master, the guild will be disbanded.
-Are you sure you want to delete the character?
+Are you sure you want to delete this character?
 
-Deleted characters cannot be recovered.
+A deleted character cannot be recovered.
 The guild leader's position will be revoked.
-Are you sure you want to delete the character?
+Are you sure you want to delete this character?
 
-点検中
+Maintenance
 
-Wait for connection...
+Waiting to connect.
 
-Populated
+Busy
 
-普通
+Normal
 
-円滑
+Low
 
-ロスカー
+Oscar
 
-カント
+Kant
 
-キャラクター選択
+Select Character
 
-進む
+Continue
 
-戻る
+Return
 
-作成中止
+Cancel Creation
 
 Class Data
 
@@ -2172,90 +2172,90 @@ Character Appearance
 
 Social	
 
-Battle
+Combat
 
 Skill
 
-Uses swords.
+Uses a sword as a weapon. 
 A practical choice for combat.
 
-Uses handguns.
+Uses a pistol as a weapon. 
 Perform nimble movements at the expense of the enemy.
 
-Uses scythes.
+Uses a scythe as a weapon. 
 Strike down your foes with long-reaching attacks.
 
-Uses fists.
-Quickly annhilate the enemy with impending speed.
+Uses gauntlets as a weapon.
+Quickly annihilate enemies with impending speed..
 
-Uses guitars.
+Uses a guitar as a weapon. 
 Harbor some deadly sound-wrenching melodies by summoning ghosts.
 
-使用武器はキャノン。
-圧倒的火力で敵を制圧。
+Uses a cannon as a weapon. 
+Dominate enemies with overwhelming firepower. 
 
-何もできずに全てを奪われた無力感を媒介として異能力を発揮する少女。優しい少女が振り回す巨大な刃は、贖罪と自責の念を抱えて彷徨う。
+A girl who wishes to demonstrate her various abilities due to feeling helplessness from not being able to do anything as a medium. A gentle, huge-sword wielding girl who suffers from a feeling of obligation and guilt.
 
-快楽を媒介に異能力を発揮する少年。興味本位で自ら空白の中へ入った命知らず。どんなに危険な状況でも余裕と笑いを失わない楽観主義者。
+A boy who takes pleasure in showing off his abilities has a medium. A reckless boy who lost himself with his own insatiable curosity into the 空白. He laughs even at the most despairful situation.
 
-自分の中の狂気を媒介に異能力を発揮する少女。空白から現れた怪物との戦いの中でもう一人の自分が目を覚ます！普段は上品な態度だが実は…。
+A girl with a propensity to control her madness. She was brought into a foreign world after waking up in a strange estranged place, while in the midst of battle with a monster. She usually has a condescending attitude.
 
-正義への情熱を媒介に異能力を発揮する少年。自分を犠牲にしてでも人を助け、悪を絶対に許さない真っ直ぐな正義漢！
+A boy who is determined to show off his abilities for righteous reasons. He helps people at his own expense and does not allow evil to prevail at all costs.
 
-悲しみを媒介に異能力を発揮する少女。天真爛漫で超マイペース。しかし彼女が奏でる旋律はなぜか哀愁に満ちている。
+A girl who exerts an ability to display sorrow as a medium. She is oblivious and naive at times; however, the melodies she plays are full of sorrow.
 
-憤怒を媒介に異能力を発揮する少女。この狂った世界に怒りを放つが、戻ってくるのは自分の声と虚無感だけ。
+A girl who exerts an ability to control rage as a medium. Although she tries to direct her anger in this insane world, what reverbates back to her is only her voice and sense of emptiness.
 
-プレビュー
+Preview
 
-アバタープレビュー
+Avatar preview
 
-武器プレビュー
+Weapon preview
 
-音声試聴
+Listen to Voice
 
-聞く
+Listen
 
-動作プレビュー
+Preview
 
-再生
+Playback
 
-外見選択
+Select Apperance
 
-ヘアスタイル・カラー
+Hairstyle Color
 
-アイカラー
+Eye Color
 
-スキン
+Skin
 
-基本衣装選択
+Costume Selection
 
-下着
+Underwear
 
-作成完了
+Finish Creation
 
-戻る
+Return
 
-キャラクター名
+Character Name
 
-2～12文字入力可能
+2 to 12 characters can be used.
 
-初期化
+Start
 
-ランダム
+Random
 
-キャラクタースタイル設定
+Character Style Settings
 
-<font color='#FFFFFF'><font size="30">TIP：</font>基本的な装備アイテムは、各町にいる<font color='#00ff9c'>ジャイト</font>の装備商店で購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>The basic equipment items in each town's <font color='#00ff9c'>equipment store</font>can be bought.
 
-<font color='#FFFFFF'><font size="30">TIP：</font>基本的な消費アイテムは、各町にいる<font color='#00ff9c'>ヨミ</font>の雑貨商店で購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>The basic consumable items in each town's <font color='#00ff9c'>general merchandise store</font>can be bought.
 
-<font color='#FFFFFF'><font size="30">TIP：</font>町の商店で、武器の耐久度を回復する<font color='#00D8FF'>[修理]</font>や、各種素材を入手できるアイテムの<font color='#00D8FF'>[分解]</font>ができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>The various shops in town can<font color='#00D8FF'>[repair]</font> your equipment or <font color='#00D8FF'>[dismantle]</font> them.
 
-<font color='#FFFFFF'><font size="30">TIP：</font>商店などの機能性NPCを利用すると、<font color='#00D8FF'>[顧客等級]</font>が上昇します。
-顧客等級のレベルによって、様々な特典が付与されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>If you make a purchase from a NPC Shop, your<font color='#00D8FF'>[customer grade]</font> will rise.
+Determining on the customer grade level obtained, various benefits and additional items can be offered.
 
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[トリシャ]</font>の所で、武器・ギアの<font color='#00D8FF'>[強化][交換]</font>ができます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>In [トリシャ]</font>You can <font color='#00D8FF'>[exchange][enhance]</font> materials/equipments.
 
 <font color='#FFFFFF'><font size="30">TIP：</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して
 別の装備品の強化・製作アイテムを入手することもできます。
@@ -2387,7 +2387,7 @@ NPCの頭上やミニマップ上に表示されます。
 
 <font color='#FFFFFF'><font size="30">TIP：</font>基本的な装備アイテムは、各町にいる<font color='#00ff9c'>ジャイト</font>の装備商店で購入できます。
 
-<font color='#FFFFFF'><font size="30">TIP：</font>基本的な消費アイテムは、各町にいる<font color='#00ff9c'>ヨミ</font>の雑貨商店で購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>基本的な消費アイテムは、各町にいる<font color='#00ff9c'>general merchandise store</font>の雑貨商店で購入できます。
 
 <font color='#FFFFFF'><font size="30">TIP：</font>町の商店で、武器の耐久度を回復する<font color='#00D8FF'>[修理]</font>や、各種素材を入手できるアイテムの<font color='#00D8FF'>[分解]</font>ができます。
 
@@ -2486,20 +2486,20 @@ NPCの頭上やミニマップ上に表示されます。
 
 Ｌｖ
 
-等級
+Grade
 
-[フレンド]
+[Friend]
 
-[ギルド]
+[Guild]
 
-所持ジェニー
+Owned Zenny
 
-決定
+Confirm
 
 使用待機中
 
 A.Rカード「{0}」を
-削除しますか?
+Are you sure you want to discard this?
 
 {0}の{1}
 A.Rカードを持ってきますか?
@@ -2519,7 +2519,7 @@ A.Rカードボックスを使用します。
 A.Rカードを使用して固有能力を獲得します。
 使用したA.Rカードはインベントリから削除され、
 スキルウィンドウ[K]のA.Rカードタブに登録されます。
-本当に使用しますか?
+Are you sure you want to use this? 
 
 A.Rカードの空きがないためアイテムを使用できません。
 
@@ -3899,7 +3899,7 @@ Q.B.D[強化保護]を適用して強化すると、Q.B.D[強化保護]を1個�
 アイテム購入失敗：BP不足
 
 使用時、設定していた全てのスキルが初期化されます。
-本当に使用しますか?
+Are you sure you want to use this? 
 
 インベントリにあるアイテムのみ封印できます。
 
@@ -5082,7 +5082,7 @@ A.Rカードボックス
 
 鍵
 
-クエストアイテム
+Quest Item
 
 装備設計図
 
@@ -5314,7 +5314,7 @@ A.Rカードボックス
 
 鍵
 
-クエストアイテム
+Quest Item
 
 ソウルウェポン
 
@@ -5526,7 +5526,7 @@ A.Rカードキー
 
 アーティファクト
 
-クエストアイテム
+Quest Item
 
 ソウルウェポン設計図
 
@@ -9392,7 +9392,7 @@ NEW
 
 選択したセットを装着しますか?
 
-選択したセットを削除しますか?
+選択したセットをAre you sure you want to discard this?
 
 アイテム検索には2文字以上の入力が必要です。
 
