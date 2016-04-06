@@ -2128,7 +2128,7 @@ New  Character
 
 Delete Character
 
-After deleting, the character name may not be used for 7 days.
+The character name may not be used for 7 days after deletion.
 Are you sure you want to delete the character?
 
 Deleted characters cannot be recovered.
@@ -2136,7 +2136,7 @@ As a guild master, the guild will be disbanded.
 Are you sure you want to delete the character?
 
 Deleted characters cannot be recovered.
-/The guild leader's position will be revoked.
+The guild leader's position will be revoked.
 Are you sure you want to delete the character?
 
 点検中
