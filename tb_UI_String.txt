@@ -962,7 +962,7 @@ Time
 
 Day
 
-Required Level: 
+Required Level:
 
 Durability
 
