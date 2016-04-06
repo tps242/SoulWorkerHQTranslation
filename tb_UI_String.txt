@@ -2381,7 +2381,7 @@ NPCの頭上やミニマップ上に表示されます。
 
 <font color='#FFFFFF'><font size="30">TIP：</font>カンダスシティから戦闘研究所<font color='#00D8FF'>スチールグレイブ</font>に入場できます。
 
-<font color='#FFFFFF'><font size="30">TIP：</font>戦闘研究所<font color='#00D8FF'>スチールグレイブ</font>へは、1日1回5ステージまで入場できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>戦闘研究所<font color='#00D8FF'>スチールグレイブ</font>へは、1日1回5Stage まで入場できます。
 
 <font color='#FFFFFF'><font size="30">TIP：</font><font color='#00D8FF'>ベリーハード</font>は敵が強い分、獲得できる報酬の質が上がります。
 
@@ -2651,7 +2651,7 @@ Completion Rate {0}/{1}({2}%)
 
 {0}%
 
-ステージ変更
+Stage 変更
 
 難易度変更
 
@@ -2934,18 +2934,18 @@ Golden Citadel
 
 -
 
-スタリーフォレスト連合加入のためのテストが
-行われる基礎体力訓練場で
-軽い戦闘テストが進行できる。
+Trial for Starry Forest League Membership
+Complete Basic Combat Training.
+Proceed with the trial.
 
-工事が中断されたロコタウンの建設現場。
-ネッドカンパニーが地下に埋まるソウルを
-抽出しようと試みた工事現場。
+Rocco's City Construction has been suspended.
+The Soul NED Company occupies the underground.
+Annexation of construction site attempted.
 
-ロコタウンの捨てられた7番街通り。
-エドガーの戦闘人形の襲撃を防ぎ、
-巨大自爆人形を食い止めて
-都市破壊を阻止せねばならない。
+Seventh Avenue Street abandoned Rocco City.
+Prevent Edgar's battle doll attacks.
+Halt the suicidal doll.
+It must not impede the city's demolition. 
 
 狂気のヴェシ「エドガー」が
 国立病院内に自分だけのサーカス団
@@ -3045,11 +3045,11 @@ Golden Citadel
 
 0
 
-ワールドマップ
+World Map
 
-アルファモード
+Transparency Mode
 
-基本モード
+Basic Mode
 
 セカンド・ステア
 
@@ -3061,49 +3061,49 @@ Golden Citadel
 
 クラウドリーム北部-
 
-ポータル活性
+Active Portal
 
-ポータル非活性
+Inactive Portal
 
-ゲートオープン
+Opened Gate
 
-ゲートクローズ
+Closed Gate
 
-完了
+Completion
 
-進行可能
+Continue
 
-進行中
+In progress
 
-進行待機
+Standby
 
-装備商人：
+Equipment Seller：
 
-雑貨商人：
+General Merchant：
 
-ファッション商人：
+Apparel Merchant：
 
-製作職人：
+Crafter：
 
-強化職人：
+Enhancer：
 
-ペット販売員：
+Pets Salesperson：
 
-乗り物案内係：
+Peddler：
 
-資産管理人：
+Bank Teller：
 
-メール：
+Mail:
 
-ソウリスト：
+Disconnected List：
 
-チュートリアル
+Tutorial
 
-覚醒
+Awakening
 
 胎動する英雄
 
-救出作戦
+Rescue Operation
 
 暗躍の捕食者
 
@@ -3293,85 +3293,85 @@ Golden Citadel
 
 スチールグレイブ
 
-チャプター1
+Chapter 1
 
-チャプター2
+Chapter 2
 
-チャプター3
+Chapter 3
 
-チャプター4
+Chapter 4
 
-チャプター5
+Chapter 5
 
-チャプター6
+Chapter 6
 
-チャプター7
+Chapter 7
 
-チャプター8
+Chapter 8
 
-チャプター9
+Chapter 9
 
-チャプター10
+Chapter 10
 
-チャプター11
+Chapter 11
 
-チャプター12
+Chapter 12
 
-チャプター13
+Chapter 13
 
-チャプター14
+Chapter 14
 
-チャプター15
+Chapter 15
 
-ステージ1
+Stage 1
 
-ステージ2
+Stage 2
 
-ステージ3
+Stage 3
 
-ステージ4
+Stage 4
 
-ステージ5
+Stage 5
 
-ステージ6
+Stage 6
 
-ステージ7
+Stage 7
 
-ステージ8
+Stage 8
 
-ステージ9
+Stage 9
 
-ステージ10
+Stage 10
 
-ステージ11
+Stage 11
 
-ステージ12
+Stage 12
 
-ステージ13
+Stage 13
 
-ステージ14
+Stage 14
 
-ステージ15
+Stage 15
 
-ステージ16
+Stage 16
 
-ステージ17
+Stage 17
 
-ステージ18
+Stage 18
 
-ステージ19
+Stage 19
 
-ステージ20
+Stage 20
 
-ステージ21
+Stage 21
 
-ステージ22
+Stage 22
 
-ステージ23
+Stage 23
 
-ステージ24
+Stage 24
 
-ステージ25
+Stage 25
 
 スタリーフォレスト連合の隊員が戦闘能力を試す場所。
 試験用に改造されたロボットがスタリーフォレスト連合の隊員を待ち構える。
@@ -8126,7 +8126,7 @@ AIルーシーによって防御装置が作動しています。
 
 磁気フィールドが除去されました。
 
-スチールグレイブは1日1回、全部で5個のステージに挑戦できます。
+スチールグレイブは1日1回、全部で5個のStage に挑戦できます。
 
 コントローラーを操作すると、敵が出現します。
 
@@ -9497,7 +9497,7 @@ Skip
 
 スチールグレイブ
 
-チャプター選択
+Chapter 選択
 
 敵情報
 
@@ -9505,7 +9505,7 @@ Skip
 
 {0}>{1}
 
-最大進行チャプター
+最大進行Chapter 
 
 STAGE
 
@@ -9515,11 +9515,11 @@ CLEAR
 
 特殊ミッション報酬
 
-確認を押すと、次のステージに移動します。
+確認を押すと、次のStage に移動します。
 
 確認
 
-チャプターをクリアしました。町に移動できます。
+Chapter をクリアしました。町に移動できます。
 
 出る
 
@@ -10971,7 +10971,7 @@ SGが不足しているため、スキルを使用できません。
 アクセスエラーです。
 データが有効ではありません。
 
-まだステージ進行中です。
+まだStage 進行中です。
 
 入場に必要な条件を満たしていません。
 まだ訪問していない町を確認してください。
@@ -11134,9 +11134,9 @@ SGが不足しているため、スキルを使用できません。
 
 週間キルポイント
 
-チャプター進行状況
+Chapter 進行状況
 
-ステージ進行状況
+Stage 進行状況
 
 段階
 
@@ -11154,4 +11154,4 @@ SGが不足しているため、スキルを使用できません。
 
 クリア
 
-ステージ
+Stage 
