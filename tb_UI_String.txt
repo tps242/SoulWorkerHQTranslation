@@ -600,7 +600,7 @@ You have been ressurected by the blessing buff effect.
 
 ※Do you want to use <font color='#FFBB00'>1 [Top Accident Call]</font> to revive? 
 
-※You cannot revive because you don't have a <font color='#FFBB00'>[Top Accident Call]</font>. 
+※You cannot revive because you don't have a <font color='#FFBB00'>[Top Accident Call]</font>.
 
 Withdraw
 
@@ -643,10 +643,10 @@ Do you accept this party invitation?
 If you leave the party, you will be teleported to town.
 Are you sure you want to leave the party?
 
-You have left the party. Moving to town. 
+You have left the party. Moving to town
 ({0} seconds remaining)
 
-Are you sure you want to make {0} the party leader? 
+Are you sure you want to make {0} the party leader?
 
 Are you sure you want to expel {0} from the party?
 
