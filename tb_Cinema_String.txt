@@ -1,5 +1,5 @@
-バ、バトルシミュレーション？そんな話聞いてないよ…。
-お？いきなりバトルシミュレーション？話が早いじゃん。
+A b-b-battle mission? I didn't hear anything about that...
+Oh? Starting off with a battle mission? You sure don't waste time.
 バトルシミュレーション？フンッ、野蛮なテストですこと。
 예, 예! 준비 완료입니다!
 근데 배틀 시뮬레이션이 뭡니까?
@@ -8,25 +8,25 @@
 0
 0
 
-ちょ、ちょっと待ってください！また……？
-しかもいっぱいいるし…
-ロボット…？
+Ho-hold on please! This again...?
+And there's a lot of them, too...
+Robots...?
 あれ、ちゃんと動くのか？
-何ですの？あのゴミの塊は。
+What's that pile of junk over there?
 PC 4 시네마토크 테스트입니다.
 PC 5 シネマトークテスト
 PC 6 시네마토크 테스트입니다.
 0
 0
 
-ひぃ～！！じょ、冗談ですよね！？
-あ、あんなのと本当に戦うんですか！？
-ハハ、なんだあのアホ面！ぶっ壊してやるぜ！
-はぁ、そろそろ飽きてきましたわ。
-休みたいのでさっさと終らせましょう。
+Eeeek!! Are you kidding me!?
+A-am I really going to be fighting THAT thing!?
+Haha, what's up with that dumb look? I'm going to break ya!
+Haah, I'm getting tired of this.
+I want to take a break so let's hurry up and get this over with.
 어, 엄청 크고 비싸 보이는 로봇이군요.
 …저거 진짜 때려도 되는 겁니까?
-ふおぉ！おっきいロボットさん。
+Whoa! It's a giant robot!
 0
 0
 0
@@ -35,7 +35,7 @@ PC 6 시네마토크 테스트입니다.
 ハハハ！オラオラ！それでこそ壊しがいがあるってもんだぜ！！
 …あ、ああ…！何！？…何かが！！
 불안한데… 나중에 변상하라고 할 것 같아….
-みんなも楽しいって言ってるよ。
+Everyone's saying that it's fun.
 0
 0
 0
