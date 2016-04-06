@@ -643,7 +643,7 @@ Do you accept this party invitation?
 If you leave the party, you will be teleported to town.
 Are you sure you want to leave the party?
 
-You have left the party. Moving to town
+You have left the party. Moving to town.
 ({0} seconds remaining)
 
 Are you sure you want to make {0} the party leader?
