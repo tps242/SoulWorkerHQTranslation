@@ -2044,7 +2044,7 @@ Received friend request from {0}
 
 Completion Rate
 
-{0}占有率{1}%達成    
+{0} Completion Rate:{1}% 
 
 Unlearned
 
