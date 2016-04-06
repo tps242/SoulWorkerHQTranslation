@@ -2206,56 +2206,56 @@ A girl who exerts an ability to display sorrow as a medium. She is oblivious and
 
 A girl who exerts an ability to control rage as a medium. Although she tries to direct her anger in this insane world, what reverbates back to her is only her voice and sense of emptiness.
 
-プレビュー
+Preview
 
-アバタープレビュー
+Avatar preview
 
-武器プレビュー
+Weapon preview
 
-音声試聴
+Listen to Voice
 
-聞く
+Listen
 
-動作プレビュー
+Preview
 
-再生
+Playback
 
-外見選択
+Select Apperance
 
-ヘアスタイル・カラー
+Hairstyle Color
 
-アイカラー
+Eye Color
 
-スキン
+Skin
 
-基本衣装選択
+Costume Selection
 
-下着
+Underwear
 
-作成完了
+Finish Creation
 
-戻る
+Return
 
-キャラクター名
+Character Name
 
-2～12文字入力可能
+2 to 12 characters can be used.
 
-初期化
+Start
 
-ランダム
+Random
 
-キャラクタースタイル設定
+Character Style Settings
 
-<font color='#FFFFFF'><font size="30">TIP：</font>基本的な装備アイテムは、各町にいる<font color='#00ff9c'>ジャイト</font>の装備商店で購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>The basic equipment items in each town's <font color='#00ff9c'>equipment store</font>can be bought.
 
-<font color='#FFFFFF'><font size="30">TIP：</font>基本的な消費アイテムは、各町にいる<font color='#00ff9c'>ヨミ</font>の雑貨商店で購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>The basic consumable items in each town's <font color='#00ff9c'>general merchandise store</font>can be bought.
 
-<font color='#FFFFFF'><font size="30">TIP：</font>町の商店で、武器の耐久度を回復する<font color='#00D8FF'>[修理]</font>や、各種素材を入手できるアイテムの<font color='#00D8FF'>[分解]</font>ができます。
+<font color='#FFFFFF'><font size="30">TIP：</font>The various shops in town can<font color='#00D8FF'>[repair]</font> your equipment or <font color='#00D8FF'>[dismantle]</font> them.
 
-<font color='#FFFFFF'><font size="30">TIP：</font>商店などの機能性NPCを利用すると、<font color='#00D8FF'>[顧客等級]</font>が上昇します。
-顧客等級のレベルによって、様々な特典が付与されます。
+<font color='#FFFFFF'><font size="30">TIP：</font>If you make a purchase from a NPC Shop, your<font color='#00D8FF'>[customer grade]</font> will rise.
+Determining on the customer grade level obtained, various benefits and additional items can be offered.
 
-<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>[トリシャ]</font>の所で、武器・ギアの<font color='#00D8FF'>[強化][交換]</font>ができます。
+<font color='#FFFFFF'><font size="30">TIP：</font><font color='#00ff9c'>In [トリシャ]</font>You can <font color='#00D8FF'>[exchange][enhance]</font> materials/equipments.
 
 <font color='#FFFFFF'><font size="30">TIP：</font>装備品は<font color='#00D8FF'>強化</font>を通してアップグレードしたり、<font color='#00D8FF'>分解</font>を通して
 別の装備品の強化・製作アイテムを入手することもできます。
@@ -2387,7 +2387,7 @@ NPCの頭上やミニマップ上に表示されます。
 
 <font color='#FFFFFF'><font size="30">TIP：</font>基本的な装備アイテムは、各町にいる<font color='#00ff9c'>ジャイト</font>の装備商店で購入できます。
 
-<font color='#FFFFFF'><font size="30">TIP：</font>基本的な消費アイテムは、各町にいる<font color='#00ff9c'>ヨミ</font>の雑貨商店で購入できます。
+<font color='#FFFFFF'><font size="30">TIP：</font>基本的な消費アイテムは、各町にいる<font color='#00ff9c'>general merchandise store</font>の雑貨商店で購入できます。
 
 <font color='#FFFFFF'><font size="30">TIP：</font>町の商店で、武器の耐久度を回復する<font color='#00D8FF'>[修理]</font>や、各種素材を入手できるアイテムの<font color='#00D8FF'>[分解]</font>ができます。
 
