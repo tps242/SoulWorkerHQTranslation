@@ -209,204 +209,204 @@ Icon/Buff/Icon_Common_Debuff_Poison
 Poisoned
 
 Shocked Lv1
-HPが1%ずつ減少する。
+HP is reduced by 1%
 Icon/Buff/Icon_Common_Debuff_Shock
-感電
+Shock
 
-ビリビリLv2
-HPが2%ずつ減少する。
+Shocked Lv2
+HP is reduced by 2%
 Icon/Buff/Icon_Common_Debuff_Shock
-感電
+Shock
 
-ビリビリLv3
-HPが3%ずつ減少する。
+Shocked Lv3
+HP is reduced by 3%
 Icon/Buff/Icon_Common_Debuff_Shock
-感電
+Shock
 
-ビリビリLv4
-HPが4%ずつ減少する。
+Shocked Lv4
+HP is reduced by 4%
 Icon/Buff/Icon_Common_Debuff_Shock
-感電
+Shock
 
-ビリビリLv5
-HPが5%ずつ減少する。
+Shocked Lv5
+HP is reduced by 5%
 Icon/Buff/Icon_Common_Debuff_Shock
-感電
+Shock
 
-ビリビリLv6
-HPが6%ずつ減少する。
+Shocked Lv6
+HP is reduced by 6%
 Icon/Buff/Icon_Common_Debuff_Shock
-感電
+Shock
 
-ビリビリLv7
-HPが7%ずつ減少する。
+Shocked Lv7
+HP is reduced by 7%
 Icon/Buff/Icon_Common_Debuff_Shock
-感電
+Shock
 
-ビリビリLv8
-HPが8%ずつ減少する。
+Shocked Lv8
+HP is reduced by 8%
 Icon/Buff/Icon_Common_Debuff_Shock
-感電
+Shock
 
-ビリビリLv9
-HPが9%ずつ減少する。
+Shocked Lv9
+HP is reduced by 9%
 Icon/Buff/Icon_Common_Debuff_Shock
-感電
+Shock
 
-ビリビリLv10
-HPが10%ずつ減少する。
+Shocked Lv10
+HP is reduced by 10%
 Icon/Buff/Icon_Common_Debuff_Shock
-感電
+Shock
 
-出血Lv1
-HPが1%ずつ減少する。
+Bleeding v1
+HP is reduced by 1%
 Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+Bleeding 
 
-出血Lv2
-HPが2%ずつ減少する。
+Bleeding v2
+HP is reduced by 2%
 Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+Bleeding 
 
-出血Lv3
-HPが3%ずつ減少する。
+Bleeding v3
+HP is reduced by 3%
 Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+Bleeding 
 
-出血Lv4
-HPが4%ずつ減少する。
+Bleeding v4
+HP is reduced by 4%
 Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+Bleeding 
 
-出血Lv5
-HPが5%ずつ減少する。
+Bleeding v5
+HP is reduced by 5%
 Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+Bleeding 
 
-出血Lv6
-HPが6%ずつ減少する。
+Bleeding v6
+HP is reduced by 6%
 Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+Bleeding 
 
-出血Lv7
-HPが7%ずつ減少する。
+Bleeding v7
+HP is reduced by 7%
 Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+Bleeding 
 
-出血Lv8
-HPが8%ずつ減少する。
+Bleeding v8
+HP is reduced by 8%
 Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+Bleeding 
 
-出血Lv9
-HPが9%ずつ減少する。
+Bleeding v9
+HP is reduced by 9%
 Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+Bleeding 
 
-出血Lv10
-HPが10%ずつ減少する。
+Bleeding v10
+HP is reduced by 10%
 Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+Bleeding 
 
-気絶Lv1
-0.5秒間、気絶効果を受ける。
+Fainted v1
+For 0.5 seconds, receive a stun effect.
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
-気絶Lv2
-1秒間、気絶効果を受ける。
+Fainted v2
+For 1 seconds, receive a stun effect.
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
-気絶Lv3
-1.5秒間、気絶効果を受ける。
+Fainted v3
+For 1.5 seconds, receive a stun effect.
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
-気絶Lv4
-2秒間、気絶効果を受ける。
+Fainted v4
+For 2 seconds, receive a stun effect.
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
-気絶Lv5
-2.5秒間、気絶効果を受ける。
+Fainted v5
+For 2.5 seconds, receive a stun effect.
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
-気絶Lv6
-3秒間、気絶効果を受ける。
+Fainted v6
+For 3 seconds, receive a stun effect.
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
-気絶Lv7
-3.5秒間、気絶効果を受ける。
+Fainted v7
+For 3.5 seconds, receive a stun effect.
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
-気絶Lv8
-4秒間、気絶効果を受ける。
+Fainted v8
+For 4 seconds, receive a stun effect.
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
-気絶Lv9
-4.5秒間、気絶効果を受ける。
+Fainted v9
+For 4.5 seconds, receive a stun effect.
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
-気絶Lv10
-5秒間、気絶効果を受ける。
+Fainted v10
+For 5 seconds, receive a stun effect.
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
-麻痺Lv1
-0.5秒間、キャラクターが動けなくなる。
+Paralyzed v1
+For 0.5 seconds, character is immobilized.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
-麻痺Lv2
-1秒間、キャラクターが動けなくなる。
+Paralyzed v2
+For 1.0 second, character is immobilized.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
-麻痺Lv3
-1.5秒間、キャラクターが動けなくなる。
+Paralyzed v3
+For 1.5 seconds, character is immobilized.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
-麻痺Lv4
-2秒間、キャラクターが動けなくなる。
+Paralyzed v4
+For 2 seconds, character is immobilized.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
-麻痺Lv5
-2.5秒間、キャラクターが動けなくなる。
+Paralyzed v5
+For 2.5 seconds, character is immobilized.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
-麻痺Lv6
-3秒間、キャラクターが動けなくなる。
+Paralyzed v6
+For 3 seconds, character is immobilized.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
-麻痺Lv7
-3.5秒間、キャラクターが動けなくなる。
+Paralyzed v7
+For 3.5 seconds, character is immobilized.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
-麻痺Lv8
-4秒間、キャラクターが動けなくなる。
+Paralyzed v8
+For 4 seconds, character is immobilized.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
-麻痺Lv9
-4.5秒間、キャラクターが動けなくなる。
+Paralyzed v9
+For 4.5 seconds, character is immobilized.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
-麻痺Lv10
-5秒間、キャラクターが動けなくなる。
+Paralyzed v10
+For 5 seconds, character is immobilized.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
 睡眠Lv1
 0.5秒間、キャラクターが睡眠状態になり、攻撃されると状態異常が解除される。
@@ -750,37 +750,37 @@ Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 スライドステップ特性BⅠ
-中毒状態になり重複数によってHPが1%ずつ減少する。
+中毒状態になり重複数によってHP is reduced by %
 Icon/Buff/Icon_Common_Debuff_Poison
 中毒
 
 スライドステップ特性BⅡ
-中毒状態になり重複数によってHPが2%ずつ減少する。
+中毒状態になり重複数によってHP is reduced by %
 Icon/Buff/Icon_Common_Debuff_Poison
 中毒
 
 スライドステップ特性BⅢ
-中毒状態になり重複数によってHPが5%ずつ減少する。
+中毒状態になり重複数によってHP is reduced by %
 Icon/Buff/Icon_Common_Debuff_Poison
 中毒
 
 ネイボムファームⅠ
-火傷状態になりHPが3%ずつ減少する。
+火傷状態になりHP is reduced by %
 Icon/Buff/Icon_Common_Debuff_Burn
 火傷
 
 ネイボムファームⅡ
-火傷状態になりHPが4%ずつ減少する。
+火傷状態になりHP is reduced by %
 Icon/Buff/Icon_Common_Debuff_Burn
 火傷
 
 ネイボムファームⅢ
-火傷状態になりHPが6%ずつ減少する。
+火傷状態になりHP is reduced by %
 Icon/Buff/Icon_Common_Debuff_Burn
 火傷
 
 ネイボムファームⅣ
-火傷状態になりHPが8%ずつ減少する。
+火傷状態になりHP is reduced by %
 Icon/Buff/Icon_Common_Debuff_Burn
 火傷
 
@@ -790,19 +790,19 @@ Icon/Buff/Icon_Common_Debuff_Burn
 火傷
 
 ガイデッドショット特性AⅠ
-出血状態になりHPが2%ずつ減少する。
+Bleeding 態になりHP is reduced by %
 Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+Bleeding 
 
 ガイデッドショット特性AⅡ
-出血状態になりHPが3%ずつ減少する。
+Bleeding 態になりHP is reduced by %
 Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+Bleeding 
 
 ガイデッドショット特性AⅢ
-出血状態になりHPが4%ずつ減少する。
+Bleeding 態になりHP is reduced by %
 Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+Bleeding 
 
 ガイデッドショット特性BⅠ
 4秒間、防御度が10%減少する。
@@ -1104,9 +1104,9 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ディケードパルス
-1秒間、キャラクターが動けなくなる。
+For seconds, character is immobilized.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
 ディケードパルスⅡ
 防御度が30%減少する。
@@ -1254,7 +1254,7 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 ソウルスクリーム
-周囲の敵を麻痺状態にする。
+周囲の敵をParalyzed 態にする。
 Icon/Buff/Icon_Common_Buff_Sarmor
 バリア
 
@@ -1709,12 +1709,12 @@ Icon/Buff/Icon_Common_Buff_ATK
 攻撃増加
 
 中毒
-3秒間、HPが2%ずつ減少する。
+3秒間、HP is reduced by %
 Icon/Buff/Icon_Common_Debuff_Poison
 中毒
 
 中毒
-5秒間、HPが2%ずつ減少する。
+5秒間、HP is reduced by %
 Icon/Buff/Icon_Common_Debuff_Poison
 中毒
 
@@ -1734,14 +1734,14 @@ Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 ヘロヘロ
-6秒間、気絶状態になる。
+6秒間、Fainted 態になる。
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
 ヘロヘロ
-10秒間、気絶状態になる。
+10秒間、Fainted 態になる。
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
 血の怒り
 1分間、攻撃力が100%上昇する。
@@ -1799,14 +1799,14 @@ Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
 過負荷
-少しの間、テンペストの全機能が麻痺する。
+少しの間、テンペストの全機能がParalyzed る。
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
 過負荷
-少しの間、テンペストの全機能が麻痺する。
+少しの間、テンペストの全機能がParalyzed る。
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
 バンパイア
 敵に与えたダメージの一定比率分、HPが回復する。
@@ -1828,10 +1828,10 @@ Icon/Buff/Icon_Common_Buff_MSR
 Icon/Buff/Icon_Common_Buff_ATK
 攻撃力増加
 
-麻痺
-2秒間、麻痺状態になる。
+Paralysis
+2秒間、Paralyzed 態になる。
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
 鈍化
 10秒間、移動速度が減少する。
@@ -1848,10 +1848,10 @@ Icon/Buff/Icon_Common_DeBuff_ATK
 Icon/Buff/Icon_Common_Debuff_Poison
 中毒
 
-麻痺
-30秒間、キャラクターが動けなくなる。
+Paralysis
+3For seconds, character is immobilized.
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
 中毒
 30秒間、中毒効果を受ける。
@@ -1908,11 +1908,11 @@ Icon/Buff/Icon_Common_Buff_ATK
 Icon/Buff/Icon_Common_Buff_ATK
 -
 
-出血
-HPが1%ずつ減少する。
+Bleeding 
+HP is reduced by %
 効果は10秒間持続する。
 Icon/Buff/Icon_Common_Debuff_Bleed
-出血
+Bleeding 
 
 ベタベタ粘液
 移動速度が60%減少する。
@@ -2024,10 +2024,10 @@ HP70%減少
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP減少
 
-プレイヤー麻痺
-麻痺状態になる。
+プレイヤーParalysis
+Paralyzed 態になる。
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
 プレイヤーHP減少
 毎秒HPが減少する。
@@ -2039,10 +2039,10 @@ HP15%減少
 Icon/Buff/Icon_Common_Debuff_Bleed
 HP減少
 
-プレイヤー感電
-3秒間、感電状態にする。
+プレイヤーShock
+3秒間、Shock状態にする。
 Icon/Buff/Icon_Common_Debuff_Shock
-感電
+Shock
 
 HP減少
 HP30%減少
@@ -2120,9 +2120,9 @@ Icon/Buff/Icon_Common_Buff_Immun
 無敵
 
 行動不能
-演出用_麻痺_3秒
+演出用_Paralyzed 3秒
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
 HP減少
 1秒ごとにHP5%減少3秒間維持
@@ -2139,10 +2139,10 @@ HP回復
 Icon/Buff/Icon_Common_Buff_HP_Recovery
 HP回復
 
-気絶
-10秒間、気絶状態になる。
+Fainted
+10秒間、Fainted 態になる。
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
 無敵
 ダメージを受けなくなる。
@@ -2185,9 +2185,9 @@ Icon/Buff/Icon_Common_Debuff_MSR
 移動速度減少
 
 HP減少
-3秒間、感電状態となりHPが減少する。
+3秒間、Shock状態となりHPが減少する。
 Icon/Buff/Icon_Common_Debuff_Shock
-感電
+Shock
 
 HP減少
 2秒ごとにHP5%減少
@@ -2229,10 +2229,10 @@ Icon/Buff/Icon_Common_Debuff_Def
 Icon/Buff/Icon_Common_Debuff_Poison
 中毒
 
-麻痺
-少しの間、麻痺状態になり動けなくなる。
+Paralysis
+少しの間、Paralyzed 態になり動けなくなる。
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
 鈍化
 1時間、移動速度が減少する。
@@ -2275,9 +2275,9 @@ Icon/Buff/Icon_Common_Debuff_Charm
 魅惑
 
 女王の威厳
-5秒間、麻痺状態になり動けなくなる。
+5秒間、Paralyzed 態になり動けなくなる。
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
 プロの整備術
 装着時、5秒ごとにHPが500ずつ回復する。
@@ -2352,7 +2352,7 @@ Icon/Buff/Icon_Common_Buff_ATK
 一挙入魂Lv1
 攻撃成功時、一般・エリートモンスターに1%の確率で1秒間、スタン効果を付与する。
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
 疾走チュウLv1
 装着時、一定時間毎に10%の確率で2秒間、移動速度が10%増加する。
@@ -3805,9 +3805,9 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 HP減少
 
 行動不能
-3秒間、麻痺効果
+3秒間、Paralyzed 果
 Icon/Buff/Icon_Common_Debuff_Paralysis
-麻痺
+Paralysis
 
 HP減少
 HP50%減少
@@ -3845,9 +3845,9 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 HP減少
 
 行動不能
-10秒間、気絶効果
+10秒間、Fainted 果
 Icon/Buff/Icon_Common_Debuff_Stun
-気絶
+Fainted
 
 強化
 10秒間、攻撃力と防御度が30%上昇
@@ -4005,9 +4005,9 @@ Icon/Buff/Icon_Common_Debuff_Bleed
 HP減少
 
 行動不能
-10秒間、感電効果発生
+10秒間、Shock効果発生
 Icon/Buff/Icon_Common_Debuff_Shock
-感電
+Shock
 
 HP減少
 1秒ごとにHP15%ずつ3秒間減少
