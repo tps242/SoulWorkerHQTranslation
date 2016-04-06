@@ -4,221 +4,222 @@ null
 0
 0
 
-基本攻撃マスタリーⅠ
-[スキル情報]
-剣で敵を攻撃する。
-スキルレベルが上がるほど連係攻撃の種類が増加する。
-攻撃時、SGを獲得。
-SG獲得量は連係段階とモンスター等級に応じて増加する。
+Basic Attack Mastery-Ⅰ
+[Skill Information]
+Attack the enemies with the sword.
+As the skill level increases, the combo variation will also increase.
+SG will be gained on attacks.
+SG gain amount is affected by combo counter and monster grade.
 
-[操作方法：地上]
-マウス：(左クリック)×4
+[Controls : Ground]
+Mouse：(Left Click)×4
 
-[操作方法：空中]
-マウス：ジャンプ後(左クリック)×2
-SG獲得量が20%増加する。
-分岐攻撃Aを使用できる。
+[Controls：Air]
+Mouse：(Left Click)×2 after jumping
+SG gain amount is increased by 20%.
+Combo Variation A can be used.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
-基本攻撃マスタリーⅡ
-[スキル情報]
-剣で敵を攻撃する。
-スキルレベルが上がるほど連係攻撃の種類が増加する。
-攻撃時、SGを獲得。
-SG獲得量は連係段階とモンスター等級に応じて増加する。
+Basic Attack Mastery-Ⅱ
+[Skill Information]
+Attack the enemies with the sword.
+As the skill level increases, the combo variation will also increase.
+SG will be gained on attacks.
+SG gain amount is affected by combo counter and monster grade.
 
-SG獲得量が[20%]増加する。
+SG gain amount is increased by [20%].
 
-[操作方法：地上]
-マウス：
-[1](左クリック)×4
-[2](左クリック)×2-(右クリック)×2
+[Controls：Ground]
+Mouse：
+[1](Left Click)×4
+[2](Left Click)×2-(Right Click)×2
 
-[操作方法：空中]
-マウス：ジャンプ後(左クリック)×2
-SG獲得量[20%]+50%
-基本攻撃の追加攻撃を使用できる。
+[Controls：Air]
+Mouse：(Left Click)×2 after jumping
+SG gain : [20%]+50%
+Additional attack of the basic attack can be used.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
-基本攻撃マスタリーⅢ
-[スキル情報]
-剣で敵を攻撃する。
-スキルレベルが上がるほど連係攻撃の種類が増加する。
-攻撃時、SGを獲得。
-SG獲得量は連係段階とモンスター等級に応じて増加する。
+Basic Attack Mastery-Ⅲ
+[Skill Information]
+Attack the enemies with the sword.
+As the skill level increases, the combo variation will also increase.
+SG will be gained on attacks.
+SG gain amount is affected by combo counter and monster grade.
 
-SG獲得量が[70%]増加する。
+SG gain amount is increased by [70%].
 
-[操作方法：地上]
-マウス：
-[1](左クリック)×5
-[2](左クリック)×2-(右クリック)×2
+[Controls : Ground]
+Mouse：
+[1](Left Click)×5
+[2](Left Click)×2-(Right Click)×2
 
-[操作方法：空中]
-マウス：ジャンプ後(左クリック)×2
-SG獲得量：[70%]+50%
-分岐攻撃Bを使用できる。
-空中攻撃の追加攻撃を使用できる。
+[Controls : Air]
+Mouse：(Left Click)×2 while jumping
+SG gain：[70%]+50%
+Combo Variation B can be used.
+Additional attack of the jump basic attack can be used.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
-基本攻撃マスタリーⅣ
-[スキル情報]
-剣で敵を攻撃する。
-スキルレベルが上がるほど連係攻撃の種類が増加する。
-攻撃時、SGを獲得。
-SG獲得量は連係段階とモンスター等級に応じて増加する。
+Basic Attack Mastery-Ⅳ
+[Skill Information]
+Attack the enemies with the sword.
+As the skill level increases, the combo variation will also increase.
+SG will be gained on attacks.
+SG gain amount is affected by combo counter and monster grade.
 
-SG獲得量が[120%]増加する。
 
-[操作方法：地上]
+SG gain amount is increased by [120%].
+
+[Controls : Ground]
 マウス：
-[1](左クリック)×5
-[2](左クリック)×2-(右クリック)×2
-[3](左クリック)×3-(右クリック)×3
+[1](Left Click)×5
+[2](Left Click)×2-(Right Click)×2
+[3](Left Click)×3-(Right Click)×3
 
-[操作方法：空中]
-マウス：ジャンプ後(左クリック)×3
-SG獲得量[120%]+80%
-分岐攻撃Cを使用できる。
+[Controls : Air]
+Mouse：(Left Click)×3 while jumping
+SG gain: [120%]+80%
+Combo Variation C can be used.
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
-基本攻撃マスタリーⅤ
-[スキル情報]
-剣で敵を攻撃する。
-スキルレベルが上がるほど連係攻撃の種類が増加する。
-攻撃時、SGを獲得。
-SG獲得量は連係段階とモンスター等級に応じて増加する。
+Basic Attack Mastery-Ⅴ
+[Skill Information]
+Attack the enemies with the sword.
+As the skill level increases, the combo variation will also increase.
+SG will be gained on attacks.
+SG gain amount is affected by combo counter and monster grade.
 
-SG獲得量が[200%]増加する。
+SG gain amount is increased by [200%].
 
-[操作方法：地上]
-マウス：
-[1](左クリック)×5
-[2](左クリック)×2-(右クリック)×2
-[3](左クリック)×3-(右クリック)×3
-[4](左クリック)×2-(右クリック)-(右クリック長押し)
+[Controls：Ground]
+Mouse：
+[1](Left Click)×5
+[2](Left Click)×2-(Right Click)×2
+[3](Left Click)×3-(Right Click)×3
+[4](Left Click)×2-(Right Click)-(Hold Right Click)
 
-[操作方法：空中]
-マウス：ジャンプ後(左クリック)×3
+[Controls : Air]
+Mouse：(Left Click)×3 while jumping
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DefaultAttack
 0
 
-特殊能力マスタリーⅠ
-[スキル情報：地上]
-ダメージ量：[175%]
-SA破壊量：[140%]
+Special Attack Mastery-Ⅰ
+[Skill Information : Ground]
+Damage：[175%]
+SA Destruction：[140%]
 
-[スキル情報：空中]
-ダメージ量：[229%]
-SA破壊量：[170%]
+[Skill Information : Air]
+Damage：[229%]
+SA Destruction：[170%]
 
-[スキル情報：一般]
-クールタイム：[10秒]
-攻撃時、SGを獲得。
-SG獲得量はモンスター等級に応じて増加する。
+[Skill Information : Normal]
+Cooldown：[10 sec]
+Gains SG on hit.
+SG gain amount is affected by combo counter and monster grade.
 
-異能力により一定範囲内の敵を宙に浮かせ、動きを遅くする。
-空中で使用時、素早く蹴り攻撃を繰り出して着地する。
+With supernatural powers, lift up the enemies in a cone range, slowing their movement.
+When used while jumping, Haru performs a rapid kick towards the ground.
 
-[操作方法：地上]
-マウス：(右クリック)
+[Controls : Ground]
+Mouse：(Right Click)
 
-[操作方法：空中]
-マウス：ジャンプ後(右クリック)
-[地上]
-ダメージ量：[175%]+9%
-SA破壊量：[140%]+7%
+[Controls : Air]
+Mouse: (Right Click) while jumping
+[Ground]
+Damage：[175%]+9%
+SA Destruction：[140%]+7%
 
-[空中]
-ダメージ量：[229%]+12%
-SA破壊量：[170%]+8%
-浮かし攻撃の高さが若干増加する。
+[Air]
+Damage：[229%]+12%
+SA Destruction：[170%]+8%
+The lifting height will slightly increase.
 
-[共通]
-SG獲得量が20%増加する。
+[Normal]
+SG gain amount is increased by 20%.
 Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
 
-空中特殊攻撃
+Aerial Special Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 0
 
-特殊能力マスタリーⅡ
-[スキル情報：地上]
-ダメージ量：[184%]
-SA破壊量：[147%]
+Special Attack Mastery-Ⅱ
+[Skill Information : Ground]
+Damage：[184%]
+SA Destruction：[147%]
 
-[スキル情報：空中]
-ダメージ量：[241%]
-SA破壊量：[178%]
+[Skill Information : Air]
+Damage：[241%]
+SA Destruction：[178%]
 
-[スキル情報：一般]
-クールタイム：[10秒]
-攻撃時、SG獲得量が[20%]増加する。
-SG獲得量はモンスター等級に応じて増加する。
+[Skill Information : Normal]
+Cooldown：[10 sec]
+SG gain amount on attacks will increase.
+SG gain amount is affected by combo counter and monster grade.
 
-異能力により一定範囲内の敵を宙に浮かせ、動きを遅くする。
-空中で使用時、素早く蹴り攻撃を繰り出して着地する。
+With supernatural powers, lift up the enemies in a cone range, slowing their movement.
+When used while jumping, Haru performs a rapid kick towards the ground.
 
-[操作方法：地上]
-マウス：(右クリック)
+[Controls : Ground]
+Mouse：(Right Click)
 
-[操作方法：空中]
-マウス：ジャンプ後(右クリック)
-[地上]
-ダメージ量：[184%]+22%
-SA破壊量：[147%]+18%
+[Controls : Air]
+Mouse: (Right Click) while jumping
+[Ground]
+Damage：[184%]+22%
+SA Destruction：[147%]+18%
 
-[空中]
-ダメージ量：[241%]+29%
-SA破壊量：[178%]+22%
-浮かし攻撃の高さが若干増加する。
+[Air]
+Damage：[241%]+29%
+SA Destruction：[178%]+22%
+The lifting height will slightly increase.
 
-[共通]
-SG獲得量：[20%]+50%
+[Normal]
+SG gain：[20%]+50%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
 
-空中特殊攻撃
+Aerial Special Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
 0
 
-特殊能力マスタリーⅢ
-[スキル情報：地上]
-ダメージ量：[206%]
-SA破壊量：[165%]
+Special Attack Mastery-Ⅲ
+[Skill Information : Ground]
+Damage：[206%]
+SA Destruction：[165%]
 
-[スキル情報：空中]
-ダメージ量：[270%]
-SA破壊量：[200%]
+[Skill Information : Air]
+Damage：[270%]
+SA Destruction：[200%]
 
-[スキル情報：一般]
-クールタイム：[10秒]
-攻撃時、SG獲得量が[70%]増加する。
-SG獲得量はモンスター等級に応じて増加する。
+[Skill Information : Normal]
+Cooldown：[10 sec]
+SG gain amount on hit will increase by [70%].
+SG gain amount is affected by combo counter and monster grade.
 
-異能力により一定範囲内の敵を宙に浮かせ、動きを遅くする。
-空中で使用時、素早く蹴り攻撃を繰り出して着地する。
+With supernatural powers, lift up the enemies in a cone range, slowing their movement.
+When used while jumping, Haru performs a rapid kick towards the ground.
 
-[操作方法：地上]
-マウス：(右クリック)
+[Controls : Ground]
+Mouse：(Right Click)
 
-[操作方法：空中]
-マウス：ジャンプ後(右クリック)
+[Controls : Air]
+Mouse: (Right Click) while jumping
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_OwnAbility
 0
 
-空中特殊攻撃
+Aerial Special Attack
 -
 -
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponMastery
@@ -254,57 +255,57 @@ LvMax
 Icon/Skill/Common/Icon_Common_Skill_SubWeaponAttack
 0
 
-緊急回避Ⅰ
-[スキル情報]
-スタミナ消費量：[20]
+DodgeⅠ
+[Skill Information]
+Stamina Cost：[20]
 
-指定した方向に素早く移動する。
-緊急回避中はダメージを受けない。
+Quickly move towards the designated location.
+You are invulnerable to damage while dodging.
 
-[操作方法]
-マウス：
+[Controls]
+Mouse：
 [1](移動キー)+(Shiftキー)
 [2](移動キー)二回入力
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Evasion
 0
 
-回転起床Ⅰ
-[スキル情報]
-スタミナ消費量：[25]
+Rolling Up Ⅰ
+[Skill Information]
+Stamina Cost：[25]
 
-ダウン時、指定した方向に素早く回転しながら起き上がる。
-回転起床中はダメージを受けない。
+Roll towards the designated diretion from the knocked down state.
+You are invulnerable to damage while rolling.
 
-[操作方法]
-マウス：ダウン中(移動キー)+(Shiftキー)
-スタミナ消費量：[25]-10
+[Controls]
+Mouse：(Movement Key)+(Shift Key) during knocked down state
+Stamina Cost：[25]-10
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
-回転起床Ⅱ
-[スキル情報]
-スタミナ消費量：[15]
+Rolling Up Ⅱ
+[Skill Information]
+Stamina Cost：[15]
 
-ダウン時、指定した方向に素早く回転しながら起き上がる。
-回転起床中はダメージを受けない。
+Roll towards the designated diretion from the knocked down state.
+You are invulnerable to damage while rolling.
 
-[操作方法]
-マウス：ダウン中(移動キー)+(Shiftキー)
-回転起床の速度が上昇する。
+[Controls]
+Mouse：(Movement Key)+(Shift Key) during knocked down state
+Speed of getting back up will increase.
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
 
-回転起床Ⅲ
-[スキル情報]
-スタミナ消費量：[15]
-少し早く回転起床ができる。
+Rolling Up Ⅲ
+[Skill Information]
+Stamina Cost:[15]
+Rolling back up will now be faster.
 
-ダウン時、指定した方向に素早く回転しながら起き上がる。
-回転起床中はダメージを受けない。
+Roll towards the designated diretion from the knocked down state.
+You are invulnerable to damage while rolling.
 
-[操作方法]
-マウス：ダウン中(移動キー)+(Shiftキー)
+[Controls]
+Mouse：(Movement Key)+(Shift Key) during knocked down state
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Welter
 0
@@ -312,8 +313,8 @@ Icon/Skill/Common/Icon_Common_Skill_Welter
 ダッシュⅠ
 前方に素早くダッシュする。
 
-[操作方法]
-マウス：(前方移動キー)二回入力
+[Controls]
+Mouse:(前方移動キー)二回入力
 ダッシュの速度が上昇する。
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
@@ -321,37 +322,37 @@ Icon/Skill/Common/Icon_Common_Skill_Dash
 ダッシュⅡ
 前方に素早くダッシュする。
 
-[操作方法]
-マウス：(前方移動キー)二回入力
+[Controls]
+Mouse:(前方移動キー)二回入力
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_Dash
 0
 
 起床攻撃Ⅰ
 [スキル情報]
-ダメージ量：[100%]
-スタミナ消費量：[30]
-クールタイム：[15秒]
+Damage:[100%]
+Stamina Cost:[30]
+Cooldown:[15秒]
 スキル使用後1秒間、無敵状態になる。
 
 ダウン時、周辺の敵を攻撃しながら起き上がる。
 
-[操作方法]
+[Controls]
 マウス：ダウン中(左/右クリック)
-スタミナ消費量：[30]-10
+Stamina Cost:[30]-10
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 0
 
 起床攻撃Ⅱ
 [スキル情報]
-ダメージ量：[100%]
-スタミナ消費量：[20]
-クールタイム：[15秒]
+Damage:[100%]
+Stamina Cost:[20]
+Cooldown:[15秒]
 スキル使用後1秒間、無敵状態になる。
 
 ダウン時、周辺の敵を攻撃しながら起き上がる。
 
-[操作方法]
+[Controls]
 マウス：ダウン中(左/右クリック)
 無敵時間が2秒増加する。
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
@@ -359,14 +360,14 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 
 起床攻撃Ⅲ
 [スキル情報]
-ダメージ量：[100%]
-スタミナ消費量：[20]
-クールタイム：[15秒]
+Damage:[100%]
+Stamina Cost:[20]
+Cooldown:[15秒]
 スキル使用後3秒間、無敵状態になる。
 
 ダウン時、周辺の敵を攻撃しながら起き上がる。
 
-[操作方法]
+[Controls]
 マウス：ダウン中(左/右クリック)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_RiseAttack
@@ -374,14 +375,14 @@ Icon/Skill/Common/Icon_Common_Skill_RiseAttack
 
 ダッシュアタックⅠ
 [スキル情報]
-ダメージ量：[116%]
+Damage:[116%]
 SA破壊量：[46%]
 
 ダッシュ中に剣を大きく振り敵を押し出す。
 攻撃時、SGを獲得。
 SG獲得量は連係段階とモンスター等級に応じて増加する。
 
-[操作方法]
+[Controls]
 マウス：ダッシュ中(左クリック)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DashAttack
@@ -389,41 +390,41 @@ Icon/Skill/Common/Icon_Common_Skill_DashAttack
 
 特殊回避Ⅰ
 [スキル情報]
-スタミナ消費量：[40]
-クールタイム：[60秒]
+Stamina Cost:[40]
+Cooldown:[60秒]
 
 敵から攻撃を受けている最中に素早く移動する。
 特殊回避中はダメージを受けない。
 
-[操作方法]
+[Controls]
 マウス：ダメージ中(移動キー)+(Shiftキー)
-クールタイム：[50秒]-10秒
+Cooldown:[50秒]-10秒
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 特殊回避Ⅱ
 [スキル情報]
-スタミナ消費量：[40]
-クールタイム：[50秒]
+Stamina Cost:[40]
+Cooldown:[50秒]
 
 敵から攻撃を受けている最中に素早く移動する。
 特殊回避中はダメージを受けない。
 
-[操作方法]
+[Controls]
 マウス：ダメージ中(移動キー)+(Shiftキー)
-クールタイム：[50秒]-10秒
+Cooldown:[50秒]-10秒
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 0
 
 特殊回避Ⅲ
 [スキル情報]
-スタミナ消費量：[40]
-クールタイム：[40秒]
+Stamina Cost:[40]
+Cooldown:[40秒]
 
 敵から攻撃を受けている最中に素早く移動する。
 特殊回避中はダメージを受けない。
 
-[操作方法]
+[Controls]
 マウス：ダメージ中(移動キー)+(Shiftキー)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
@@ -431,15 +432,15 @@ Icon/Skill/Common/Icon_Common_Skill_EvasionAttack
 
 特殊ダッシュアタックⅠ
 [スキル情報]
-ダメージ量：[206%]
+Damage:[206%]
 SA破壊量：[92%]
-クールタイム：[5秒]
+Cooldown:[5秒]
 
 ダッシュ中に前方にジャンプして回転斬り攻撃を繰り出す。
 攻撃時、SGを獲得。
 SG獲得量は連係段階とモンスター等級に応じて増加する。
 
-[操作方法]
+[Controls]
 マウス：ダッシュ中(右クリック)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
@@ -452,7 +453,7 @@ Icon/Skill/Common/Icon_Common_Skill_DashSmashAttack
 
 敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。
 
-[操作方法]
+[Controls]
 マウス：ノックダウン中(Spacebarキー)
 スタミナ消費量が5減少する。
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
@@ -465,7 +466,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 
 敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。
 
-[操作方法]
+[Controls]
 マウス：ノックダウン中(Spacebarキー)
 スタミナ消費量が5減少する。
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
@@ -478,7 +479,7 @@ Icon/Skill/Common/Icon_Common_Skill_KDownCancle
 
 敵の攻撃によりノックダウン状態になった時、素早く起き上がり戦闘態勢をとる。
 
-[操作方法]
+[Controls]
 マウス：ノックダウン中(Spacebarキー)
 LvMax
 Icon/Skill/Common/Icon_Common_Skill_KDownCancle
@@ -566,145 +567,145 @@ Icon/Skill/Common/Icon_Common_Skill_StaminaMastery
 
 ファストブレードⅠ
 [スキル情報：基本攻撃]
-ダメージ量：[361%]
+Damage:[361%]
 SA破壊量：[194%]
 
 [スキル情報：追加攻撃]
-ダメージ量：[225%]
+Damage:[225%]
 SA破壊量：[121%]
 
 [スキル情報：一般]
 SG消費量：[55]
-クールタイム：[15秒]
+Cooldown:[15秒]
 
 素早く前進し、連続攻撃を繰り出す。
 その後、追加操作により最後に斬り上げ攻撃を行う。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
 
 [操作方法：追加攻撃]
 マウス：最後の攻撃後(右クリック)
 [通常攻撃]
-ダメージ量：[361%]+18%
+Damage:[361%]+18%
 SA破壊量：[194%]+9%
 
 [追加攻撃]
-ダメージ量：[225%]+12%
+Damage:[225%]+12%
 SA破壊量：[121%]+6%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
 ファストブレードⅡ
 [スキル情報：基本攻撃]
-ダメージ量：[379%]
+Damage:[379%]
 SA破壊量：[203%]
 
 [スキル情報：追加攻撃]
-ダメージ量：[237%]
+Damage:[237%]
 SA破壊量：[127%]
 
 [スキル情報：一般]
 SG消費量：[55]
-クールタイム：[15秒]
+Cooldown:[15秒]
 
 素早く前進し、連続攻撃を繰り出す。
 その後、追加操作により最後に斬り上げ攻撃を行う。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
 
 [操作方法：追加攻撃]
 マウス：最後の攻撃後(右クリック)
 [通常攻撃]
-ダメージ量：[379%]+45%
+Damage:[379%]+45%
 SA破壊量：[203%]+25%
 
 [追加攻撃]
-ダメージ量：[237%]+28%
+Damage:[237%]+28%
 SA破壊量：[127%]+15%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
 ファストブレードⅢ
 [スキル情報：基本攻撃]
-ダメージ量：[424%]
+Damage:[424%]
 SA破壊量：[228%]
 
 [スキル情報：追加攻撃]
-ダメージ量：[265%]
+Damage:[265%]
 SA破壊量：[142%]
 
 [スキル情報：一般]
 SG消費量：[55]
-クールタイム：[15秒]
+Cooldown:[15秒]
 
 素早く前進し、連続攻撃を繰り出す。
 その後、追加操作により最後に斬り上げ攻撃を行う。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
 
 [操作方法：追加攻撃]
 マウス：最後の攻撃後(右クリック)
 [通常攻撃]
-ダメージ量：[424%]+45%
+Damage:[424%]+45%
 SA破壊量：[228%]+24%
 
 [追加攻撃]
-ダメージ量：[265%]+29%
+Damage:[265%]+29%
 SA破壊量：[142%]+15%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
 ファストブレードⅣ
 [スキル情報：基本攻撃]
-ダメージ量：[469%]
+Damage:[469%]
 SA破壊量：[252%]
 
 [スキル情報：追加攻撃]
-ダメージ量：[294%]
+Damage:[294%]
 SA破壊量：[157%]
 
 [スキル情報：一般]
 SG消費量：[55]
-クールタイム：[15秒]
+Cooldown:[15秒]
 
 素早く前進し、連続攻撃を繰り出す。
 その後、追加操作により最後に斬り上げ攻撃を行う。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
 
 [操作方法：追加攻撃]
 マウス：最後の攻撃後(右クリック)
 [通常攻撃]
-ダメージ量：[469%]+72%
+Damage:[469%]+72%
 SA破壊量：[252%]+38%
 
 [追加攻撃]
-ダメージ量：[294%]+45%
+Damage:[294%]+45%
 SA破壊量：[157%]+24%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 0
 
 ファストブレードⅤ
 [スキル情報：基本攻撃]
-ダメージ量：[541%]
+Damage:[541%]
 SA破壊量：[290%]
 
 [スキル情報：追加攻撃]
-ダメージ量：[339%]
+Damage:[339%]
 SA破壊量：[181%]
 
 [スキル情報：一般]
 SG消費量：[55]
-クールタイム：[15秒]
+Cooldown:[15秒]
 
 素早く前進し、連続攻撃を繰り出す。
 その後、追加操作により最後に斬り上げ攻撃を行う。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
 
 [操作方法：追加攻撃]
@@ -715,78 +716,78 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_FirstBlade
 
 ピアスステップⅠ
 [スキル情報]
-ダメージ量：[83%]
+Damage:[83%]
 SA破壊量：[330%]
 SG消費量：[30]
-クールタイム：[8秒]
+Cooldown:[8秒]
 
 前方に素早く突進して敵を押し出す。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
-ダメージ量：[83%]+4%
+Damage:[83%]+4%
 SA破壊量：[330%]+17%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ピアスステップⅡ
 [スキル情報]
-ダメージ量：[87%]
+Damage:[87%]
 SA破壊量：[347%]
 SG消費量：[30]
-クールタイム：[8秒]
+Cooldown:[8秒]
 
 前方に素早く突進して敵を押し出す。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
-ダメージ量：[87%]+10%
+Damage:[87%]+10%
 SA破壊量：[347%]+41%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ピアスステップⅢ
 [スキル情報]
-ダメージ量：[97%]
+Damage:[97%]
 SA破壊量：[388%]
 SG消費量：[30]
-クールタイム：[8秒]
+Cooldown:[8秒]
 
 前方に素早く突進して敵を押し出す。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
-ダメージ量：[97%]+11%
+Damage:[97%]+11%
 SA破壊量：[388%]+41%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ピアスステップⅣ
 [スキル情報]
-ダメージ量：[108%]
+Damage:[108%]
 SA破壊量：[429%]
 SG消費量：[30]
-クールタイム：[8秒]
+Cooldown:[8秒]
 
 前方に素早く突進して敵を押し出す。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
-ダメージ量：[108%]+16%
+Damage:[108%]+16%
 SA破壊量：[429%]+66%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 0
 
 ピアスステップⅤ
 [スキル情報]
-ダメージ量：[124%]
+Damage:[124%]
 SA破壊量：[495%]
 SG消費量：[30]
-クールタイム：[8秒]
+Cooldown:[8秒]
 
 前方に素早く突進して敵を押し出す。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
@@ -794,78 +795,78 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_PierceStep
 
 スピンカッターⅠ
 [スキル情報]
-ダメージ量：[178%]
+Damage:[178%]
 SA破壊量：[92%]
 SG消費量：[35]
-クールタイム：[5秒]
+Cooldown:[5秒]
 
 体を素早く回転させ、前方の敵を連続で攻撃しながら押し出す。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
-ダメージ量：[178%]+9%
+Damage:[178%]+9%
 SA破壊量：[92%]+4%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 スピンカッターⅡ
 [スキル情報]
-ダメージ量：[187%]
+Damage:[187%]
 SA破壊量：[96%]
 SG消費量：[35]
-クールタイム：[5秒]
+Cooldown:[5秒]
 
 体を素早く回転させ、前方の敵を連続で攻撃しながら押し出す。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
-ダメージ量：[187%]+22%
+Damage:[187%]+22%
 SA破壊量：[96%]+12%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 スピンカッターⅢ
 [スキル情報]
-ダメージ量：[209%]
+Damage:[209%]
 SA破壊量：[108%]
 SG消費量：[35]
-クールタイム：[5秒]
+Cooldown:[5秒]
 
 体を素早く回転させ、前方の敵を連続で攻撃しながら押し出す。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
-ダメージ量：[209%]+22%
+Damage:[209%]+22%
 SA破壊量：[108%]+11%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 スピンカッターⅣ
 [スキル情報]
-ダメージ量：[231%]
+Damage:[231%]
 SA破壊量：[119%]
 SG消費量：[35]
-クールタイム：[5秒]
+Cooldown:[5秒]
 
 体を素早く回転させ、前方の敵を連続で攻撃しながら押し出す。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
-ダメージ量：[231%]+36%
+Damage:[231%]+36%
 SA破壊量：[119%]+19%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 0
 
 スピンカッターⅤ
 [スキル情報]
-ダメージ量：[267%]
+Damage:[267%]
 SA破壊量：[138%]
 SG消費量：[35]
-クールタイム：[5秒]
+Cooldown:[5秒]
 
 体を素早く回転させ、前方の敵を連続で攻撃しながら押し出す。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
@@ -876,11 +877,11 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_SpinCutter
 バフ効果：スタミナ消費量[50%]減少
 バフ持続時間：[6秒]
 SG消費量：[80]
-クールタイム：[45秒]
+Cooldown:[45秒]
 
 異能力の力で身体を強化し、一時的にスタミナ消費量を減少させる。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
 バフ持続時間：[6秒]+2秒
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
@@ -891,11 +892,11 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 バフ効果：スタミナ消費量[50%]減少
 バフ持続時間：[8秒]
 SG消費量：[80]
-クールタイム：[45秒]
+Cooldown:[45秒]
 
 異能力の力で身体を強化し、一時的にスタミナ消費量を減少させる。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
 スタミナ消費量減少：[50%]+10%
 バフ持続時間：[8秒]+2秒
@@ -907,11 +908,11 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 バフ効果：スタミナ消費量[60%]減少
 バフ持続時間：[10秒]
 SG消費量：[80]
-クールタイム：[45秒]
+Cooldown:[45秒]
 
 異能力の力で身体を強化し、一時的にスタミナ消費量を減少させる。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
 スタミナ消費量減少：[60%]+10%
 バフ持続時間：[10秒]+2秒
@@ -923,11 +924,11 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 バフ効果：スタミナ消費量[70%]減少
 バフ持続時間：[12秒]
 SG消費量：[80]
-クールタイム：[45秒]
+Cooldown:[45秒]
 
 異能力の力で身体を強化し、一時的にスタミナ消費量を減少させる。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
 スタミナ消費量減少：[70%]+10%
 バフ持続時間：[12秒]+3秒
@@ -939,11 +940,11 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 バフ効果：スタミナ消費量[80%]減少
 バフ持続時間：[15秒]
 SG消費量：[80]
-クールタイム：[45秒]
+Cooldown:[45秒]
 
 異能力の力で身体を強化し、一時的にスタミナ消費量を減少させる。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
 LvMax
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
@@ -951,48 +952,48 @@ Icon/Skill/SoulumSword/Icon_SSword_Skill_BlowUp
 
 ブレードクエイクⅠ
 [スキル情報]
-ダメージ量：[212%]
+Damage:[212%]
 SA破壊量：[444%]
 SG消費量：[45]
-クールタイム：[16秒]
+Cooldown:[16秒]
 
 剣を地面に突き刺し、異能力の剣を召喚して連続攻撃を繰り出す。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
-ダメージ量：[212%]+11%
+Damage:[212%]+11%
 SA破壊量：[444%]+22%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
 
 ブレードクエイクⅡ
 [スキル情報]
-ダメージ量：[223%]
+Damage:[223%]
 SA破壊量：[466%]
 SG消費量：[45]
-クールタイム：[16秒]
+Cooldown:[16秒]
 
 剣を地面に突き刺し、異能力の剣を召喚して連続攻撃を繰り出す。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
-ダメージ量：[223%]+26%
+Damage:[223%]+26%
 SA破壊量：[466%]+56%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
 
 ブレードクエイクⅢ
 [スキル情報]
-ダメージ量：[249%]
+Damage:[249%]
 SA破壊量：[522%]
 SG消費量：[45]
-クールタイム：[16秒]
+Cooldown:[16秒]
 
 剣を地面に突き刺し、異能力の剣を召喚して連続攻撃を繰り出す。
 
-[操作方法]
+[Controls]
 スキルスロットに登録して該当キーを入力
-ダメージ量：[249%]+27%
+Damage:[249%]+27%
 SA破壊量：[522%]+55%
 Icon/Skill/SoulumSword/Icon_SSword_Skill_BladeQuake
 0
